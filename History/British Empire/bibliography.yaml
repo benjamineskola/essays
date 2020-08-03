@@ -1,0 +1,934 @@
+---
+references:
+- id: ajayi1988
+  author:
+    - family: Ajayi
+      given: J F A
+    - family: Ekoko
+      given: A E
+  container-title: 'Decolonization and African independence: the transfers of power, 1960–1980'
+  issued:
+    - year: 1988
+  page: 245–269
+  title: 'Transfer of power in Nigeria: its origins and consequences'
+  type: chapter
+  URL: 'https://readings.bbk.ac.uk/readings/A/Ajayi1988.pdf'
+
+- id: amin2012
+  author:
+    - family: Amin
+      given: Shahid
+  container-title: Selected subaltern studies
+  editor:
+    - family: Guha
+      given: Ranajit
+    - family: Spivak
+      given: Gayatri
+  issued:
+    - year: 2012
+      month: 11
+  page: 288–348
+  title: 'Gandhi as mahatma: Gorakhpur district, eastern UP, 1921-2'
+  type: chapter
+
+- id: 'Anonymous:cU-m_vlC'
+  event-place: Oxford
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: 'The oxford history of the british empire volume IV: The twentieth century'
+  type: book
+
+- id: 'Arnold:VZUd-mas'
+  title: Imperial medicine and indigenous societies
+  type: book
+
+- id: atmore1985
+  author:
+    - family: Atmore
+      given: A E
+  container-title: The cambridge history of africa
+  DOI: 10.1017/CHOL9780521228039.003
+  editor:
+    - family: Oliver
+      given: Roland
+    - family: Sanderson
+      given: G N
+  event-place: Cambridge
+  ISBN: 978-1-139-05460-7
+  issued:
+    - year: 1985
+  page: 10–95
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: Africa on the eve of partition
+  type: chapter
+  URL: >-
+    https://www-cambridge-org.ezproxy.lib.bbk.ac.uk/core/services/aop-cambridge-core/content/view/B1DB2DBE21D0415317817F387A35927A/9781139054607c1_p10-95_CBO.pdf/africa-on-the-eve-of-partition.pdf
+
+- id: bayly1988
+  author:
+    - family: Bayly
+      given: Christopher A
+  container-title: Indian society and the making of the British Empire
+  issued:
+    - year: 1988
+  page: 194–99
+  title: Consolidating the new raj
+  type: chapter
+  URL: 'https://readings.bbk.ac.uk/readings/B/Bayly1988.pdf'
+
+- id: bayly1996
+  author:
+    - family: Bayly
+      given: Christopher A
+  ISBN: 978-0-521-66360-1
+  issued:
+    - year: 1996
+  publisher: Cambridge University Press
+  title: >-
+    Empire and information: Intelligence gathering and social communication in
+    india
+  type: book
+  URL: >-
+    http://www.worldcat.org/title/empire-and-information-intelligence-gathering-and-social-communication-in-india-1780-1870/oclc/41465593
+
+- id: bayly1996a
+  author:
+    - family: Bayly
+      given: Christopher A
+  container-title: >-
+    Empire and information: Intelligence gathering and social communication in
+    India
+  ISBN: 978-0-521-66360-1
+  issued:
+    - year: 1996
+  page: 315–337
+  publisher: Cambridge University Press
+  title: 'The information order, the Rebellion of 1857-9, and pacification'
+  type: chapter
+  URL: 'https://readings.bbk.ac.uk/readings/B/BAYLY%201996.pdf'
+
+- id: bozzoli1983
+  author:
+    - family: Bozzoli
+      given: Belinda
+  container-title: Journal of South African Studies
+  DOI: 10.2307/2636298
+  issue: '2'
+  issued:
+    - year: 1983
+      month: 4
+  page: 139–171
+  title: 'Marxism, feminism and south african studies'
+  type: article-journal
+  URL: 'http://www.jstor.org/stable/2636298'
+  volume: '9'
+
+- id: bradford1996
+  author:
+    - family: Bradford
+      given: Helen
+  DOI: 10.1017/s0021853700035519
+  issue: '3'
+  issued:
+    - year: 1996
+  page: 351–370
+  title: >-
+    Women, gender and colonialism: rethinking the history of the British Cape
+    Colony and its frontier zones c. 1806–70
+  type: article-journal
+  volume: '37'
+
+- id: cain1980
+  author:
+    - family: Cain
+      given: P. J.
+    - family: Hopkins
+      given: A. G.
+  container-title: Economic History Review
+  DOI: 10.1111/j.1468-0289.1980.tb01171.x
+  issue: '4'
+  issued:
+    - year: 1980
+  page: 463–90
+  title: 'The political economy of British expansion overseas, 1750–1914'
+  type: article-journal
+  volume: '33'
+
+- id: cain1980a
+  author:
+    - family: Cain
+      given: Peter J
+  DOI: 10.1007/978-1-349-03591-5
+  event-place: London
+  ISBN: 978-1-349-03593-9
+  issued:
+    - year: 1980
+  publisher: Macmillan Education UK
+  publisher-place: London
+  title: Economic foundations of british overseas expansion 1815–1914
+  type: book
+  URL: 'http://link.springer.com/10.1007/978-1-349-03591-5'
+
+- id: cain1980b
+  author:
+    - family: Cain
+      given: Peter J
+  container-title: Theoretical approaches
+  DOI: 10.1007/978-1-349-03591-5_4
+  event-place: London
+  ISBN: 978-1-349-03593-9
+  issued:
+    - year: 1980
+  page: 22–26
+  publisher: Macmillan Education UK
+  publisher-place: London
+  title: British economic policy and the empire
+  type: chapter
+  URL: 'http://link.springer.com/10.1007/978-1-349-03591-5_4'
+
+- id: cain1980c
+  author:
+    - family: Cain
+      given: Peter J
+  container-title: Economic foundations of british overseas expansion 1815–1914
+  DOI: 10.1007/978-1-349-03591-5_7
+  event-place: London
+  ISBN: 978-1-349-03593-9
+  issued:
+    - year: 1980
+  page: 40–42
+  publisher: Macmillan Education UK
+  publisher-place: London
+  title: Economics and Imperialism 1815–75
+  type: chapter
+  URL: 'http://link.springer.com/10.1007/978-1-349-03591-5_7'
+
+- id: cain1980d
+  author:
+    - family: Cain
+      given: Peter J
+  container-title: Economic foundations of british overseas expansion 1815–1914
+  DOI: 10.1007/978-1-349-03591-5_3
+  event-place: London
+  ISBN: 978-1-349-03593-9
+  issued:
+    - year: 1980
+  page: 17–21
+  publisher: Macmillan Education UK
+  publisher-place: London
+  title: The coming of free trade and free trade imperialism after 1815
+  type: chapter
+  URL: 'http://link.springer.com/10.1007/978-1-349-03591-5_3'
+
+- id: cain1980e
+  author:
+    - family: Cain
+      given: Peter J
+  container-title: Economic foundations of british overseas expansion 1815–1914
+  DOI: 10.1007/978-1-349-03591-5_2
+  event-place: London
+  ISBN: 978-1-349-03593-9
+  issued:
+    - year: 1980
+  page: 11–16
+  publisher: Macmillan Education UK
+  publisher-place: London
+  title: Theoretical approaches
+  type: chapter
+  URL: 'http://link.springer.com/10.1007/978-1-349-03591-5_2'
+
+- id: cain1980f
+  author:
+    - family: Cain
+      given: Peter J
+  container-title: Economic foundations of british overseas expansion 1815–1914
+  DOI: 10.1007/978-1-349-03591-5_11
+  event-place: London
+  ISBN: 978-1-349-03593-9
+  issued:
+    - year: 1980
+  page: 59–66
+  publisher: Macmillan Education UK
+  publisher-place: London
+  title: 'Trade, finance and informal empire after 1875'
+  type: chapter
+  URL: 'http://link.springer.com/10.1007/978-1-349-03591-5_11'
+
+- id: cain1986
+  author:
+    - family: Cain
+      given: P. J.
+    - family: Hopkins
+      given: A. G.
+  container-title: Economic History Review
+  DOI: 10.2307/2596481
+  issue: '4'
+  issued:
+    - year: 1986
+  page: 501–25
+  title: >-
+    Gentlemanly capitalism and British expansion overseas I: the old colonial
+    system, 1688–1850
+  type: article-journal
+  volume: '39'
+
+- id: cain1987
+  author:
+    - family: Cain
+      given: P. J.
+    - family: Hopkins
+      given: A. G.
+  container-title: Economic History Review
+  DOI: 10.2307/2596293
+  issue: '1'
+  issued:
+    - year: 1987
+  page: 1–26
+  title: >-
+    Gentlemanly capitalism and British expansion overseas II: new imperialism,
+    1850–1945
+  type: article-journal
+  volume: '40'
+
+- id: catanach1988
+  author:
+    - family: Catanach
+      given: I J
+  container-title: Imperial medicine and indigenous societies
+  issued:
+    - year: 1988
+  page: 1–24
+  title: 'Plague and the tensions of empire: India 1896–1918'
+  type: chapter
+
+- id: champion1989
+  author:
+    - family: Champion
+      given: Shelagh
+    - family: Champion
+      given: George
+  ISBN: 095964829
+  issued:
+    - year: 1989
+  title: >-
+    The spearing of Governor Phillip at Collins Cove (now Manly Cove), 7th
+    September, 1790
+  type: book
+  URL: >-
+    http://www.manly.nsw.gov.au/IgnitionSuite/uploads/docs/The Spearing of
+    Governor Phillip at Collins Cove.pdf
+
+- id: 'Chandravarkar:42-NDmrT'
+  collection-title: 'Class, resistance and the state in india c.1850–1950'
+  title: Imperial power and popular politics
+  type: book
+
+- id: chandravarkar1998
+  author:
+    - family: Chandravarkar
+      given: R
+  container-title: Imperial power and popular politics
+  issued:
+    - year: 1998
+  page: 1–17
+  title: 'Plague panic and epidemic politics in India, 1896–1914'
+  type: chapter
+
+- id: chandravarkar1998a
+  author:
+    - family: Chandravarkar
+      given: R
+  container-title: >-
+    Imperial power and popular politics: class, resistance and the state in
+    India, 1850–1950
+  event-place: Cambridge
+  issued:
+    - year: 1998
+  page: 266–326
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: >-
+    Indian nationalism, 1914–1947: Gandhian rhetoric, the congress and the
+    working classes
+  type: chapter
+
+- id: clendinnen2002
+  author:
+    - family: Clendinnen
+      given: Inga
+  container-title: Australian Historical Studies
+  DOI: 10.1080/10314610208596189
+  issue: '118'
+  issued:
+    - year: 2002
+  page: 157–174
+  title: Spearing the governor
+  type: article-journal
+  volume: '33'
+
+- id: darwin1997
+  author:
+    - family: Darwin
+      given: John
+  container-title: English Historical Review
+  DOI: 10.1093/ehr/cxii.447.614
+  issue: '447'
+  issued:
+    - year: 1997
+  page: 614–42
+  title: 'Imperialism and the Victorians: the dynamics of territorial expansion'
+  type: article-journal
+  volume: '112'
+
+- id: darwin2013
+  author:
+    - family: Darwin
+      given: John
+  ISBN: 978-1-84614-089-1
+  issued:
+    - year: 2013
+  publisher: Penguin
+  title: 'Unfinished empire: the global expansion of Britain'
+  type: book
+
+- id: drescher1994
+  author:
+    - family: Drescher
+      given: Seymour
+  container-title: Past and Present
+  DOI: 10.1093/past/143.1.136
+  issued:
+    - year: 1994
+  page: 136–166
+  title: Whose abolition? Popular pressure and the ending of the British slave trade
+  type: article-journal
+  volume: '143'
+
+- id: dubow2009
+  author:
+    - family: Dubow
+      given: Saul
+  container-title: Journal of Imperial and Commonwealth History
+  DOI: 10.1080/03086530902757688
+  issue: '1'
+  issued:
+    - year: 2009
+  page: 1–27
+  title: How British was the British world? The case of South Africa
+  type: article-journal
+  URL: 'http://www.tandfonline.com/doi/abs/10.1080/03086530902757688'
+  volume: '37'
+
+- id: etherington1982
+  author:
+    - family: Etherington
+      given: Norman
+  container-title: History and Theory
+  DOI: 10.2307/2505147
+  issue: '1'
+  issued:
+    - year: 1982
+      month: 2
+  page: 1–36
+  title: Reconsidering theories of imperialism
+  type: article-journal
+  URL: 'http://www.jstor.org/stable/2505147?origin=crossref'
+  volume: '21'
+
+- id: flint1999
+  author:
+    - family: Flint
+      given: John E
+  container-title: The Journal of Imperial and Commonwealth History
+  DOI: 10.1080/03086539908583061
+  issue: '2'
+  issued:
+    - year: 1999
+      month: 5
+  language: English
+  page: 143–158
+  title: 'Managing nationalism: The colonial office and Nnamdi Azikiwe, 1932–43'
+  type: article-journal
+  volume: '27'
+
+- id: gallagher1953
+  author:
+    - family: Gallagher
+      given: John
+    - family: Robinson
+      given: Ronald
+  container-title: Economic History Review
+  DOI: 10.2307/2591017
+  issue: '1'
+  issued:
+    - year: 1953
+  page: 1–15
+  title: The imperialism of free trade
+  type: article-journal
+  volume: '6'
+
+- id: gifford1988
+  editor:
+    - family: Gifford
+      given: Prosser
+    - family: Louis
+      given: William Roger
+  event-place: New Haven
+  issued:
+    - year: 1988
+  publisher: Yale University Press
+  publisher-place: New Haven
+  title: 'Decolonization and African independence: the transfers of power, 1960–1980'
+  type: book
+
+- id: hobson1902
+  author:
+    - family: Hobson
+      given: J. A.
+  issued:
+    - year: 1902
+  title: Imperialism
+  type: book
+
+- id: lafeber1967
+  author:
+    - family: LaFeber
+      given: Walter
+  issued:
+    - year: 1967
+      month: 1
+  language: English
+  title: The new empire
+  type: book
+  URL: >-
+    http://books.google.co.uk/books?id=bcvtAAAAMAAJ&dq=isbn:0801490480&hl=&cd=1&source=gbs_api
+
+- id: lenin1964
+  author:
+    - family: Lenin
+      given: Vladimir
+  container-title: Collected Works
+  event-place: Moscow
+  issued:
+    - year: 1964
+  publisher: Progress Publishers
+  publisher-place: Moscow
+  title: 'Imperialism: the highest stage of capitalism'
+  type: chapter
+
+- id: levine2007
+  author:
+    - family: Levine
+      given: Philippa
+  ISBN: 978-0-582-47281-5
+  issued:
+    - year: 2007
+  publisher: Pearson Longman
+  title: 'The British Empire: sunrise to sunset'
+  type: book
+
+- id: lonsdale1985
+  author:
+    - family: Lonsdale
+      given: J
+  DOI: 10.1017/CHOL9780521228039.016
+  issued:
+    - year: 1985
+  page: 680–766
+  title: The european scramble and conquest in african history
+  type: chapter
+
+- id: marshall1975
+  author:
+    - family: Marshall
+      given: Peter J
+  container-title: History
+  DOI: 10.1111/j.1468-229x.1975.tb02027.x
+  issue: '198'
+  issued:
+    - year: 1975
+  page: 28–43
+  title: 'British expansion in India in the eighteenth century: a historical revision'
+  type: article-journal
+  volume: '60'
+
+- id: marshall1996
+  author:
+    - family: Marshall
+      given: Peter J
+  container-title: 'South Asia: Journal of South Asian Studies'
+  DOI: 10.1080/00856409608723256
+  issue: '1'
+  issued:
+    - year: 1996
+  page: 71–76
+  title: 'Reappraisal: The rise of British power in eighteenth-century India'
+  type: article-journal
+  volume: XIX
+
+- id: marshall1998
+  editor:
+    - family: Marshall
+      given: Peter J
+  ISBN: 0-19-164735-7
+  issued:
+    - year: 1998
+      month: 5
+  language: English
+  publisher: Oxford University Press
+  title: 'The oxford history of the british empire: Volume II: The eighteenth century'
+  type: book
+  URL: >-
+    http://books.google.co.uk/books/about/The_Oxford_History_of_the_British_Empire.html?id=COlwt4G05v0C
+
+- id: mccaskie2012
+  author:
+    - family: McCaskie
+      given: T C
+  container-title: 'The Oxford history of the British Empire: volume III: the nineteenth century'
+  editor:
+    - family: Porter
+      given: Andrew
+  issued:
+    - year: 2012
+      month: 8
+  page: 1–14
+  title: 'Cultural encounters: Britain and Africa in the nineteenth century'
+  type: chapter
+
+- id: metcalf1965
+  author:
+    - family: Metcalf
+      given: Thomas R.
+  event-place: London
+  issued:
+    - year: 1965
+  publisher: Princeton University Press
+  publisher-place: London
+  title: 'The aftermath of revolt: India 1857–1870'
+  type: book
+
+- id: metcalf1965a
+  author:
+    - family: Metcalf
+      given: Thomas R
+  container-title: 'The aftermath of revolt: India 1857–1870'
+  event-place: London
+  issued:
+    - year: 1965
+  page: 289–327
+  publisher: Princeton University Press
+  publisher-place: London
+  title: The legacy of the mutiny
+  type: chapter
+
+- id: morgan2010
+  author:
+    - family: Morgan
+      given: Philip D
+  container-title: 'Abolitionism and imperialism in britain, africa and the atlantic'
+  editor:
+    - family: Peterson
+      given: D R
+  event-place: Ohio
+  ISBN: 978-0-8214-1902-1
+  issued:
+    - year: 2010
+  page: 101–128
+  publisher: Ohio University Press
+  publisher-place: Ohio
+  title: 'Ending the slave trade: A caribbean and atlantic context'
+  type: chapter
+  URL: >-
+    http://www.worldcat.org/title/abolitionism-and-imperialism-in-britain-africa-and-the-atlantic/oclc/433549496
+
+- id: nasson2012
+  author:
+    - family: Nasson
+      given: William R
+  container-title: Journal of Imperial and Commonwealth History
+  DOI: 10.1080/03086538308582649
+  issue: '1'
+  issued:
+    - year: 2012
+      month: 8
+  page: 29-53
+  publisher: Routledge
+  title: >-
+    “Doing down their masters”: Africans, Boers, and treason in the Cape Colony
+    during the South African War of 1899–1902
+  type: article-journal
+  volume: '12'
+
+- id: obrien1988
+  author:
+    - family: O'Brien
+      given: Patrick K
+  container-title: Economic History Review
+  DOI: 10.2307/2597330
+  issued:
+    - year: 1988
+  page: 1–32
+  title: 'The political economy of British taxation, 1660-1815'
+  type: article-journal
+  URL: 'http://www.jstor.org/stable/2597330'
+  volume: '41'
+
+- id: oliver1985
+  DOI: 10.1017/CHOL9780521228039
+  editor:
+    - family: Oliver
+      given: Roland
+    - family: Sanderson
+      given: G N
+  event-place: Cambridge
+  ISBN: 978-1-139-05460-7
+  issued:
+    - year: 1985
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: The cambridge history of africa
+  type: book
+  URL: 'http://universitypublishingonline.org/ref/id/histories/CBO9781139054607'
+
+- id: palmer2009
+  author:
+    - family: Palmer
+      given: William
+  container-title: The Historical Journal
+  DOI: 10.1017/S0018246X09990410
+  issue: '2009'
+  issued:
+    - year: 2009
+  page: 1039–1051
+  publisher: Cambridge University Press
+  title: 'How ideology works: historians and the case of British abolitionism'
+  type: article-journal
+  volume: '52'
+
+- id: peires1987
+  author:
+    - family: Peires
+      given: J B
+  container-title: Journal of African History
+  DOI: 10.1017/S0021853700029418
+  issue: '1'
+  issued:
+    - year: 1987
+  page: 43–63
+  title: The central beliefs of the Xhosa cattle-killing
+  type: article-journal
+  URL: 'https://www.jstor.org/stable/181448'
+  volume: '28'
+
+- id: peterson2010
+  editor:
+    - family: Peterson
+      given: D R
+  event-place: Ohio
+  ISBN: 978-0-8214-1902-1
+  issued:
+    - year: 2010
+  publisher: Ohio University Press
+  publisher-place: Ohio
+  title: 'Abolitionism and imperialism in britain, africa and the atlantic'
+  type: book
+  URL: >-
+    http://www.worldcat.org/title/abolitionism-and-imperialism-in-britain-africa-and-the-atlantic/oclc/433549496
+
+- id: porter1984
+  author:
+    - family: Porter
+      given: Bernard
+  edition: '2'
+  issued:
+    - year: 1984
+  publisher: Longman
+  title: 'The lion''s share: A short history of British imperialism, 1850–1983'
+  type: book
+
+- id: porter1999a
+  DOI: '10.1093/acprof:oso/9780198205654.001.0001'
+  editor:
+    - family: Porter
+      given: Andrew
+  ISBN: 978-0-19-820565-4
+  issued:
+    - year: 1999
+  publisher: Oxford University Press
+  title: The oxford history of the british empire
+  type: book
+  URL: >-
+    http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780198205654.001.0001/acprof-9780198205654
+
+- id: ray1998
+  author:
+    - family: Ray
+      given: Rajat Kanta
+  container-title: 'The oxford history of the british empire: Volume II: The eighteenth century'
+  editor:
+    - family: Marshall
+      given: Peter J
+  event-place: Oxford
+  ISBN: 0-19-820563-5
+  issued:
+    - year: 1998
+  page: 508–529
+  publisher-place: Oxford
+  title: 'Indian society and the establishment of British supremacy, 1765–1818'
+  type: chapter
+
+- id: said2014
+  author:
+    - family: Said
+      given: Edward W
+  ISBN: 0-8041-5386-8
+  issued:
+    - year: 2014
+      month: 10
+  language: English
+  publisher: Vintage
+  title: Orientalism
+  type: book
+  URL: >-
+    http://books.google.co.uk/books?id=npF5BAAAQBAJ&printsec=frontcover&dq=inauthor:said+orientalism&hl=&cd=1&source=gbs_api
+
+- id: sanderson1985
+  author:
+    - family: Sanderson
+      given: G N
+  container-title: The cambridge history of africa
+  DOI: 10.1017/CHOL9780521228039.004
+  editor:
+    - family: Oliver
+      given: Roland
+    - family: Sanderson
+      given: G N
+  event-place: Cambridge
+  ISBN: 978-1-139-05460-7
+  issued:
+    - year: 1985
+  page: 96–158
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: The european partition of africa
+  type: chapter
+  URL: >-
+    https://www-cambridge-org.ezproxy.lib.bbk.ac.uk/core/services/aop-cambridge-core/content/view/AC2EF5AD81F24F49BC5FDDBF82BDAE8F/9781139054607c2_p96-158_CBO.pdf/the-european-partition-of-africa-origins-and-dynamics.pdf
+
+- id: satia2007
+  author:
+    - family: Satia
+      given: P
+  container-title: Past and Present
+  DOI: 10.1093/pastj/gtm008
+  issue: '1'
+  issued:
+    - year: 2007
+      month: 11
+  language: English
+  page: 211–255
+  title: >-
+    Developing iraq: Britain, india and the redemption of empire and technology
+    in the first world war
+  type: article-journal
+  URL: 'http://past.oxfordjournals.org/cgi/doi/10.1093/pastj/gtm008'
+  volume: '197'
+
+- id: storrs2002
+  editor:
+    - family: Storrs
+      given: Christopher
+  issued:
+    - year: 2002
+  title: The fiscal-military state in eighteenth-century Europe
+  type: book
+
+- id: tench1961
+  author:
+    - family: Tench
+      given: Watkin
+  ISBN: 0-908120-24-9
+  issued:
+    - year: 1961
+  publisher: Angus & Robertson
+  title: >-
+    Sydney's first four years. Being a reprint of a narrative of the expedition
+    to Botany Bay and a complete account of the settlement at Port Jackson
+  type: book
+  URL: >-
+    http://www.worldcat.org/title/sydneys-first-four-years-being-a-reprint-of-a-narrative-of-the-expedition-to-botany-bay-and-a-complete-account-of-the-settlement-at-port-jackson/oclc/22519245
+
+- id: tench1961a
+  author:
+    - family: Tench
+      given: Watkin
+  container-title: >-
+    Sydney's first four years. Being a reprint of a narrative of the expedition
+    to Botany Bay and a complete account of the settlement at Port Jackson
+  ISBN: 0-908120-24-9
+  issued:
+    - year: 1961
+  page: 176–182
+  publisher: Angus & Robertson
+  title: 'Transactions of the Colony in the Beginning of September, 1790'
+  type: chapter
+
+- id: travers2005
+  author:
+    - family: Travers
+      given: Robert
+  container-title: Journal of Imperial and Commonwealth History
+  DOI: 10.1080/0308653042000329997
+  issue: '1'
+  issued:
+    - year: 2005
+  page: 7–27
+  publisher: Routledge
+  title: 'Ideology and British expansion in Bengal, 1757–72'
+  type: article-journal
+  volume: '33'
+
+- id: wagner2011
+  author:
+    - family: Wagner
+      given: Kim A
+  container-title: History Compass
+  DOI: 10.1111/j.1478-0542.2011.00799.x
+  issue: '10'
+  issued:
+    - year: 2011
+  language: English
+  page: 760–766
+  title: 'The marginal mutiny: The new historiography of the indian uprising of 1857'
+  type: article-journal
+  volume: '9'
+
+- id: youe2001
+  editor:
+    - family: Youé
+      given: Chris
+    - family: Stapleton
+      given: Tim
+  issued:
+    - year: 2001
+  title: 'Agency and action in colonial Africa: Essays for John E. Flint'
+  type: book
+
+- id: zachernuk2001
+  author:
+    - family: Zachernuk
+      given: P S
+  container-title: Agency and action in colonial Africa
+  editor:
+    - family: Youé
+      given: Chris
+    - family: Stapleton
+      given: Tim
+  issued:
+    - year: 2001
+  page: 156–171
+  title: Critical agents
+  type: chapter
+...

@@ -1,0 +1,348 @@
+---
+references:
+- id: bessel1997
+  author:
+    - family: Bessel
+      given: Richard
+  container-title: German history since 1800
+  editor:
+    - family: Fulbrook
+      given: Mary
+  issued:
+    - year: 1997
+  page: 235–257
+  publisher: Arnold
+  section: '12'
+  title: Germany from war to dictatorship
+  type: chapter
+
+- id: conquest1991
+  author:
+    - family: Conquest
+      given: Robert
+  collection-title: Breaker of nations
+  issued:
+    - year: 1991
+  publisher: Wiedenfeld & Nicolson
+  title: Stalin
+  type: book
+
+- id: conquest1991a
+  author:
+    - family: Conquest
+      given: Robert
+  container-title: Stalin
+  issued:
+    - year: 1991
+  page: 141–170
+  publisher: Wiedenfeld & Nicolson
+  title: Towards supremacy
+  type: chapter
+  URL: 'https://readings.bbk.ac.uk/readings/C/Conquest1991.pdf'
+
+- id: evans2005b
+  author:
+    - family: Evans
+      given: Richard J.
+  call-number: DD256.5 .E924 2005
+  event-place: New York
+  ISBN: 978-1-59420-074-8
+  issued:
+    - year: 2005
+  number-of-pages: '941'
+  publisher: Penguin Press
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: 'The Third Reich in power, 1933-1939'
+  type: book
+
+- id: figes1996
+  author:
+    - family: Figes
+      given: Orlando
+  event-place: London
+  issued:
+    - year: 1996
+  publisher: Penguin
+  publisher-place: London
+  title: A people’s tragedy
+  type: book
+
+- id: figes1996a
+  author:
+    - family: Figes
+      given: Orlando
+  container-title: A people's tragedy
+  ISBN: 0-224-04162-2
+  issued:
+    - year: 1996
+  page: 406–473
+  publisher: Jonathan Cape
+  title: The agony of the provisional government
+  type: chapter
+  URL: 'https://readings.bbk.ac.uk/readings/F/Figes1996%5B2%5D.pdf'
+
+- id: fitzpatrick2008
+  author:
+    - family: Fitzpatrick
+      given: Sheila
+  issued:
+    - year: 2008
+  publisher: Oxford University Press
+  title: 'The Russian Revolution, 1917–32'
+  type: book
+
+- id: friedlander1997
+  author:
+    - family: Friedländer
+      given: Saul
+  container-title: 'Nazi Germany and the Jews, vol. 1: the years of persecution, 1933–1939'
+  issued:
+    - year: 1997
+  page: 73–112
+  publisher: Harper Perennial
+  section: '3'
+  title: Redemptive anti-Semitism
+  type: chapter
+  volume: '1'
+
+- id: fulbrook1997
+  DOI: 10.2307/260240
+  editor:
+    - family: Fulbrook
+      given: Mary
+  issued:
+    - year: 1997
+  publisher: Arnold
+  title: German history since 1800
+  type: book
+
+- id: gellately2007
+  author:
+    - family: Gellately
+      given: Robert
+  issued:
+    - year: 2007
+  publisher: Vintage
+  title: 'Lenin, Stalin, and Hitler: the age of social catastrophe'
+  type: book
+
+- id: hobsbawm1994
+  author:
+    - family: Hobsbawm
+      given: Eric J
+  issued:
+    - year: 1994
+  publisher: Abacus
+  title: 'Age of extremes: the short twentieth century 1914–91'
+  type: book
+
+- id: judt2007b
+  author:
+    - family: Judt
+      given: Tony
+  container-title: Postwar
+  ISBN: 0-7126-6564-1
+  issued:
+    - year: 2007
+  page: 390–421
+  publisher: Pimlico
+  title: The spectre of revolution
+  type: chapter
+  URL: 'https://readings.bbk.ac.uk/readings/J/Judt2007.pdf'
+
+- id: kershaw1993
+  author:
+    - family: Kershaw
+      given: Ian
+  container-title: 'The Nazi dictatorship: problems and perspectives of interpretation'
+  edition: '3'
+  issued:
+    - year: 1993
+  publisher: Edward Arnold
+  title: Historians and the problem of explaining Nazism
+  type: chapter
+
+- id: kershaw2001
+  author:
+    - family: Kershaw
+      given: Ian
+  issued:
+    - year: 2001
+  publisher: Oxford University Press
+  title: The Hitler myth - Image and reality in the Third Reich
+  type: book
+
+- id: kershaw2001a
+  author:
+    - family: Kershaw
+      given: Ian
+  container-title: The Hitler myth - Image and reality in the Third Reich
+  issued:
+    - year: 2001
+  page: 13–47
+  section: '1'
+  title: '‘Führer of the coming Germany’: The Hitler image in the Weimar era'
+  type: chapter
+
+- id: overy2008
+  author:
+    - family: Overy
+      given: Richard
+  edition: '3'
+  ISBN: 978-1-4058-2469-9
+  issued:
+    - year: 2008
+  publisher: Pearson Longman
+  title: The origins of the second world war
+  type: book
+  URL: 'http://www.worldcat.org/title/origins-of-the-second-world-war/oclc/191898290'
+
+- id: overy2008a
+  author:
+    - family: Overy
+      given: Richard
+  container-title: The origins of the second world war
+  ISBN: 978-1-4058-2469-9
+  issued:
+    - year: 2008
+  page: 95–99
+  publisher: Pearson Longman
+  title: Hitler's war?
+  type: chapter
+  URL: 'https://readings.bbk.ac.uk/readings/O/Overy2008.pdf'
+
+- id: petrogradsoviet1917
+  author:
+    - literal: Petrograd Soviet
+  issued:
+    - year: 1917
+  title: >-
+    Order No. 1 of the Petrograd Soviet of Workers' and Soldiers' Deputies to
+    the Petrograd District Garrison
+  type: legislation
+  URL: 'https://www.marxists.org/history/ussr/government/1917/03/01.htm'
+
+- id: pipes1974
+  author:
+    - family: Pipes
+      given: Richard
+  ISBN: 978-0-297-76844-9
+  issued:
+    - year: 1974
+  language: English
+  publisher: Weidenfeld & Nicolson
+  title: Russia under the old regime
+  type: book
+  URL: >-
+    http://books.google.co.uk/books?id=CSazQgAACAAJ&dq=inauthor:pipes+intitle:old+regime&hl=&cd=1&source=gbs_api
+
+- id: roberts1989
+  author:
+    - family: Roberts
+      given: J M
+  issued:
+    - year: 1989
+  title: Europe 1880–1945
+  type: book
+
+- id: roberts1989a
+  author:
+    - family: Roberts
+      given: J M
+  issued:
+    - year: 1989
+  page: 319–358
+  section: '10'
+  title: Postwar Europe
+  type: chapter
+
+- id: stackelberg1999a
+  author:
+    - family: Stackelberg
+      given: Roderick
+  container-title: Hitlers germany
+  ISBN: 0-415-20115-2
+  issued:
+    - year: 1999
+  page: 156–180
+  publisher: Routledge
+  title: The origins of the second world war
+  type: chapter
+  URL: 'https://readings.bbk.ac.uk/readings/S/Stackelberg1999.pdf'
+
+- id: stephenson1997
+  author:
+    - family: Stephenson
+      given: Jill
+  container-title: Germany history since 1800
+  editor:
+    - family: Fulbrook
+      given: Mary
+  issued:
+    - year: 1997
+  page: 298–317
+  publisher: Arnold
+  section: '15'
+  title: 'The rise of the Nazis: *Sonderweg* or spanner in the works?'
+  type: chapter
+
+- id: stokes1993
+  author:
+    - family: Stokes
+      given: Gale
+  collection-title: The collapse of communism in eastern europe
+  ISBN: 0-19-506645-6
+  issued:
+    - year: 1993
+  publisher: Oxford University Press
+  title: The walls came tumbling down
+  type: book
+  URL: >-
+    http://www.worldcat.org/title/walls-came-tumbling-down-the-collapse-of-communism-in-eastern-europe/oclc/27147313
+
+- id: stokes1993a
+  author:
+    - family: Stokes
+      given: Gale
+  container-title: The walls came tumbling down
+  ISBN: 0-19-506645-6
+  issued:
+    - year: 1993
+  page: 131–167
+  publisher: Oxford University Press
+  title: The glorious revolutions of 1989
+  type: chapter
+  URL: 'https://readings.bbk.ac.uk/readings/S/Stokes1993.pdf'
+
+- id: sutcliffe1996
+  author:
+    - family: Sutcliffe
+      given: Anthony
+  ISBN: 0-582-23645-2
+  issued:
+    - year: 1996
+  publisher: Pearson Longman
+  title: An economic and social history of Western Europe since 1945
+  type: book
+  URL: >-
+    http://www.worldcat.org/title/economic-and-social-history-of-western-europe-since-1945/oclc/34583841
+
+- id: sutcliffe1996a
+  author:
+    - family: Sutcliffe
+      given: Anthony
+  container-title: An economic and social history of Western Europe since 1945
+  ISBN: 0-582-23645-2
+  issued:
+    - year: 1996
+  page: 1–27
+  publisher: Pearson Longman
+  title: The reconstruction challenge
+  type: chapter
+  URL: 'https://readings.bbk.ac.uk/readings/S/Sutcliffe1996%5B2%5D.pdf'
+
+- id: �
+  title: Recommendations of the Kerner Commission
+  type: article
+...

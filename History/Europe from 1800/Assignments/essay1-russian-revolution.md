@@ -1,0 +1,41 @@
+---
+title: How do you account for the failure of parliamentary democracy in Russia in 1917?
+author: Benjamin M. A’Lee
+date: 4 April 2014
+header-includes: |
+  \usepackage{fancyhdr}
+  \usepackage{titling}
+  \pagestyle{fancy}
+  \fancyhead[L]{\theauthor}
+  \fancyhead[C]{Europe from 1800}
+  \fancyhead[R]{\thedate}
+  \fancyfoot[C]{\thepage}
+
+nocite:
+---
+
+<!-- 54% average with second essay -->
+
+There are a number of issues to consider in assessing the success or failure of parliamentary democracy in Russia. After three years of European war, two revolutions in 1917, and five years of civil war, the Russia of the early 1920s was drastically different to the Russia of ten years earlier. Thus, to account for the failure, it is necessary first to determine whether parliamentary democracy ever had a chance of succeeding; if it did, then which of the various factors led to the failure.
+
+One initial issue facing any attempt at reform was that Russia’s democratic institutions were still relatively new and inexperienced. Parliamentary democracy, in the form of the State Duma, had only existed since 1906, as a result of the revolution of 1905, and had only limited power. For example, it could be dismissed at will by the Tsar and ministers were not appointed by or answerable to it. Fundamentally, this meant that parliamentary democracy was not strongly established in Russia at the time of the revolutions of 1917, and thus less able to resist the challenges it faced at that time.
+
+After the February Revolution the State Duma then found itself in conflict with other factions on the revolutionary side. As the representative of the people, it formed the Provisional Government, to maintain order and avoid disrupting the war effort; the doctrine of ‘revolutionary defensism’ centred around a fear that if Russia stopped fighting, Germany would restore the Romanovs to power. Conversely, however, factions such as the Bolsheviks, supported by the soviet worker councils and army, demanded an end to a war, on the grounds that its aims were imperialist, not in the best interests of the majority of Russian people [@gellately2007].
+
+This conflict between the factions deepened, as the provisional government, though pro-war, required the support of the soviets and the army to remain in power. Order Number One of the Petrograd Soviet instructed the Petrograd Garrison to follow the orders [@petrogradsoviet1917]; as such, de facto power was in the hands of the soviet.
+
+The Provisional Government was under increasing pressure from the Western powers to engage in a new offensive on the Eastern Front to coincide with another on the Western Front. Russia’s obligations to its allies were considered to be of vital importance, in order to keep their goodwill and support for the Provisional Government [@figes1996]. It therefore came into conflict with both the Allies (who wanted an offensive in the spring, earlier than the Provisional Government was willing to commit to) and the Petrograd Soviet (who were unwilling to support anything more than a defensive strategy).
+
+The offensive, however, was unsuccessful, leading to hundreds of thousands of Russian deaths, and was instrumental in strengthening support among the military for the Bolsheviks, who were committed to exiting the war. Kerensky later attributed the Bolshevik victory to the Provisional Government’s (and his, as Prime Minister) failure to negotiate a peace treaty with Germany [@figes1996].
+
+The Civil War had significant influence on Bolshevik policy in the first years after the revolution. Not only was it face with significant internal opposition, from a broad coalition of anti-Bolshevik elements within Russia itself, but it was also faced with invasion from international powers, including Britain, the United States, China, and Japan. There were also widespread peasant uprisings, known as the “green armies”, which fought against both the Red and White forces.
+
+As an immediate result of the civil war, starting in 1918 the Bolshevik government adopted a number of policies aimed at handling the situation. First was universal conscription. This began in the urban areas but in a matter of months it was necessary to expand this to rural areas too. This presented a problem, in that the Bolshevik power base was primarily the urban working class; according to @gellately2007 the Bolsheviks ‘disdained’ the peasantry.
+
+This, along with the requisitioning of grain by the Red Army, contributed to hostility towards the government on the part of the peasantry. However, the White movement also made itself unpopular; it too requisitioned grain from peasant farmers. It also failed to recognise the Bolshevik-approved land seizures, backing the landlords instead, thus making the Bolsheviks the lesser of two evils in many cases [@fitzpatrick2008].
+
+The Bolshevik economic policy was also predicated by the situation it found itself in. By 1917 the Russian economy was already running into severe problems; the civil war then exacerbated them. The policy of War Communism involved nationalising all large-scale industry from 1918–19, and to begin nationalising all other industries from 1920 onwards [@fitzpatrick2008]. Similarly, grain was requisitioned and distributed on a rationing scheme, with the intention of ensuring supplies and distribution, particularly prioritising the war effort.
+
+It is not possible to say, even with hindsight, that any historical occurrence was “inevitable”; there is always the possibility that events could have turned out differently. However, given certain situations and conditions, certain outcomes are more or less probable than others. For Gellately and others the Soviet dictatorship was the result of intentional choices made by Lenin; however, to some extent this overlooks the situation in which the Bolsheviks found themselves in October 1917 and the following several years. Each choice was made to address a particular situation (for example, the institution of War Communism to address the supply needs ubiquitous to wartime); the circumstances frequently left few options for the Bolsheviks. In particular, within the first few years after 1917, Russia had to deal with an international war, a civil war, foreign invasion and ongoing hostility, and an urgent need for industrialisation. According to @hobsbawm1994, the choice for the Bolsheviks was “not between a liberal-democratic or a non-liberal Russia, but between Russia and the disintegration which was the fate of the other archaic and defeated empires”. In short, the failure of parliamentary democracy was a result of a series of unenviable choices in difficult circumstances; to blame it on intentional planning by Lenin or anybody else is to overlook the benefit of hindsight.
+
+#essay #russia #russian_revolution

@@ -1,0 +1,618 @@
+---
+references:
+- id: balderston2010
+  author:
+    - family: Balderston
+      given: Theo
+  container-title: Economic History Review
+  DOI: >-
+    10.1111/j.1468-0289.2009.00453.x?issn=1468-0289{\&}tracking_referrer=onlinelibrary.wiley.com.ezproxy.lib.bbk.ac.uk{\&}purchase_referrer=onlinelibrary.wiley.com.ezproxy.lib.bbk.ac.uk{\&}customer_ids=BIRKBE001S%7CCORE00000004150%7CEAL00000041805%7CBIRKBE003S%7CEAL00000133929{\&}publisher=wiley{\&}access_api=1{\&}parent_url=http:%2F%2Fonlinelibrary.wiley.com.ezproxy.lib.bbk.ac.uk%2Fdoi%2F10.1111%2Fj.1468-0289.2009.00453.x%2Fepdf{\&}preview=1
+  issue: '3'
+  issued:
+    - year: 2010
+  page: 569–590
+  title: 'The economics of abundance: coal and cotton in Lancashire and the world'
+  type: article-journal
+  URL: >-
+    http://www.readcube.com/articles/10.1111/j.1468-0289.2009.00453.x?issn=1468-0289&tracking_referrer=onlinelibrary.wiley.com.ezproxy.lib.bbk.ac.uk&purchase_referrer=onlinelibrary.wiley.com.ezproxy.lib.bbk.ac.uk&customer_ids=BIRKBE001S%7CCORE00000004150%7CEAL00000041805%7CBIRKBE003S%7CEAL00000133929&publisher=wiley&access_api=1&parent_url=http:%2F%2Fonlinelibrary.wiley.com.ezproxy.lib.bbk.ac.uk%2Fdoi%2F10.1111%2Fj.1468-0289.2009.00453.x%2Fepdf&preview=1
+  volume: '63'
+
+- id: beckert2014
+  author:
+    - family: Beckert
+      given: Sven
+  event-place: New York
+  issued:
+    - year: 2014
+  publisher: Vintage
+  publisher-place: New York
+  title: Empire of cotton
+  type: book
+
+- id: blackett2001
+  author:
+    - family: Blackett
+      given: R. J. M.
+  event-place: Baton Rouge
+  issued:
+    - year: 2001
+  publisher: Louisiana State University Press
+  publisher-place: Baton Rouge
+  title: 'Divided hearts: Britain and the American Civil War'
+  type: book
+
+- id: broadberry2005
+  author:
+    - family: Broadberry
+      given: Stephen
+    - family: Gupta
+      given: Bishnupriya
+  issued:
+    - year: 2005
+  title: >-
+    Cotton textiles and the great divergence: Lancashire, India and shifting
+    competitive advantage, 1600-1850
+  type: article-journal
+  URL: 'http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=5183'
+
+- id: cain1993
+  author:
+    - family: Cain
+      given: P. J.
+    - family: Hopkins
+      given: A. G.
+  event-place: Harlow
+  issued:
+    - year: 1993
+  publisher: Longman
+  publisher-place: Harlow
+  title: 'British imperialism: innovation and expansion, 1688–1914'
+  type: book
+
+- id: cain1999
+  author:
+    - family: Cain
+      given: Peter J.
+  container-title: Recent Findings of Research in Economic Social History
+  issue: '29'
+  issued:
+    - year: 1999
+  title: 'British free trade, 1850–1914: economics and policy'
+  type: article-journal
+  URL: 'http://www.ehs.org.uk/dotAsset/11cabff5-3f6a-4d69-bba0-1086d69be6c7.pdf'
+
+- id: calhoun2002
+  author:
+    - family: Calhoun
+      given: Ricky-Dale
+  genre: PhD Thesis
+  issued:
+    - year: 2002
+  publisher: Kansas State University
+  title: >-
+    Seeds of destruction: the globalization of cotton as a result of the
+    American Civil War
+  type: thesis
+  URL: >-
+    http://krex.k-state.edu/dspace/bitstream/handle/2097/14956/RickyDaleCalhoun2012.pdf?sequence=1
+
+- id: cole1999
+  author:
+    - family: Cole
+      given: Juan R. I.
+  issued:
+    - year: 1999
+  publisher: American Univ in Cairo Press
+  title: Colonialism and revolution in the Middle East
+  type: book
+
+- id: craig1989
+  author:
+    - family: Craig
+      given: F. W. S.
+  edition: '2'
+  event-place: London
+  issued:
+    - year: 1989
+  publisher: Macmillan
+  publisher-place: London
+  title: British parliamentary election results 1832–1885
+  type: book
+
+- id: csa1862
+  author:
+    - literal: Cotton Supply Association
+  event-place: Manchester
+  issued:
+    - year: 1862
+  publisher: Cotton Supply Association
+  publisher-place: Manchester
+  title: Fifth annual report of the executive committee
+  type: report
+
+- id: csa1868
+  author:
+    - literal: Cotton Supply Association
+  event-place: Manchester
+  issued:
+    - year: 1868
+  publisher: Cotton Supply Association
+  publisher-place: Manchester
+  title: Ninth annual report of the executive committee
+  type: report
+
+- id: csr1865
+  author:
+    - literal: Cotton Supply Reporter
+  container-title: Cotton Supply Reporter
+  event-place: Manchester
+  issued:
+    - year: 1865
+      month: 5
+      day: 1
+  publisher-place: Manchester
+  type: article-magazine
+
+- id: csr1865a
+  author:
+    - literal: Cotton Supply Reporter
+  container-title: Cotton Supply Reporter
+  event-place: Manchester
+  issued:
+    - year: 1865
+      month: 6
+      day: 1
+  publisher-place: Manchester
+  type: article-magazine
+
+- id: darwin1997
+  author:
+    - family: Darwin
+      given: John
+  container-title: English Historical Review
+  DOI: 10.1093/ehr/cxii.447.614
+  issue: '447'
+  issued:
+    - year: 1997
+  page: 614–42
+  title: 'Imperialism and the Victorians: the dynamics of territorial expansion'
+  type: article-journal
+  volume: '112'
+
+- id: davis1979
+  author:
+    - family: Davis
+      given: R.
+  event-place: Leicester
+  issued:
+    - year: 1979
+  publisher: Leicester University Press
+  publisher-place: Leicester
+  title: The industrial revolution and British overseas trade
+  type: book
+
+- id: earle1926
+  author:
+    - family: Earle
+      given: Edward Mead
+  container-title: Political Science Quarterly
+  DOI: 10.2307/2142228
+  issue: '4'
+  issued:
+    - year: 1926
+  page: 520–545
+  title: Egyptian Cotton and the American Civil War
+  type: article-journal
+  volume: '41'
+
+- id: economist1861
+  author:
+    - literal: The Economist
+  event-place: London
+  issued:
+    - year: 1861
+      month: 9
+      day: 21
+  publisher-place: London
+  type: article-magazine
+  volume: '1861'
+
+- id: economist1862
+  author:
+    - literal: The Economist
+  event-place: London
+  issued:
+    - year: 1862
+      month: 10
+      day: 4
+  publisher-place: London
+  type: article-magazine
+  volume: '1862'
+
+- id: ellison1972
+  author:
+    - family: Ellison
+      given: Mary
+  event-place: Chicago
+  issued:
+    - year: 1972
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  title: Support for secession
+  type: book
+
+- id: farnie1979
+  author:
+    - family: Farnie
+      given: D. A.
+  event-place: Oxford
+  issued:
+    - year: 1979
+  publisher: Clarendon
+  publisher-place: Oxford
+  title: The English cotton industry and the world market
+  type: book
+
+- id: gallagher1953
+  author:
+    - family: Gallagher
+      given: John
+    - family: Robinson
+      given: Ronald
+  container-title: Economic History Review
+  DOI: 10.2307/2591017
+  issue: '1'
+  issued:
+    - year: 1953
+  page: 1–15
+  title: The imperialism of free trade
+  type: article-journal
+  volume: '6'
+
+- id: guelzo2012
+  author:
+    - family: Guelzo
+      given: Allen C.
+  issued:
+    - year: 2012
+  publisher: OUP USA
+  title: 'Fateful lightning: A new history of the Civil War and Reconstruction'
+  type: book
+
+- id: hansard1862
+  author:
+    - literal: Hansard
+  issued:
+    - year: 1862
+      month: 6
+      day: 19
+  number: 754–93
+  title: House of Commons Debate on the Cotton Supply
+  type: article-magazine
+  URL: >-
+    https://hansard.parliament.uk/commons/1862-06-19/debates/8425fcff-7850-41cd-a722-d97c8dadad3b/TheCottonSupply
+  volume: '167'
+
+- id: hansard1908
+  author:
+    - literal: Hansard
+  issued:
+    - year: 1908
+      month: 2
+      day: 26
+  title: House of Commons Debate on the Congo Free State
+  type: article-magazine
+  URL: >-
+    https://hansard.parliament.uk/commons/1908-02-26/debates/00dd9ca8-409f-4f67-bc24-823715fe3d4a/CongoFreeState
+  volume: '184'
+
+- id: harnetty1962
+  author:
+    - family: Harnetty
+      given: Peter
+  container-title: English Historical Review
+  DOI: 10.1093/ehr/lxxvii.cccv.684
+  issue: '305'
+  issued:
+    - year: 1962
+  page: 684–702
+  title: 'The Indian cotton duties controversy, 1894–1896'
+  type: article-journal
+  volume: '77'
+
+- id: harnetty1965
+  author:
+    - family: Harnetty
+      given: Peter
+  container-title: Economic History Review
+  issue: '2'
+  issued:
+    - year: 1965
+  page: 333–349
+  title: >-
+    The imperialism of free trade: Lancashire and the Indian cotton duties,
+    1859–1862
+  type: article-journal
+  URL: 'http://www.jstor.org.ezproxy.lib.bbk.ac.uk/stable/pdf/2592098.pdf'
+  volume: '18'
+
+- id: harnetty1966
+  author:
+    - family: Harnetty
+      given: Peter
+  container-title: Journal of British Studies
+  DOI: 10.1086/385528
+  issue: '1'
+  issued:
+    - year: 1966
+  page: 70–96
+  title: >-
+    The imperialism of free trade: Lancashire, India, and the cotton supply
+    question, 1861–1865
+  type: article-journal
+  volume: '6'
+
+- id: harnetty1972
+  author:
+    - family: Harnetty
+      given: Peter
+  event-place: Manchester
+  issued:
+    - year: 1972
+  publisher: Manchester University Press
+  publisher-place: Manchester
+  title: Imperialism and free trade
+  type: book
+
+- id: henderson1969
+  author:
+    - family: Henderson
+      given: W. O.
+  edition: '2'
+  event-place: Manchester
+  issued:
+    - year: 1969
+  publisher: Manchester University Press
+  publisher-place: Manchester
+  title: The Lancashire cotton famine 1861–65
+  type: book
+
+- id: hobsbawm1995
+  author:
+    - family: Hobsbawm
+      given: Eric J
+  issued:
+    - year: 1995
+  publisher: Weidenfeld & Nicholson
+  title: 'The age of capital: 1848–1875'
+  type: book
+
+- id: hobsbawm1999
+  author:
+    - family: Hobsbawm
+      given: Eric J
+  edition: Rev. edn.
+  event-place: London
+  issued:
+    - year: 1999
+  publisher: Penguin
+  publisher-place: London
+  title: Industry and empire
+  type: book
+
+- id: hobson1902
+  author:
+    - family: Hobson
+      given: J. A.
+  issued:
+    - year: 1902
+  title: Imperialism
+  type: book
+
+- id: hyam2002
+  author:
+    - family: Hyam
+      given: Ronald
+  edition: '3'
+  ISBN: 1-349-22784-6
+  issued:
+    - year: 2002
+  publisher: Springer
+  title: 'Britain’s imperial century, 1815–1914'
+  type: book
+
+- id: leacock1955
+  author:
+    - family: Leacock
+      given: Seth
+    - family: Mandelbaum
+      given: David G.
+  container-title: Economic Development and Cultural Change
+  DOI: 10.1086/449693
+  issue: '4'
+  issued:
+    - year: 1955
+  page: 334–51
+  title: >-
+    A nineteenth century development project in India: the cotton improvement
+    program
+  type: article-journal
+  volume: '3'
+
+- id: lenin1964
+  author:
+    - family: Lenin
+      given: Vladimir
+  container-title: Collected Works
+  event-place: Moscow
+  issued:
+    - year: 1964
+  publisher: Progress Publishers
+  publisher-place: Moscow
+  title: 'Imperialism: the highest stage of capitalism'
+  type: chapter
+
+- id: mill2009
+  author:
+    - family: Mill
+      given: John Stuart
+  DOI: 10.1017/CBO9781139149785
+  event-place: Cambridge
+  issued:
+    - year: 2009
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: On liberty
+  type: book
+
+- id: mitchell2002
+  author:
+    - family: Mitchell
+      given: Timothy
+  ISBN: 978-0-520-23262-4
+  issued:
+    - year: 2002
+  publisher: University of California Press
+  title: Rule of experts
+  type: book
+
+- id: moore1964
+  author:
+    - family: Moore
+      given: R J
+  container-title: Economic History Review
+  DOI: 10.2307/2592695
+  issue: '1'
+  issued:
+    - year: 1964
+  page: 135–145
+  title: 'Imperialism and ''free trade'' policy in india, 1853–4'
+  type: article-journal
+  URL: 'http://www.jstor.org/stable/pdf/2592695.pdf'
+  volume: '17'
+
+- id: owen1993
+  author:
+    - family: Owen
+      given: Roger
+  issued:
+    - year: 1993
+  publisher: I. B. Tauris
+  title: 'The Middle East in the world economy, 1800–1914'
+  type: book
+
+- id: porter1984
+  author:
+    - family: Porter
+      given: Bernard
+  edition: '2'
+  issued:
+    - year: 1984
+  publisher: Longman
+  title: 'The lion''s share: A short history of British imperialism, 1850–1983'
+  type: book
+
+- id: reid1999
+  author:
+    - family: Reid
+      given: Brian Holden
+  event-place: London
+  issued:
+    - year: 1999
+  publisher: Cassell
+  publisher-place: London
+  title: The American Civil War and the wars of the Industrial Revolution
+  type: book
+
+- id: roy2011
+  author:
+    - family: Roy
+      given: Tirthankar
+  DOI: '10.1093/acprof:oso/9780198074175.001.0001'
+  issued:
+    - year: 2011
+  publisher: OUP India
+  title: 'Economic history of India, 1857–1947'
+  type: book
+
+- id: seeley2010
+  author:
+    - family: Seeley
+      given: John Robert
+  DOI: 10.1017/CBO9780511783159
+  event-place: Cambridge
+  issued:
+    - year: 2010
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: The expansion of England
+  type: book
+
+- id: sexton2005
+  author:
+    - family: Sexton
+      given: Jay
+  DOI: '10.1093/acprof:oso/9780199281039.001.0001'
+  event-place: Oxford
+  issued:
+    - year: 2005
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: >-
+    Debtor diplomacy: finance and American foreign relations in the Civil War
+    era 1837–1873
+  type: book
+
+- id: tate2015
+  author:
+    - family: Tate
+      given: Jonathan Graham
+  genre: PhD Thesis
+  issued:
+    - year: 2015
+  publisher: University of Aberdeen
+  title: >-
+    Industry, technology and the political economy of empire: Lancashire
+    industrialists and the cotton supply question, c. 1850–1910
+  type: thesis
+  URL: 'http://digitool.abdn.ac.uk/webclient/DeliveryManager?pid=228009'
+
+- id: tripathi1967
+  author:
+    - family: Tripathi
+      given: Dwijendra
+  container-title: The Indian Economic & Social History Review
+  DOI: 10.1177/001946466700400303
+  issue: '3'
+  issued:
+    - year: 1967
+  page: 255–263
+  title: >-
+    Opportunism of free trade: Lancashire cotton famine and Indian cotton
+    cultivation
+  type: article-journal
+  volume: '4'
+
+- id: wfqr1850
+  author:
+    - literal: Westminster and Foreign Quarterly Review
+  event-place: London
+  issued:
+    - year: 1850
+  publisher-place: London
+  type: article-magazine
+  volume: '52'
+
+- id: williams1994
+  author:
+    - family: Williams
+      given: Eric
+  edition: '2'
+  event-place: Chapel Hill
+  issued:
+    - year: 1994
+  publisher: University of North Carolina Press
+  publisher-place: Chapel Hill
+  title: Capitalism & slavery
+  type: book
+...

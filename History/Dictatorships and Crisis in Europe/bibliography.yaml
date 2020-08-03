@@ -1,0 +1,246 @@
+---
+references:
+- id: '1969'
+  issued:
+    - year: 1969
+  language: English
+  publisher: Pantheon Books
+  title: American power and the new mandarins
+  type: book
+
+- id: anderson2003
+  author:
+    - family: Anderson
+      given: James M.
+  issued:
+    - year: 2003
+  publisher: Greenwood Press
+  title: 'The Spanish Civil War: a history and reference guide'
+  type: book
+
+- id: baxell2012
+  author:
+    - family: Baxell
+      given: Richard
+  issued:
+    - year: 2012
+  publisher: Aurum Press
+  title: >-
+    Unlikely warriors: the British in the Spanish Civil War and the struggle
+    against fascism
+  type: book
+
+- id: beevor2007
+  author:
+    - family: Beevor
+      given: Antony
+  issued:
+    - year: 2007
+  publisher: Orion Books
+  title: The battle for Spain
+  type: book
+
+- id: chomsky2002
+  author:
+    - family: Chomsky
+      given: Noam
+  container-title: American power and the new mandarins
+  issued:
+    - year: 2002
+  publisher: Pantheon Books
+  title: Objectivity and liberal scholarship
+  type: chapter
+
+- id: clark1996
+  author:
+    - family: Clark
+      given: Martin
+  container-title: 'Modern italy, 1871–1995'
+  ISBN: 0-582-05126-6
+  issued:
+    - year: 1996
+  page: 203–229
+  publisher: Longman
+  title: 'The strange death of liberal Italy, 1919-25'
+  type: chapter
+  URL: 'https://readings.bbk.ac.uk/readings/C/Clark1996%5B2%5D.pdf'
+
+- id: clark1996a
+  author:
+    - family: Clark
+      given: Martin
+  edition: '2'
+  issued:
+    - year: 1996
+  publisher: Longman
+  title: 'Modern Italy, 1871–1995'
+  type: book
+
+- id: duggan2008
+  author:
+    - family: Duggan
+      given: Christopher
+  collection-title: A history of italy since 1796
+  issued:
+    - year: 2008
+  publisher: Penguin
+  title: The force of destiny
+  type: book
+
+- id: duggan2008a
+  author:
+    - family: Duggan
+      given: Christopher
+  container-title: The force of destiny
+  ISBN: 978-0-14-101390-9
+  issued:
+    - year: 2008
+  page: 407–432
+  publisher: Penguin
+  title: 'Civil war and the advent of fascism, 1919-22'
+  type: chapter
+  URL: 'https://readings.bbk.ac.uk/readings/D/Duggan2008.pdf'
+
+- id: gellately2007
+  author:
+    - family: Gellately
+      given: Robert
+  issued:
+    - year: 2007
+  publisher: Vintage
+  title: 'Lenin, Stalin, and Hitler: the age of social catastrophe'
+  type: book
+
+- id: graham1987
+  author:
+    - family: Graham
+      given: Helen
+    - family: Preston
+      given: Paul
+  container-author:
+    - family: Graham
+      given: Helen
+    - family: Preston
+      given: Paul
+  container-title: The popular front in Europe
+  issued:
+    - year: 1987
+  publisher: Macmillan
+  section: '1'
+  title: The popular front and the struggle against fascism
+  type: chapter
+
+- id: graham1987a
+  author:
+    - family: Graham
+      given: Helen
+    - family: Preston
+      given: Paul
+  issued:
+    - year: 1987
+  publisher: Macmillan
+  title: The popular front in Europe
+  type: book
+
+- id: hansard1937
+  author:
+    - literal: Hansard
+  issued:
+    - year: 1937
+      month: 11
+      day: 1
+  title: House of Commons Debate on the Address
+  type: article-magazine
+  URL: >-
+    https://hansard.parliament.uk/commons/1937-11-01/debates/dba8292f-6ec1-4d32-91f7-9cdba6947b1a/DebateOnTheAddress
+  volume: '328'
+
+- id: offner1976
+  author:
+    - family: Offner
+      given: A. A.
+  DOI: 10.4159/harvard.9780674422919
+  issued:
+    - year: 1976
+  publisher: W. W. Norton
+  title: American appeasement
+  type: book
+
+- id: orwell2001
+  author:
+    - family: Orwell
+      given: George
+  issued:
+    - year: 2001
+  publisher: Penguin
+  title: Homage to Catalonia
+  type: book
+
+- id: peirats1990
+  author:
+    - family: Peirats
+      given: José
+  issued:
+    - year: 1990
+  publisher: Freedom Press
+  title: Anarchists in the Spanish revolution
+  type: book
+
+- id: podmore1998
+  author:
+    - family: Podmore
+      given: Will
+  issued:
+    - year: 1998
+  publisher: Edwin Mellen Press
+  title: 'Britain, Italy, Germany and the Spanish Civil War'
+  type: book
+
+- id: preston1990
+  author:
+    - family: Preston
+      given: Paul
+  issued:
+    - year: 1990
+  publisher: Weidenfeld & Nicolson
+  title: The Spanish Civil War
+  type: book
+
+- id: sugarman2016
+  author:
+    - family: Sugarman
+      given: Martin
+  container-title: Jewish Virtual Library
+  issued:
+    - year: 2016
+  title: >-
+    Against fascism: Jews who served in the International Brigade in the Spanish
+    Civil War
+  type: webpage
+  URL: 'http://www.jewishvirtuallibrary.org/jsource/History/spanjews.pdf'
+
+- id: thomas1961
+  author:
+    - family: Thomas
+      given: Hugh
+  issued:
+    - year: 1961
+  publisher: Eyre & Spottiswood
+  title: The Spanish Civil War
+  type: book
+
+- id: whealey1977
+  author:
+    - family: Whealey
+      given: Robert
+  container-title: Journal of Contemporary History
+  DOI: 10.2307/260240
+  issue: '1'
+  issued:
+    - year: 1977
+  page: '133'
+  title: How franco financed his war — Reconsidered
+  type: article-journal
+  URL: 'http://www.jstor.org/stable/260240'
+  volume: '12'
+...

@@ -1,0 +1,954 @@
+---
+references:
+- id: '2015'
+  issued:
+    - year: 2015
+      month: 10
+  language: (SCHEME=ISO639-1) en
+  title: The Atomic Bombings of Hiroshima and Nagasaki
+  type: article-journal
+
+- id: adas2010
+  editor:
+    - family: Adas
+      given: Michael
+  issued:
+    - year: 2010
+  title: Essays on twentieth-century history
+  type: book
+
+- id: 'Anonymous:jGl7alGP'
+  issued:
+    - year: 2015
+      month: 10
+  title: Avalon project - truman doctrine
+  type: article-journal
+  URL: 'http://avalon.law.yale.edu/20th_century/trudoc.asp'
+
+- id: balloch1974
+  author:
+    - family: Balloch
+      given: Howard R.
+  event-place: Montreal
+  genre: Master's Thesis
+  ISBN: '0'
+  issued:
+    - year: 1974
+  publisher: McGill University
+  publisher-place: Montreal
+  title: 'Chinese support for revolutionary movements in the Third World, 1965–1971'
+  type: thesis
+  URL: 'https://escholarship.mcgill.ca/concern/theses/cv43nz506?locale=en'
+
+- id: best2008
+  author:
+    - family: Best
+      given: Antony
+    - family: Hanhimäki
+      given: Jussi M
+    - family: Maiolo
+      given: Joseph A
+    - family: Schulze
+      given: Kirsten E
+  event-place: London
+  ISBN: 978-0-415-43896-4
+  issued:
+    - year: 2008
+  publisher: Routledge
+  publisher-place: London
+  title: International history of the twentieth century and beyond
+  type: book
+  URL: >-
+    http://books.google.co.uk/books?id=1ldPngEACAAJ&dq=isbn:9780415438964&hl=&cd=1&source=gbs_api
+
+- id: blum2003
+  author:
+    - family: Blum
+      given: William
+  event-place: London
+  ISBN: 978-1-84277-369-7
+  issued:
+    - year: 2003
+  publisher: Zed Books
+  publisher-place: London
+  title: 'Killing Hope: US military and CIA interventions since World War II'
+  type: book
+
+- id: chenjian1996
+  author:
+    - literal: Chen Jian
+  issued:
+    - year: 1996
+  title: >-
+    China's road to the Korean War: The making of the Sino–American
+    confrontation
+  type: book
+
+- id: chenjian1996a
+  author:
+    - literal: Chen Jian
+  container-title: China's road to the Korean War
+  issued:
+    - year: 1996
+  page: 190–209
+  title: 'The decision stands the test: China crosses the Yalu'
+  type: chapter
+  URL: >-
+    https://moodle.bbk.ac.uk/pluginfile.php/451007/mod_resource/content/1/Chen%20Jian%2C%20Chapter%207%2C%20Chinas%20Road%20to%20the%20Korean%20War.pdf
+
+- id: chenjian2001
+  author:
+    - literal: Chen Jian
+  event-place: Chapel Hill
+  issued:
+    - year: 2001
+  publisher: University of North Carolina Press
+  publisher-place: Chapel Hill
+  title: Mao’s China and the Cold War
+  type: book
+
+- id: darwin1997
+  author:
+    - family: Darwin
+      given: John
+  container-title: English Historical Review
+  DOI: 10.1093/ehr/cxii.447.614
+  issue: '447'
+  issued:
+    - year: 1997
+  page: 614–42
+  title: 'Imperialism and the Victorians: the dynamics of territorial expansion'
+  type: article-journal
+  volume: '112'
+
+- id: darwin2008
+  author:
+    - family: Darwin
+      given: John
+  ISBN: 978-0-14-101022-9
+  issued:
+    - year: 2008
+  page: 425–485
+  title: Empire denied
+  type: chapter
+  URL: >-
+    https://moodle.bbk.ac.uk/pluginfile.php/456448/mod_resource/content/1/Darwin%2C%20Empire%20Denied%20from%20After%20Tamerlane.pdf
+
+- id: darwin2008a
+  author:
+    - family: Darwin
+      given: John
+  collection-title: 'The rise and fall of global empires, 1400–2000'
+  ISBN: 978-0-14-101022-9
+  issued:
+    - year: 2008
+  title: After tamerlane
+  type: book
+  URL: >-
+    http://www.worldcat.org/title/after-tamerlane-the-rise-and-fall-of-global-empires-1400-2000/oclc/398170510
+
+- id: degras1955
+  editor:
+    - family: Degras
+      given: Jane
+  issued:
+    - year: 1955
+  title: The communist international 1919–1943 documents
+  type: book
+  URL: >-
+    https://moodle.bbk.ac.uk/pluginfile.php/451141/mod_resource/content/1/The%20Communist%20International%20Documents%2C%20ed.%20Degras.pdf
+
+- id: dower1999
+  author:
+    - family: Dower
+      given: John W.
+  event-place: New York
+  issued:
+    - year: 1999
+  publisher: W. W. Norton
+  publisher-place: New York
+  title: 'Embracing defeat: Japan in the wake of World War II'
+  type: book
+
+- id: dower1999a
+  author:
+    - family: Dower
+      given: John W
+  container-title: 'Embracing defeat: Japan in the wake of World War II'
+  issued:
+    - year: 1999
+  page: 254–277
+  title: Making revolution
+  type: chapter
+  URL: 'https://readings.bbk.ac.uk/readings/D/Dower1999.pdf'
+
+- id: engerman2011
+  author:
+    - family: Engerman
+      given: David C
+  container-title: The Cambridge history of the Cold War
+  DOI: 10.1017/CHOL9780521837194.003
+  editor:
+    - family: Leffler
+      given: Melvyn P
+    - family: Westad
+      given: Odd Arne
+  event-place: Cambridge
+  ISBN: 978-1-139-05611-3
+  issued:
+    - year: 2011
+  page: 20–43
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: 'Ideology and the origins of the Cold War, 1917–1962'
+  type: chapter
+  URL: 'http://universitypublishingonline.org/ref/id/histories/CBO9781139056113A006'
+
+- id: foner2001
+  author:
+    - family: Foner
+      given: Eric
+  container-title: American Historical Review
+  DOI: 10.2307/2652222
+  issue: '1'
+  issued:
+    - year: 2001
+  page: 1–16
+  title: American freedom in a global age
+  type: article-journal
+  volume: '106'
+
+- id: foner2008
+  author:
+    - family: Foner
+      given: Eric
+  edition: '2'
+  event-place: New York
+  issued:
+    - year: 2008
+  publisher: W. W. Norton
+  publisher-place: New York
+  title: Give me liberty! An American history
+  type: book
+
+- id: fukuyama1989
+  author:
+    - family: Fukuyama
+      given: Francis
+  container-title: The National Interest
+  DOI: 10.2307/24027184
+  issue: '16'
+  issued:
+    - year: 1989
+      month: 6
+  page: 3–18
+  publisher: Center for the National Interest
+  title: The end of history?
+  type: article-journal
+
+- id: gaddis1997
+  author:
+    - family: Gaddis
+      given: John Lewis
+  event-place: Oxford
+  ISBN: 978-0-19-878071-7
+  issued:
+    - year: 1997
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: We now know
+  type: book
+
+- id: gaddis2005
+  author:
+    - family: Gaddis
+      given: John Lewis
+  issued:
+    - year: 2005
+  title: The cold war
+  type: book
+
+- id: gaddis2005a
+  author:
+    - family: Gaddis
+      given: John Lewis
+  container-title: The cold war
+  event-place: London
+  issued:
+    - year: 2005
+  page: 5–47
+  publisher: Penguin
+  publisher-place: London
+  title: The return of fear
+  type: chapter
+
+- id: gaddis2015
+  author:
+    - family: Gaddis
+      given: John Lewis
+  container-title: We now know
+  issued:
+    - year: 2015
+      month: 8
+  page: 281–295
+  title: The new cold war history
+  type: chapter
+
+- id: hanhimaki2003
+  author:
+    - family: Hanhimäki
+      given: Jussi M
+  container-title: 'The Cold War: a history in documents and eyewitness accounts'
+  editor:
+    - family: Hanhimäki
+      given: Jussi M
+    - family: Westad
+      given: Odd Arne
+  issued:
+    - year: 2003
+  page: 70–104
+  title: The division of Germany
+  type: chapter
+  URL: >-
+    https://moodle.bbk.ac.uk/pluginfile.php/450996/mod_resource/content/1/Hanhimaki%2C%20The%20Divided%20Germany.pdf
+
+- id: hanhimaki2003a
+  collection-title: A history in documents and eyewitness accounts
+  editor:
+    - family: Hanhimäki
+      given: Jussi M
+    - family: Westad
+      given: Odd Arne
+  issued:
+    - year: 2003
+  title: The cold war
+  type: book
+
+- id: hecht2010
+  author:
+    - family: Hecht
+      given: Gabrielle
+    - family: Edwards
+      given: Paul N
+  container-title: Essays on twentieth-century history
+  editor:
+    - family: Adas
+      given: Michael
+  issued:
+    - year: 2010
+  page: 1–23
+  publisher: Temple University Press
+  title: The technopolitics of cold war
+  type: chapter
+  URL: >-
+    https://moodle.bbk.ac.uk/pluginfile.php/481962/mod_folder/content/0/Hecht%20and%20Edwards%20.pdf?forcedownload=1
+
+- id: hobsbawm1994
+  author:
+    - family: Hobsbawm
+      given: Eric J
+  issued:
+    - year: 1994
+  publisher: Abacus
+  title: 'Age of extremes: the short twentieth century 1914–91'
+  type: book
+
+- id: hobsbawm1994a
+  author:
+    - family: Hobsbawm
+      given: Eric J
+  container-title: Age of extremes
+  issued:
+    - year: 1994
+  page: 1–18
+  publisher: Abacus
+  title: Cold war
+  type: chapter
+  URL: >-
+    https://moodle.bbk.ac.uk/pluginfile.php/450991/mod_resource/content/1/Hobsbawm%2C%20The%20Age%20of%20Extremes%2C%20Chapter%208.pdf
+
+- id: hunt2012
+  author:
+    - family: Hunt
+      given: Michael H.
+    - family: Levine
+      given: Steven I.
+  event-place: Chapel Hill
+  issued:
+    - year: 2012
+  publisher: University of North Carolina Press
+  publisher-place: Chapel Hill
+  title: 'Arc of empire: America’s wars in Asia from the Philippines to Vietnam'
+  type: book
+
+- id: judt2007
+  author:
+    - family: Judt
+      given: Tony
+  container-title: Postwar
+  ISBN: 0-7126-6564-1
+  issued:
+    - year: 2007
+  page: 165–196
+  publisher: Pimlico
+  title: Into the whirlwind
+  type: chapter
+  URL: >-
+    https://moodle.bbk.ac.uk/pluginfile.php/450997/mod_resource/content/1/Judt%2C%20Into%20the%20Whirlwind%2C%20from%20Postwar.pdf
+
+- id: judt2007a
+  author:
+    - family: Judt
+      given: Tony
+  collection-title: A history of europe since 1945
+  event-place: London
+  ISBN: 978-0-7126-6564-3
+  issued:
+    - year: 2007
+  publisher: Pimlico
+  publisher-place: London
+  title: Postwar
+  type: book
+  URL: >-
+    http://www.worldcat.org/title/postwar-a-history-of-europe-since-1945/oclc/225080622
+
+- id: jun2011
+  author:
+    - family: Jun
+      given: Niu
+  container-title: The cambridge history of the cold war
+  DOI: CHOL9780521837194.012
+  editor:
+    - family: Leffler
+      given: Melvyn P
+    - family: Westad
+      given: Odd Arne
+  event-place: Cambridge
+  ISBN: 978-1-139-05611-3
+  issued:
+    - year: 2011
+  page: 221–243
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: The birth of the Peoples Republic of China and the road to the Korean War
+  type: chapter
+  URL: >-
+    https://moodle.bbk.ac.uk/pluginfile.php/451008/mod_resource/content/1/Niu%20Jun%2C%20The%20Birth%20of%20the%20Peoples%20Republic%20of%20China%2C%20CHCW%20Vol%201.pdf
+
+- id: kennan1946
+  author:
+    - literal: Kennan
+  issued:
+    - year: 1946
+      month: 2
+      day: 22
+  title: Long Telegram
+  type: article
+  URL: >-
+    https://www.trumanlibrary.org/whistlestop/study_collections/coldwar/documents/pdf/6-6.pdf
+
+- id: leffler2011
+  DOI: 10.1017/CHOL9780521837200
+  editor:
+    - family: Leffler
+      given: Melvyn P.
+    - family: Westad
+      given: Odd Arne
+  event-place: Cambridge
+  issued:
+    - year: 2011
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: The Cambridge history of the Cold War
+  type: book
+
+- id: lenin1964
+  author:
+    - family: Lenin
+      given: Vladimir
+  container-title: Collected Works
+  event-place: Moscow
+  issued:
+    - year: 1964
+  publisher: Progress Publishers
+  publisher-place: Moscow
+  title: 'Imperialism: the highest stage of capitalism'
+  type: chapter
+
+- id: lenin1974
+  author:
+    - family: Lenin
+      given: Vladimir Ilyich
+  issued:
+    - year: 1974
+  title: Collected works
+  type: book
+  URL: 'https://www.marxists.org/archive/lenin/works/cw/'
+
+- id: louis2015
+  author:
+    - family: Louis
+      given: William Roger
+    - family: Robinson
+      given: Ronald
+  issued:
+    - year: 2015
+      month: 11
+  page: 1–16
+  title: The imperialism of decolonization
+  type: chapter
+  URL: >-
+    https://moodle.bbk.ac.uk/pluginfile.php/474568/mod_resource/content/0/Louis%20%20Robinson.pdf
+
+- id: lundestad2000
+  author:
+    - family: Lundestad
+      given: Geir
+  container-title: Reviewing the cold war
+  ISBN: 0-7146-8120-2
+  issued:
+    - year: 2000
+  page: 64–80
+  publisher: Frank Cass
+  title: How (not) to study the origins of the Cold War
+  type: chapter
+  URL: 'https://readings.bbk.ac.uk/readings/L/Lundestad2000.pdf'
+
+- id: luthi2008
+  author:
+    - family: Lüthi
+      given: Lorenz M.
+  DOI: 10.1515/9781400837625
+  event-place: Princeton
+  ISBN: 978-1-4008-3762-5
+  issued:
+    - year: 2008
+  publisher: Princeton University Press
+  publisher-place: Princeton
+  title: 'The Sino-Soviet Split: Cold War in the Communist World'
+  type: book
+
+- id: maier2009
+  author:
+    - family: Maier
+      given: Charles S.
+  DOI: 10.4159/9780674040458
+  event-place: 'Cambridge, MA'
+  ISBN: 978-0-674-04045-8
+  issued:
+    - year: 2009
+  publisher: Harvard University Press
+  publisher-place: 'Cambridge, MA'
+  title: 'Among empires: American ascendancy and its predecessors'
+  type: book
+
+- id: marx1969
+  author:
+    - family: Marx
+      given: Karl
+    - family: Engels
+      given: Friedrich
+  container-title: Marx & engels selected works
+  event-place: Moscow
+  issued:
+    - year: 1969
+  page: 98–137
+  publisher: Progress Publishers
+  publisher-place: Moscow
+  title: Manifesto of the communist party
+  type: chapter
+  URL: 'https://www.marxists.org/archive/marx/works/download/pdf/Manifesto.pdf'
+
+- id: marx1969a
+  author:
+    - family: Marx
+      given: Karl
+    - family: Engels
+      given: Friedrich
+  event-place: Moscow
+  issued:
+    - year: 1969
+  publisher: Progress Publishers
+  publisher-place: Moscow
+  title: Marx / Engels selected works
+  type: book
+
+- id: marx1976
+  author:
+    - family: Marx
+      given: Karl
+  event-place: London
+  ISBN: 978-0-14-044568-8
+  issued:
+    - year: 1976
+  publisher: Penguin
+  publisher-place: London
+  title: 'Capital: critique of political economy'
+  type: book
+  volume: '1'
+
+- id: mccauley1995
+  author:
+    - family: McCauley
+      given: Martin
+  edition: '2'
+  ISBN: 0-582-27659-4
+  issued:
+    - year: 1995
+  publisher: Longman
+  title: 'The origins of the Cold War, 1941–49'
+  type: book
+  URL: >-
+    http://www.worldcat.org/title/origins-of-the-cold-war-1941-1949/oclc/32132052
+
+- id: mccauley1995a
+  author:
+    - family: McCauley
+      given: Martin
+  container-title: 'The origins of the Cold War, 1941–49'
+  ISBN: 0-582-27659-4
+  issued:
+    - year: 1995
+  page: 71–83
+  publisher: Longman
+  title: Decisions which led to Division
+  type: chapter
+  URL: 'https://readings.bbk.ac.uk/readings/M/McCauley1995.pdf'
+
+- id: mcdermott2015
+  author:
+    - family: McDermott
+      given: K
+    - family: Agnew
+      given: J
+  container-title: 'The Comintern: A history of international Communism from Lenin to Stalin'
+  issued:
+    - year: 2015
+      month: 9
+  page: 1–40
+  publisher: Macmillan
+  title: 'Comintern in the Era of Lenin, 1919–23'
+  type: chapter
+  URL: 'https://moodle.bbk.ac.uk/mod/resource/view.php?id=263129'
+
+- id: mcdermott2015a
+  author:
+    - family: McDermott
+      given: K
+    - family: Agnew
+      given: J
+  issued:
+    - year: 2015
+  publisher: Macmillan
+  title: 'The Comintern: A history of international Communism from Lenin to Stalin'
+  type: book
+
+- id: perez1983
+  author:
+    - family: Pérez
+      given: Louis A.
+  event-place: Pittsburgh
+  ISBN: 978-0-8229-7197-9
+  issued:
+    - year: 1983
+  publisher: University of Pittsburgh Press
+  publisher-place: Pittsburgh
+  title: 'Cuba between empires, 1878-1902'
+  type: book
+
+- id: priestland
+  author:
+    - family: Priestland
+      given: David
+  page: 234–272
+  title: The east is red
+  type: chapter
+  URL: 'https://moodle.bbk.ac.uk/mod/resource/view.php?id=263248'
+
+- id: priestlanda
+  author:
+    - family: Priestland
+      given: David
+  title: The red flag
+  type: book
+
+- id: radchenko2009
+  author:
+    - family: Radchenko
+      given: Sergey
+  event-place: 'Washington, DC'
+  ISBN: 978-0-8047-5879-6
+  issued:
+    - year: 2009
+  publisher: Woodrow Wilson Center Press
+  publisher-place: 'Washington, DC'
+  title: 'Two suns in the heavens: the Sino–Soviet struggle for supremacy, 1962–1967'
+  type: book
+
+- id: service2008
+  author:
+    - family: Service
+      given: Robert
+  collection-title: 'Communism, a world history'
+  issued:
+    - year: 2008
+  title: Comrades
+  type: book
+
+- id: service2015
+  author:
+    - family: Service
+      given: Robert
+  container-title: Comrades
+  issued:
+    - year: 2015
+      month: 9
+  page: 107–178
+  title: The communist international
+  type: chapter
+  URL: 'https://moodle.bbk.ac.uk/mod/resource/view.php?id=263247'
+
+- id: shipway2008
+  author:
+    - family: Shipway
+      given: Martin
+  event-place: Oxford
+  ISBN: 978-0-631-19968-7
+  issued:
+    - year: 2008
+  publisher: Blackwell
+  publisher-place: Oxford
+  title: >-
+    Decolonization and its impact: a comparative approach to the end of the
+    colonial empires
+  type: book
+
+- id: shipway2015
+  author:
+    - family: Shipway
+      given: Martin
+  container-title: Decolonization and its impact
+  issued:
+    - year: 2015
+      month: 11
+  page: 1–14
+  title: 'Imperial designs and nationalist realities in southeast asia, 1945–1955'
+  type: chapter
+  URL: >-
+    https://moodle.bbk.ac.uk/pluginfile.php/474569/mod_resource/content/0/Shipway%20chapter%204.pdf
+
+- id: shipway2015a
+  author:
+    - family: Shipway
+      given: Martin
+  container-title: Decolonization and its impact
+  issued:
+    - year: 2015
+      month: 11
+  page: 1–13
+  title: 'Shifting frameworks for change: The late colonial state in africa'
+  type: chapter
+  URL: >-
+    https://moodle.bbk.ac.uk/pluginfile.php/474570/mod_resource/content/0/Shipway%20chapter%205.pdf
+
+- id: shipway2015b
+  author:
+    - family: Shipway
+      given: Martin
+  container-title: Decolonization and its impact
+  issued:
+    - year: 2015
+      month: 11
+  page: 1–14
+  title: >-
+    Towards self-government: Patterns of late colonial african politics,
+    1951–1957
+  type: chapter
+  URL: >-
+    https://moodle.bbk.ac.uk/pluginfile.php/474571/mod_resource/content/0/Shipway%20chapter%207.pdf
+
+- id: stueck2004
+  author:
+    - family: Stueck
+      given: W
+  container-title: 'Rethinking the Korean War: a new diplomatic and stategic history'
+  issued:
+    - year: 2004
+  page: 11–38
+  title: The coming of the Cold War to Korea
+  type: chapter
+  URL: >-
+    https://moodle.bbk.ac.uk/pluginfile.php/451000/mod_resource/content/1/Stueck%2C%20Rethinking%20the%20Korean%20War%2C%20Chapter%201.pdf
+
+- id: thorpe1998
+  author:
+    - family: Thorpe
+      given: Andrew
+  DOI: 10.1093/ehr/CXIII.452.637
+  issue: '452'
+  issued:
+    - year: 1998
+      month: 6
+  language: English
+  page: 637–662
+  title: 'Comintern ''control'' of the Communist Party of Great Britain, 1920-43'
+  type: article-journal
+  URL: 'http://www.jstor.org/stable/578031'
+  volume: CXIII
+
+- id: thorpe2000
+  author:
+    - family: Thorpe
+      given: Andrew
+  container-title: Historical Journal
+  DOI: 10.1017/S0018246X99001181
+  issue: '3'
+  issued:
+    - year: 2000
+  page: 777–800
+  title: 'The membership of the Communist Party of Great Britain, 1920–1945'
+  type: article-journal
+  volume: '43'
+
+- id: truman1947
+  accessed:
+    - year: 2020
+      month: 8
+      day: 5
+  author:
+    - family: Truman
+      given: Harry S
+  issued:
+    - year: 1947
+      month: 3
+      day: 12
+  title: President Harry S. Truman's address before a joint session of Congress
+  title-short: Truman doctrine
+  type: article
+  URL: 'http://avalon.law.yale.edu/20th_century/trudoc.asp'
+
+- id: 'Wallace:Dmrp0uAN'
+  author:
+    - family: Wallace
+      given: Henry A
+  issued:
+    - year: 2015
+      month: 10
+  title: >-
+    "Achieving an Atmosphere of Mutual Trust and Confidence": Henry a. Wallace
+    offers an alternative to
+  type: article-journal
+  URL: 'http://historymatters.gmu.edu/d/6906/'
+
+- id: wallace1946
+  author:
+    - family: Wallace
+      given: Henry A
+  issued:
+    - year: 1946
+      month: 7
+      day: 23
+  title: >-
+    “Achieving an atmosphere of mutual trust and confidence”: Henry A. Wallace
+    offers an alternative to Cold War containment
+  type: article
+  URL: 'http://historymatters.gmu.edu/d/6906/'
+
+- id: weitz
+  author:
+    - family: Weitz
+      given: Eric
+  title: Creating German Communism
+  type: book
+
+- id: weitz2015
+  author:
+    - family: Weitz
+      given: Eric
+  container-title: Creating german communism
+  issued:
+    - year: 2015
+      month: 9
+  page: 1–24
+  title: Forging a party culture
+  type: chapter
+  URL: 'https://moodle.bbk.ac.uk/mod/resource/view.php?id=263246'
+
+- id: westad1998
+  author:
+    - family: Westad
+      given: Odd Arne
+  event-place: 'Washington, DC'
+  ISBN: 978-0-8047-3485-1
+  issued:
+    - year: 1998
+  publisher: Woodrow Wilson Center Press
+  publisher-place: 'Washington, DC'
+  title: 'Brothers in arms: the rise and fall of the Sino-Soviet alliance, 1945–1963'
+  type: book
+
+- id: westad2000
+  author:
+    - family: Westad
+      given: Odd Arne
+  collection-title: 'Approaches, interpretations, theory'
+  ISBN: 0-7146-8120-2
+  issued:
+    - year: 2000
+  publisher: Frank Cass
+  title: Reviewing the cold war
+  type: book
+  URL: >-
+    http://www.worldcat.org/title/reviewing-the-cold-war-approaches-interpretations-and-theory/oclc/45207875
+
+- id: westad2005
+  author:
+    - family: Westad
+      given: Odd Arne
+  container-title: The global cold war
+  ISBN: 978-0-521-70314-7
+  issued:
+    - year: 2005
+  page: 8–40
+  title: The empire of liberty
+  type: chapter
+  URL: >-
+    https://moodle.bbk.ac.uk/pluginfile.php/457629/mod_resource/content/1/Westad.%20Global%20Cold%20War.%20Ch%201.pdf
+
+- id: westad2009
+  author:
+    - family: Westad
+      given: Odd Arne
+  DOI: 10.1017/CBO9780511817991
+  event-place: Cambridge
+  ISBN: 978-0-511-81799-1
+  issued:
+    - year: 2009
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: 'The global Cold War, Third World interventions and the making of our times'
+  type: book
+
+- id: zubok2007
+  author:
+    - family: Zubok
+      given: V M
+  container-title: A failed empire
+  issued:
+    - year: 2007
+  page: 1–28
+  title: 'The Soviet people and Stalin between war and peace, 1945'
+  type: chapter
+  URL: 'https://readings.bbk.ac.uk/readings/Z/Zubok2009.pdf'
+
+- id: zubok2007a
+  author:
+    - family: Zubok
+      given: V M
+  collection-title: The soviet union in the cold war from stalin to gorbachev
+  ISBN: 978-0-8078-5958-2
+  issued:
+    - year: 2007
+  title: A failed empire
+  type: book
+...

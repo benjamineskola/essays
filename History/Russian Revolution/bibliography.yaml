@@ -1,0 +1,393 @@
+---
+references:
+- id: '1918'
+  issued:
+    - year: 1918
+  title: Constitution of the russian soviet federative socialist republic
+  type: legislation
+  URL: 'https://www.marxists.org/history/ussr/government/constitution/1918/index.htm'
+
+- id: '1936'
+  issued:
+    - year: 1936
+  title: Constitution of the union of soviet socialist republics
+  type: legislation
+  URL: 'https://www.marxists.org/reference/archive/stalin/works/1936/12/05.htm'
+
+- id: carr1987
+  author:
+    - family: Carr
+      given: E. H.
+  event-place: London
+  issued:
+    - year: 1987
+  publisher: Penguin
+  publisher-place: London
+  title: What is history?
+  type: book
+
+- id: christian1997
+  author:
+    - family: Christian
+      given: David
+  event-place: Basingstoke
+  issued:
+    - year: 1997
+  publisher: Macmillan
+  publisher-place: Basingstoke
+  title: Imperial and Soviet Russia
+  type: book
+
+- id: clements1991
+  editor:
+    - family: Clements
+      given: Barbara Evans
+    - family: Engel
+      given: Barbara Alpern
+    - family: Worobec
+      given: Christine D
+  event-place: Berkeley
+  issued:
+    - year: 1991
+  publisher-place: Berkeley
+  title: 'Russia''s women: Accomodation, resistance, transformation'
+  type: book
+
+- id: ellissitzky1927
+  archive: State Tretyakov Gallery
+  author:
+    - literal: El Lissitzky
+  issued:
+    - year: 1927
+  title: >-
+    Interior Project for the F-Type Residential Cell: Commune House of the
+    Architect M. Ginzburg
+  type: graphic
+  URL: >-
+    http://images.e-flux-systems.com/2012_12_El-Lissitzky_InteriorProject_1927_CollectionStateTretyakov_GalleryMoscow_Overwinning-op-de-alledaagsheidWEB.jpg,1440
+
+- id: evans2014
+  author:
+    - family: Evans
+      given: Richard J.
+  event-place: London
+  issued:
+    - year: 2014
+  publisher: Abacus
+  publisher-place: London
+  title: Altered pasts
+  type: book
+
+- id: figes1996
+  author:
+    - family: Figes
+      given: Orlando
+  event-place: London
+  issued:
+    - year: 1996
+  publisher: Penguin
+  publisher-place: London
+  title: A people’s tragedy
+  type: book
+
+- id: fitzpatrick1999
+  author:
+    - family: Fitzpatrick
+      given: Sheila
+  event-place: Oxford
+  issued:
+    - year: 1999
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: Everyday Stalinism
+  type: book
+
+- id: fitzpatrick2008a
+  author:
+    - family: Fitzpatrick
+      given: Sheila
+  container-title: 'The russian revolution, 1917–32'
+  ISBN: 978-0-19-923767-8
+  issued:
+    - year: 2008
+  page: 68–92
+  publisher: Oxford University Press
+  title: The civil war
+  type: chapter
+  URL: 'https://readings.bbk.ac.uk/readings/F/Fitzpatrick2008.pdf'
+
+- id: florinsky1927
+  author:
+    - family: Florinsky
+      given: Michael T
+  container-title: Political Science Quarterly
+  DOI: 10.2307/2142786
+  issue: '2'
+  issued:
+    - year: 1927
+      month: 6
+  page: 203–227
+  title: The Russian mobilization of 1914
+  type: article-journal
+  URL: 'https://www.jstor.org/stable/2142786'
+  volume: '42'
+
+- id: goldman1991
+  author:
+    - family: Goldman
+      given: Wendy
+  container-title: Russia’s women
+  editor:
+    - family: Clements
+      given: Barbara Evans
+    - family: Engel
+      given: Barbara Alpern
+    - family: Worobec
+      given: Christine D
+  event-place: Berkeley
+  issued:
+    - year: 1991
+  publisher: University of California Press
+  publisher-place: Berkeley
+  title: 'Women, abortion and the state, 1917–36'
+  type: chapter
+
+- id: keep1995
+  author:
+    - family: Keep
+      given: John L H
+  collection-title: Last of the empires
+  edition: '2'
+  issued:
+    - year: 1995
+  publisher: Oxford University Press
+  title: 'A history of the soviet union, 1945–1991'
+  type: book
+  URL: >-
+    http://www.worldcat.org/title/history-of-the-soviet-union-1945-1991-last-of-the-empires/oclc/59498696
+
+- id: kimball
+  author:
+    - family: Kimball
+      given: Alan
+  title: 'Russian Peasants and Village lands, 1861–1917'
+  type: webpage
+  URL: 'http://pages.uoregon.edu/kimball/1861-1917.krx.lnd.htm'
+
+- id: lenin1915
+  author:
+    - family: Lenin
+      given: Vladimir
+  container-title: Collected Works
+  issued:
+    - year: 1915
+  title: Socialism and war
+  type: chapter
+  URL: 'https://www.marxists.org/archive/lenin/works/1915/s+w'
+  volume: '21'
+
+- id: lenin1916
+  author:
+    - family: Lenin
+      given: Vladimir
+  container-title: Collected Works
+  issued:
+    - year: 1916
+  title: A caricature of marxist and imperialist economism
+  type: chapter
+  URL: 'https://www.marxists.org/archive/lenin/works/1916/carimarx/index.htm'
+  volume: '23'
+
+- id: lenin1917
+  author:
+    - family: Lenin
+      given: Vladimir
+  container-title: Collected Works
+  issued:
+    - year: 1917
+  title: The state and revolution
+  type: chapter
+  URL: 'https://www.marxists.org/archive/lenin/works/1917/staterev/'
+  volume: '25'
+
+- id: lenin1917a
+  author:
+    - family: Lenin
+      given: Vladimir
+  container-title: Collected Works
+  issued:
+    - year: 1917
+  title: War and revolution
+  type: chapter
+  URL: 'https://www.marxists.org/archive/lenin/works/1917/may/14.htm'
+  volume: '24'
+
+- id: lenin1917b
+  author:
+    - family: Lenin
+      given: Vladimir
+  container-title: Collected Works
+  event-place: Moscow
+  issued:
+    - year: 1917
+  publisher: Progress Publishers
+  publisher-place: Moscow
+  title: The tasks of the proletariat in the present revolution (the April theses)
+  type: chapter
+  URL: 'https://www.marxists.org/archive/lenin/works/1917/apr/04.htm'
+  volume: '24'
+
+- id: lenin1918
+  author:
+    - family: Lenin
+      given: Vladimir
+  container-title: Collected Works
+  issued:
+    - year: 1918
+  title: Speech at the First All-Russia Congress of Working Women
+  type: chapter
+  URL: 'https://www.marxists.org/archive/lenin/works/1918/nov/19.htm'
+  volume: '28'
+
+- id: lenin1919
+  author:
+    - family: Lenin
+      given: Vladimir
+  container-title: Collected Works
+  issued:
+    - year: 1919
+  title: Soviet power and the status of women
+  type: chapter
+  URL: 'https://www.marxists.org/archive/lenin/works/1919/nov/06.htm'
+  volume: '30'
+
+- id: lenin1920
+  author:
+    - family: Lenin
+      given: Vladimir
+  container-title: Women and Communism
+  issued:
+    - year: 1920
+  title: On International Women's Day
+  type: chapter
+  URL: 'https://www.marxists.org/archive/lenin/works/1920/mar/04.htm'
+
+- id: marx1976
+  author:
+    - family: Marx
+      given: Karl
+  event-place: London
+  ISBN: 978-0-14-044568-8
+  issued:
+    - year: 1976
+  publisher: Penguin
+  publisher-place: London
+  title: 'Capital: critique of political economy'
+  type: book
+  volume: '1'
+
+- id: marx1980
+  author:
+    - family: Marx
+      given: Karl
+  container-title: Marx / Engels Selected Works
+  issued:
+    - year: 1980
+  title: Critique of the Gotha programme
+  type: chapter
+  URL: 'https://www.marxists.org/archive/marx/works/1875/gotha/index.htm'
+  volume: '3'
+
+- id: petrogradsoviet1917
+  author:
+    - literal: Petrograd Soviet
+  issued:
+    - year: 1917
+  title: >-
+    Order No. 1 of the Petrograd Soviet of Workers' and Soldiers' Deputies to
+    the Petrograd District Garrison
+  type: legislation
+  URL: 'https://www.marxists.org/history/ussr/government/1917/03/01.htm'
+
+- id: pichugina1939
+  author:
+    - family: Pichugina
+      given: M.
+  issued:
+    - year: 1939
+  title: Women in the USSR
+  type: article
+  URL: 'https://www.marxists.org/subject/women/authors/pichugina/women.html'
+
+- id: service2013
+  author:
+    - family: Service
+      given: Robert
+  edition: '3'
+  event-place: London
+  issued:
+    - year: 2013
+  publisher: Penguin
+  publisher-place: London
+  title: A history of modern Russia
+  type: book
+
+- id: shanin1985
+  author:
+    - family: Shanin
+      given: Teodor
+  event-place: Basingstoke
+  issued:
+    - year: 1985
+  publisher: Macmillan
+  publisher-place: Basingstoke
+  title: Russia as a developing society
+  type: book
+
+- id: socialistrevolutionaryparty1905
+  author:
+    - literal: Socialist Revolutionary Party
+  issued:
+    - year: 1905
+  title: Programme of the Socialist Revolutionary Party
+  type: book
+  URL: 'https://community.dur.ac.uk/a.k.harrington/srprog.html'
+
+- id: trotsky1937
+  author:
+    - family: Trotsky
+      given: Leon
+  issued:
+    - year: 1937
+  title: The revolution betrayed
+  type: book
+  URL: 'https://www.marxists.org/archive/trotsky/1936/revbet/index.htm'
+
+- id: westwood1984
+  author:
+    - family: Westwood
+      given: J. N.
+  event-place: Oxford
+  issued:
+    - year: 1984
+  publisher: OUP
+  publisher-place: Oxford
+  title: 'Endurance and endeavour: Russian history 1812–1980'
+  type: book
+
+- id: wolff1949
+  author:
+    - family: Wolff
+      given: M M
+  container-title: The Modern Law Review
+  DOI: 10.1111/j.1468-2230.1949.tb00126.x
+  issue: '3'
+  issued:
+    - year: 1949
+      month: 7
+  language: English
+  page: 290–296
+  title: Some aspects of marriage and divorce laws in soviet russia
+  type: article-journal
+  volume: '12'
+...

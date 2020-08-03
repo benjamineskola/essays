@@ -1,0 +1,362 @@
+---
+references:
+- id: christensen1982
+  editor:
+    - family: Christensen
+      given: Torben
+    - family: Hutchison
+      given: William R
+  ISBN: 87-7003-437-0
+  issued:
+    - year: 1982
+  title: Missionary ideologies in the imperialist era
+  type: book
+  URL: >-
+    http://www.worldcat.org/title/missionary-ideologies-in-the-imperialist-era-1880-1920-papers-from-the-durham-consultation-1981/oclc/954226168
+
+- id: darch2009
+  author:
+    - family: Darch
+      given: John H.
+  event-place: 'Eugene, OR'
+  issued:
+    - year: 2009
+  publisher: Wipf and Stock
+  publisher-place: 'Eugene, OR'
+  title: >-
+    Missionary imperialists? Missionaries, government and the growth of the
+    British empire in the tropics, 1860–1885
+  type: book
+
+- id: fischer-tine2004
+  author:
+    - family: Fischer-Tiné
+      given: Harald
+    - family: Mann
+      given: Michael
+  collection-title: Cultural ideology in british india
+  ISBN: 1-84331-091-0
+  issued:
+    - year: 2004
+  language: English
+  publisher: Anthem Press
+  title: Colonialism as civilizing mission
+  type: book
+  URL: >-
+    http://books.google.co.uk/books?id=xOWLCCWsVR8C&printsec=frontcover&dq=intitle:colonialism+as+civilizing+mission&hl=&cd=1&source=gbs_api
+
+- id: goodman2009
+  author:
+    - family: Goodman
+      given: Jordan
+  event-place: London
+  issued:
+    - year: 2009
+  publisher: Verso
+  publisher-place: London
+  title: The Devil and Mr Casement
+  type: book
+
+- id: grant2005
+  author:
+    - family: Grant
+      given: Kevin
+  event-place: London
+  issued:
+    - year: 2005
+  publisher: Routledge
+  publisher-place: London
+  title: 'A civilised savagery: Britain and the new slaveries in Africa, 1884-1926'
+  type: book
+
+- id: hansard1908
+  author:
+    - literal: Hansard
+  issued:
+    - year: 1908
+      month: 2
+      day: 26
+  title: House of Commons Debate on the Congo Free State
+  type: article-magazine
+  URL: >-
+    https://hansard.parliament.uk/commons/1908-02-26/debates/00dd9ca8-409f-4f67-bc24-823715fe3d4a/CongoFreeState
+  volume: '184'
+
+- id: hansen1982
+  author:
+    - family: Hansen
+      given: Holger Bernt
+  container-title: Missionary ideologies in the imperialist era
+  editor:
+    - family: Christensen
+      given: Torben
+    - family: Hutchison
+      given: William R.
+  event-place: Århus
+  issued:
+    - year: 1982
+  publisher: Aros
+  publisher-place: Århus
+  title: Mission and colonialism in Uganda
+  type: chapter
+
+- id: howe1993
+  author:
+    - family: Howe
+      given: S
+  container-title: 'The left and the end of empire, 1918–1964'
+  ISBN: 978-0-19-820423-7
+  issued:
+    - year: 1993
+  page: 82–142
+  title: Anti-colonialism in British politics
+  type: chapter
+  URL: >-
+    http://www.worldcat.org/title/anticolonialism-in-british-politics-the-left-and-the-end-of-empire-1918-1964/oclc/27895810
+
+- id: howe2002
+  author:
+    - family: Howe
+      given: Stephen
+  DOI: '10.1093/acprof:oso/9780199249909.001.0001'
+  event-place: Oxford
+  issued:
+    - year: 2002
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: Ireland and empire
+  type: book
+
+- id: hung2003
+  author:
+    - family: Hung
+      given: Ho-fung
+  container-title: Sociological Theory
+  DOI: 10.1111/1467-9558.00188
+  issue: '3'
+  issued:
+    - year: 2003
+      month: 9
+  language: English
+  page: 254–280
+  title: >-
+    Orientalist knowledge and social theories: China and the european
+    conceptions of east-west differences from 1600 to 1900
+  type: article-journal
+  URL: 'http://stx.sagepub.com/lookup/doi/10.1111/1467-9558.00188'
+  volume: '21'
+
+- id: love1999
+  author:
+    - family: Love
+      given: Ronald S
+  container-title: International History Review
+  DOI: 10.1080/07075332.1999.9640850
+  issue: '1'
+  issued:
+    - year: 1999
+      month: 3
+  language: English
+  page: 1–27
+  title: >-
+    Monarchs, merchants, and missionaries in early modern asia: The missions
+    étrangères in siam, 1662–1684
+  type: article-journal
+  URL: 'http://www.jstor.org/stable/10.2307/40108914'
+  volume: '21'
+
+- id: macaulay1835
+  author:
+    - family: MacAulay
+      given: Thomas
+  ISBN: '9780511627552'
+  issued:
+    - year: 1835
+      month: 2
+  publisher: Cambridge University Press
+  title: Minute on education
+  type: article
+  URL: >-
+    http://www.worldcat.org/title/letters-of-thomas-babington-macaulay-volume-3-january-1834-august-1841/oclc/776981101
+
+- id: mcculloch2004
+  author:
+    - family: McCulloch
+      given: Jock
+  container-title: Gender and Empire
+  event-place: Oxford
+  issued:
+    - year: 2004
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: 'Empire and violence, 1900–39'
+  type: chapter
+
+- id: metcalf1994
+  author:
+    - family: Metcalf
+      given: Thomas R.
+  event-place: Cambridge
+  issued:
+    - year: 1994
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: Ideologies of the Raj
+  type: book
+
+- id: owen1998
+  author:
+    - family: Owen
+      given: 'N'
+  container-title: 'The oxford history of the british empire volume IV: The twentieth century'
+  event-place: Oxford
+  issued:
+    - year: 1998
+      month: 5
+  page: 1–25
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: Critics of empire in Britain
+  type: chapter
+
+- id: owen2007
+  author:
+    - family: Owen
+      given: Nicholas
+  DOI: '10.1093/acprof:oso/9780199233014.001.0001'
+  event-place: Oxford
+  issued:
+    - year: 2007
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: The British left and India
+  type: book
+
+- id: porter1997
+  author:
+    - family: Porter
+      given: Andrew
+  container-title: The Journal of Imperial and Commonwealth History
+  DOI: 10.1080/03086539708583005
+  issue: '3'
+  issued:
+    - year: 1997
+      month: 9
+  language: English
+  page: 367–391
+  title: 'Cultural imperialism and protestant missionary enterprise, 1780–1914'
+  type: article-journal
+  URL: 'http://www.tandfonline.com/doi/abs/10.1080/03086539708583005'
+  volume: '25'
+
+- id: porter1999
+  author:
+    - family: Porter
+      given: Andrew
+  container-title: The Oxford history of the British empire
+  editor:
+    - family: Porter
+      given: Andrew
+  event-place: Oxford
+  issued:
+    - year: 1999
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: 'Trusteeship, anti-slavery and humanitarianism'
+  type: chapter
+  volume: '3'
+
+- id: porter2004
+  author:
+    - family: Porter
+      given: Andrew
+  event-place: Manchester
+  issued:
+    - year: 2004
+  publisher: Manchester University Press
+  publisher-place: Manchester
+  title: Religion versus empire?
+  type: book
+
+- id: semmel1960
+  author:
+    - family: Semmel
+      given: Bernard
+  event-place: Cambridge
+  issued:
+    - year: 1960
+  PMID: '60004234'
+  publisher: Harvard University Press
+  publisher-place: Cambridge
+  title: 'Imperialism and social reform: English social-imperial thought 1895–1914'
+  type: book
+
+- id: stengers1985
+  author:
+    - family: Stengers
+      given: Jean
+  container-title: The Cambridge history of Africa
+  DOI: 10.1017/CHOL9780521228039.009
+  editor:
+    - family: Oliver
+      given: Roland
+    - family: Sanderson
+      given: G. N.
+  event-place: Cambridge
+  issued:
+    - year: 1985
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: 'King Leopold’s Congo, 1886–1908'
+  type: chapter
+  volume: '6'
+
+- id: thompson1997
+  author:
+    - family: Thompson
+      given: Andrew S
+  container-title: Journal of British Studies
+  DOI: 10.1086/386132
+  issue: '2'
+  issued:
+    - year: 1997
+      month: 1
+  language: English
+  page: 147–177
+  title: >-
+    The language of imperialism and the meanings of empire: Imperial discourse
+    in british politics, 1895-1914
+  type: article-journal
+  URL: 'http://www.journals.uchicago.edu/doi/abs/10.1086/386132'
+  volume: '36'
+
+- id: webster1982
+  author:
+    - family: Webster
+      given: John C. B.
+  container-title: Missionary ideologies in the imperialist era
+  editor:
+    - family: Christensen
+      given: Torben
+    - family: Hutchison
+      given: William R.
+  event-place: Århus
+  ISBN: 87-7003-437-0
+  issued:
+    - year: 1982
+  publisher: Aros
+  publisher-place: Århus
+  title: British missions in India
+  type: chapter
+  URL: >-
+    http://www.worldcat.org/title/missionary-ideologies-in-the-imperialist-era-1880-1920-papers-from-the-durham-consultation-1981/oclc/954226168
+
+- id: xavier1543
+  author:
+    - family: Xavier
+      given: Francis
+  issued:
+    - year: 1543
+  title: Letter from india to the society of jesus at rome
+  type: article
+...

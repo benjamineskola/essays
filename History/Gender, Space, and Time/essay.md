@@ -1,0 +1,68 @@
+---
+title: To what extent and in what ways is Imperialism gendered?
+author: Benjamin M. A’Lee
+date: 15 March 2016
+header-includes: |
+  \usepackage{fancyhdr}
+  \usepackage{titling}
+  \pagestyle{fancy}
+  \fancyhead[L]{\theauthor}
+  \fancyhead[C]{Gender, Space, and Time}
+  \fancyhead[R]{\thedate}
+  \fancyfoot[C]{\thepage}
+
+nocite:
+---
+
+<!-- 80% -->
+
+Imperialism has been defined as ‘the sustained effort to assimilate a country or region to the political, economics, or cultural system of another power’ [@darwin1997]; in particular, the process can be seen in capitalism from the late eighteenth century onwards. Throughout this period, empires have relied on a variety of ideological constructions in order to justify, maintain, and perpetuate themselves. The most notable of these has been the racial theories that have been used to justify slavery, expropriation of land, and social domination. Alongside this, ideologies of gender have also been used for similar purposes; gender ideology has been intertwined with the ideology of race and class to produce a complex sociocultural justification for empire whose effects are still felt today. On another level, imperialism can be shown to have material effects which were and are differentiated by gender; once again, these gendered material effects have intertwined with racial and class-based power structures. This essay will, therefore, argue that imperialism is gendered on both a material and an ideological level, while also being inseparable from the racial and class systems that developed alongside gender. The focus will be on Britain and its empire, particularly during the ‘long’ nineteenth century, with examples from other empires and other periods as appropriate.
+
+<!--
+- gendered ideology as justification of empire
+  - masculinity - nonwhite men/servants feminized
+  - femininity - how white and nonwhite women are differentiated?
+  - Indian mutiny
+  - Suffrage
+-->
+
+The nineteenth century saw significant changes in the structure of British society. With the loss of much of Britain's North American empire at the end of the eighteenth century, its focus had shifted to the east and its domination of India expanded throughout the century. At the same time it led the world in industrialization --- a process entailing both technological advances and social reorganization. The urban population of England and Wales grew from 34 percent of the total in 1801 to 78 percent in 1901 [@law1967]. This change necessarily involved not only new patterns of working but also new modes of living, with new conceptions of public and private space and new ideas about the ideal form of family life. These new conceptions were then universalized, in the form of Britain's (and more generally Europe's) supposed ‘civilizing mission’ around the world, which itself formed the justification for the material exploitation of the colonized regions. Secondarily, these conceptions were then applied to the urban working class of Britain, who were categorized as inferior or ‘savage’ as a result of their failure to conform to middle-class ideals.
+
+The intersection of race and gender ideologies can be seen in particular in the first Indian War of Independence of 1857. Indian men were depicted, in the popular imagination, as sexual predators, targeting British women; the British response to the rebellion was an ‘intense and passionate desire for vengeance’, in which every Indian male was implicated; entire male populations of rebellious villages were ordered to be executed [@metcalf1965 290–293]. This fear of non-white men as sexual predators can be seen in similar attitudes towards African men, and coincided with the Victorian concern for ‘racial purity’.
+
+However, the ‘sexual predator’ stereotype was not the only conception of non-white masculinity within the British empire. Increasingly, the ideal of masculinity was structured around the ability to provide for a family; this was reflected in, amongst other things, the campaigns by workers' movements for not only a living wage but a family wage, i.e., a wage for a male head of a household which would be sufficient to support his wife and children and thus make it unnecessary for them to work [@marx1976 chapter 10]. Conversely, therefore, men who could not work freely for a living and provide for their family were feminized, leading to the paradoxical conceptualization of non-white men on the one hand as hyper-masculine sexual predators when they were rebellious, and on the other as feminine when they were subservient.
+
+The feminization of non-white men was reflected in the masculinization of non-white and working-class women. Wage labour was held to be morally degrading to women and girls, who ‘become rough, foul-mouthed boys, before Nature has taught them that they are women … they learn to treat all feelings of decency and of shame with contempt’ [@childrensemploymentcommission1866; quoted in @marx1976 chapter 15].
+
+<!--
+TODO expand this wrt race.
+- Discourse - gendered representations of colonizing/colonized nations
+- "native and his wife" fanon
+-->
+
+Nations themselves were conceptualized as gendered entities. Newly-colonized (or to-be-colonized) territories were envisaged as ‘virgin’, to be ‘penetrated’ by the imperial power and made fruitful. Conversely, when the imperial nations themselves were gendered as female, it was often as mothers --- for example, as the ‘motherland’. Queen Victoria herself was portrayed as the ‘Great Mother’ of the colonized people, framing the imperial relationship as a domestic one in a way that was simultaneously an overstatement of its benevolence and an infantilization of the imperial subjects. Even in postcolonial theory, both the imperial power and the imperial subject (‘the native’) were conceptualized by Fanon as male, writing of ‘his’ desire for ‘the settler's … wife’; women here are without agency even for liberation from colonial domination, which must be gained for them by men [quoted in @mcclintock1995].
+
+Imperialism was further seen to be a task of spreading European ideals (seen as inherently more desirable), including the ideal of bourgeois domesticity. European conceptions of property, legality, and propriety were among those expected to be adopted in the colonized regions, including the Westernized form of marriage [@mansell2015]. This was accompanied in the metropole by the portrayal of the imperial mission as one of domesticization, itself seen as being a fundamental part of civilization. Adverts for Pear's Soap described ‘the virtues of cleanliness’ as a ‘first step towards lightening the White Man's Burden’ [@mcclintock1995].
+
+<!--
+- material effects of empire differentiated by gender
+- dominance of males in imperial institutions
+- doubly-subordinate status of females in colonized regions
+- see eg imperial leather on South Africa
+-->
+
+As described above, not only have the ideological constructs of empire relied upon gender, but so too have the material effects of empire, both in the metropole and the colonies. In the metropole in particular, this can be seen in the examples given above of the growth of the bourgeois nuclear family. As the position of women became ideologically enshrined as one of subservience to men, limited to the private sphere of the home, women's access to material wealth, political influence, and education was increasingly limited in relation to men.
+
+This can be seen clearly in the matter of the franchise. While before the seventeenth century the status of women as ‘citizens’ (that is, able to participate in public life) was ambiguous, it was possible for a woman who held property in her own right (for example, a widow) to exercise her rights as a property-owner and vote in elections. However, increasingly these ambiguities were ‘clarified’, culminating in the Representation of the People Act 1832, which standardized the franchise across all constituencies and referred explicitly to ‘male persons’ [@crawford2001 197–218]. Thus, women were systematically excluded from the governance of Britain and, by extension, its growing empire. (Perhaps not by coincidence, the first woman elected to the House of Commons, Constance Markiewicz, was elected to a seat in Dublin and, as a member of Sinn Féin, one of those who abstained from participation at Westminster in favour of forming an Irish assembly and declaring independence from the British Empire.)
+
+Perhaps more pervasively, the right of married women to own and inherit property independent of their husbands was not established, in a limited form, until 1870 (the Married Women's Property Act), and more generally in 1882 (by a subsequent act of the same name). This also established a married woman's separate legal identity, a prerequisite in many cases for participation in public life. This had been, in particular, an argument against the enfranchisement of women, and thus its passage strengthened the suffrage movement [@shanley1993].
+
+Outside the metropole, electoral rights, and indeed the right to self-government, were not evenly distributed. Those which were granted rights to self-government earliest were the ‘white dominions’; that is, those in which European colonists were dominant, beginning with the Canadian colonies (at the time separate jurisdictions) in the 1840s and most of the Australian colonies plus New Zealand in the 1850s. The South African colonies (which had significant internal ethnic disputes, including between British and Dutch settlers) were granted self-government between the 1870s and 1890s, along with the remainder of Australia. In India, limited elected representation in the mostly-nominated Legislative Council came only in 1909 and was extended after 1919; however, the Governor-General retained significant legislative power, including an unlimited veto, and it was only with independence in 1947 that self-government existed on a par with Canada or Australia.
+
+It can be noted, however, that the enfranchisement of women began earlier in the self-governing dominions than in the United Kingdom itself. This began with New Zealand in 1893 and followed by South Australia in 1895, then all of Australia after the union in 1902. Irish women were given the right to vote on the same terms as British women, in 1918, but upon self-government in 1922 the new Irish government equalized women's franchise with that of men. A similar process can be seen in the Russian Empire, where self-governing Finland granted women the right to vote in 1906, before independence in 1917. However, the disenfranchisement of the non-white colonies by the metropole is reflected in the disenfranchisement of indigenous men and women in the white dominions. Neither Canada nor Australia permitted indigenous people to vote before the 1960s, and South Africa not until the 1990s.
+
+The effects of imperialism were therefore differentiated by both race and gender (among other things). Thus, non-white women experienced the effects of empire based upon both their race and their gender. Additionally, these two dimensions interacted to produce another category of effects, those which affected non-white women but not white women or non-white men [@crenshaw1989]. For instance, in South Africa pass laws (requiring black people to carry identification documents) restricted black women in ways that did not apply to black men, for example by limiting their employment in ‘white’ areas to domestic service. More subtly by mediating the relationship between the state and the individual through the husband or father, in a similar way to that which had previously also applied to white women [@mcclintock1995].
+
+The system of empire is thus a web of intertwined relationships. As explored in Imperial Leather, the basic relationship between the imperial power and subject nations was influenced by numerous confounding factors. The imperial powers themselves were in no case completely unified. Divisions between classes and genders in the metropole overlapped with and were impacted by division between races. Working class people were conceptualized as being of a somehow different race to those of the ruling class, and conversely class conflict was assuaged by appealing to a unity of race between the classes (and thus excluding black people from the working class as well as the ruling class). Supposed white-european superiority was in turn counted as a point in favour of extending the franchise to women, for example in the United States, where it was seen as inappropriate that working-class black men might have rights that exceeded those of middle-class white women. Thus the conclusion of this essay is not a statement of the extent to which gender relates to imperialism, but of the extent to which gender, race, and class are intertwined in the operation of imperialist capitalism.
+
+#essay

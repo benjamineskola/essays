@@ -1,0 +1,334 @@
+---
+references:
+- id: ainsworth2015
+  author:
+    - family: Ainsworth
+      given: Claire
+  container-title: Nature
+  DOI: 'doi:10.1038/518288a'
+  issue: '518'
+  issued:
+    - year: 2015
+      month: 2
+  page: 288–291
+  title: Sex redefined
+  type: article-journal
+  URL: >-
+    http://www.nature.com/polopoly_fs/1.16943!/menu/main/topColumns/topLeftColumn/pdf/518288a.pdf
+
+- id: bland1998
+  container-title: Sexology uncensored
+  editor:
+    - family: Bland
+      given: Lucy
+    - family: Doan
+      given: Laura
+  ISBN: 0-7456-2113-9
+  issued:
+    - year: 1998
+  page: 75–104
+  title: Transexuality and bisexuality
+  type: chapter
+  URL: 'https://readings.bbk.ac.uk/readings/B/Bland1998Transexuality.pdf'
+
+- id: bland1998a
+  collection-title: The documents of sexual science
+  editor:
+    - family: Bland
+      given: Lucy
+    - family: Doan
+      given: Laura
+  issued:
+    - year: 1998
+  publisher: Polity Press
+  title: Sexology uncensored
+  type: book
+  URL: 'https://press.uchicago.edu/ucp/books/book/chicago/S/bo3614689.html'
+
+- id: childrensemploymentcommission1866
+  author:
+    - literal: Children's Employment Commission
+  issued:
+    - year: 1866
+  title: Fifth Report
+  type: book
+
+- id: crawford2001
+  author:
+    - family: Crawford
+      given: Patricia
+  container-title: 'The Putney debates of 1647: the Army, the Levellers and the English State'
+  editor:
+    - family: Mendle
+      given: Michael
+  event-place: Cambridge
+  ISBN: 0-521-65015-1
+  issued:
+    - year: 2001
+  page: 197–218
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  section: '10'
+  title: 'The poorest she: women and citizenship in early modern England'
+  type: chapter
+
+- id: crenshaw1989
+  author:
+    - family: Crenshaw
+      given: Kimberlé
+  container-title: The University of Chicago Legal Forum
+  issue: '140'
+  issued:
+    - year: 1989
+  page: 139–167
+  title: >-
+    Demarginalizing the intersection of race and sex: a black feminist critique
+    of antidiscrimination doctrine, feminist theory and antiracist politics
+  type: article-journal
+  URL: >-
+    https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1052&context=uclf
+
+- id: darwin1997
+  author:
+    - family: Darwin
+      given: John
+  container-title: English Historical Review
+  DOI: 10.1093/ehr/cxii.447.614
+  issue: '447'
+  issued:
+    - year: 1997
+  page: 614–42
+  title: 'Imperialism and the Victorians: the dynamics of territorial expansion'
+  type: article-journal
+  volume: '112'
+
+- id: jeffreys2005
+  author:
+    - family: Jeffreys
+      given: Sheila
+  issued:
+    - year: 2005
+  title: 'Beauty and misogyny: Harmful cultural practices in the west'
+  type: book
+  URL: >-
+    http://www.feministes-radicales.org/wp-content/uploads/2010/11/Jeffreys_Beauty_and_Misogyny_Harmful_Cultural_Practices_in_the_West__Women_and_Psychology_1.pdf
+
+- id: kristeva1981
+  author:
+    - family: Kristeva
+      given: Julia
+    - family: Alice
+      given: Jardine
+      suffix: ''
+    - family: Blake
+      given: Harry
+  container-title: Signs
+  DOI: 10.2307/3173503
+  issue: '1'
+  issued:
+    - year: 1981
+  page: 13–35
+  title: Women's time
+  type: article-journal
+  volume: '7'
+
+- id: law1967
+  author:
+    - family: Law
+      given: C. M.
+  container-title: Transactions of the Institute of British Geographers
+  DOI: 10.2307/621331
+  issue: '41'
+  issued:
+    - year: 1967
+  page: 125–143
+  title: 'The growth of urban population in England and Wales, 1801–1911'
+  type: article-journal
+
+- id: levine2004
+  author:
+    - family: Levine
+      given: Philippa
+  event-place: Oxford
+  ISBN: 0-19-924951-2
+  issued:
+    - year: 2004
+  language: English
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: Gender and empire
+  type: book
+  URL: >-
+    http://books.google.co.uk/books?id=IEwVDAAAQBAJ&printsec=frontcover&dq=levine+intitle:gender+and+empire&hl=&cd=1&source=gbs_api
+
+- id: mansell2015
+  author:
+    - family: Mansell
+      given: Wade
+  issued:
+    - year: 2015
+  publisher: 'Routledge, June'
+  title: A critical introduction to law
+  type: book
+
+- id: marston2000
+  author:
+    - family: Marston
+      given: Sallie A
+  container-title: Progress in Human Geography
+  issue: '2'
+  issued:
+    - year: 2000
+  language: English
+  page: 219–42
+  title: The social construction of scale
+  type: article-journal
+  volume: '24'
+
+- id: marx1976
+  author:
+    - family: Marx
+      given: Karl
+  event-place: London
+  ISBN: 978-0-14-044568-8
+  issued:
+    - year: 1976
+  publisher: Penguin
+  publisher-place: London
+  title: 'Capital: critique of political economy'
+  type: book
+  volume: '1'
+
+- id: mcclintock1995
+  author:
+    - family: McClintock
+      given: Anne
+  event-place: London
+  issued:
+    - year: 1995
+  publisher: Routledge
+  publisher-place: London
+  title: 'Imperial leather: race, gender, and sexuality in the colonial contest'
+  type: book
+
+- id: mcdowell1984
+  author:
+    - family: McDowell
+      given: Linda
+    - family: Massey
+      given: Doreen
+  container-title: Geography matters! A reader
+  editor:
+    - family: Massey
+      given: Doreen
+    - family: Allen
+      given: John
+  ISBN: 978-1-139-16783-3
+  issued:
+    - year: 1984
+  page: 128–47
+  title: A woman's place?
+  type: chapter
+  URL: 'https://doi.org/10.1017/cbo9781139167833.010'
+
+- id: metcalf1965
+  author:
+    - family: Metcalf
+      given: Thomas R.
+  event-place: London
+  issued:
+    - year: 1965
+  publisher: Princeton University Press
+  publisher-place: London
+  title: 'The aftermath of revolt: India 1857–1870'
+  type: book
+
+- id: metcalf1965a
+  author:
+    - family: Metcalf
+      given: Thomas R
+  container-title: 'The aftermath of revolt: India 1857–1870'
+  event-place: London
+  issued:
+    - year: 1965
+  page: 289–327
+  publisher: Princeton University Press
+  publisher-place: London
+  title: The legacy of the mutiny
+  type: chapter
+
+- id: metcalf1965b
+  author:
+    - family: Metcalf
+      given: Thomas R
+  collection-title: India 1857–1870
+  event-place: London
+  issued:
+    - year: 1965
+  publisher: Princeton University Press
+  publisher-place: London
+  title: The aftermath of revolt
+  type: book
+
+- id: nagar2002
+  author:
+    - family: Nagar
+      given: Richa
+    - family: Lawson
+      given: Victoria
+    - family: McDowell
+      given: Linda
+    - family: Hanson
+      given: Susan
+  container-title: Economic Geography
+  DOI: 10.2307/4140810
+  issue: '3'
+  issued:
+    - year: 2002
+      month: 7
+  page: '257'
+  title: >-
+    Locating globalization: Feminist (re)readings of the subjects and spaces of
+    globalization
+  type: article-journal
+  URL: 'https://www.jstor.org/stable/10.2307/4140810?origin=crossref'
+  volume: '78'
+
+- id: rai2013
+  author:
+    - family: Rai
+      given: S M
+  issued:
+    - year: 2013
+  title: >-
+    Gender and the political economy of development: From nationalism to
+    globalization
+  type: book
+  URL: >-
+    http://books.google.co.uk/books?hl=en&lr=&id=j7cEwoFy4nwC&oi=fnd&pg=PA1969&ots=zfOsIWpbkK&sig=V1IShmeWHnWMAAZ8HSXH4X2IyvE
+
+- id: redfern2010
+  author:
+    - family: Redfern
+      given: Catherine
+    - family: Aune
+      given: Kristin
+  container-title: Reclaiming the f word
+  ISBN: 978-1-84813-394-5
+  issued:
+    - year: 2010
+  page: 18–47
+  title: Liberated bodies
+  type: chapter
+  URL: 'https://readings.bbk.ac.uk/readings/R/redfern2010.pdf'
+
+- id: shanley1993
+  author:
+    - family: Shanley
+      given: Mary Lyndon
+  issued:
+    - year: 1993
+  publisher: Princeton University Press
+  title: 'Feminism, marriage, and the law in Victorian England'
+  type: book
+...

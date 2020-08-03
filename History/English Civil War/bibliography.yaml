@@ -1,0 +1,442 @@
+---
+references:
+- id: '2001'
+  collection-title: 'The army, the levellers and the english state'
+  event-place: Cambridge
+  issued:
+    - year: 2001
+  publisher-place: Cambridge
+  title: The Putney debates of 1647
+  type: book
+
+- id: adamson1990
+  author:
+    - family: Adamson
+      given: John S A
+  container-title: Transactions of the Royal Historical Society
+  DOI: 10.2307/3679164
+  issued:
+    - year: 1990
+  page: 93–120
+  title: The baronial context of the English Civil War
+  type: article-journal
+  URL: 'http://www.jstor.org/stable/3679164'
+  volume: '40'
+
+- id: adamson1991
+  author:
+    - family: Adamson
+      given: John S A
+  container-title: Historical Journal
+  DOI: 10.2307/2639726
+  issue: '1'
+  issued:
+    - year: 1991
+  page: 231–255
+  title: Politics and the nobility in civil-war England
+  type: article-journal
+  URL: 'http://www.jstor.org/stable/2639726'
+  volume: '34'
+
+- id: crawford2001
+  author:
+    - family: Crawford
+      given: Patricia
+  container-title: 'The Putney debates of 1647: the Army, the Levellers and the English State'
+  editor:
+    - family: Mendle
+      given: Michael
+  event-place: Cambridge
+  ISBN: 0-521-65015-1
+  issued:
+    - year: 2001
+  page: 197–218
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  section: '10'
+  title: 'The poorest she: women and citizenship in early modern England'
+  type: chapter
+
+- id: donagan1994
+  author:
+    - family: Donagan
+      given: Barbara
+  container-title: American Historical Review
+  DOI: 10.1086/ahr/99.4.1137
+  issue: '4'
+  issued:
+    - year: 1994
+  page: 1137–1166
+  title: 'Atrocity, war crime, and treason in the English Civil War'
+  type: article-journal
+  URL: 'http://www.jstor.org/stable/2168772'
+  volume: '99'
+
+- id: elton1974
+  author:
+    - family: Elton
+      given: Geoffrey Rudolph
+  container-title: Studies in tudor and stuart politics and government
+  issued:
+    - year: 1974
+  publisher: Cambridge University Press
+  title: A high road to civil war?
+  type: chapter
+  URL: 'http://dx.doi.org/10.1017/CBO9780511561108.008'
+
+- id: foster2006
+  author:
+    - family: Foster
+      given: R. E.
+  container-title: History Review
+  issue: '56'
+  issued:
+    - year: 2006
+  title: 'Conflicts and loyalties: the parliaments of Elizabeth I'
+  type: article-journal
+  URL: >-
+    https://www.historytoday.com/archive/conflicts-and-loyalties-parliaments-elizabeth-i
+
+- id: fritze1996
+  author:
+    - family: Fritze
+      given: R.H
+    - family: Robison
+      given: W. B.
+  issued:
+    - year: 1996
+  publisher: Greenwood
+  title: 'Historical dictionary of Stuart England: 1603–1689'
+  type: book
+
+- id: gardiner1883
+  author:
+    - family: Gardiner
+      given: Samuel R.
+  issued:
+    - year: 1883
+  publisher: 'Longmans, Green & Co.'
+  title: >-
+    History of England from the accession of James I to the outbreak of the
+    Civil War
+  type: book
+  volume: '5'
+
+- id: gentles1992
+  author:
+    - family: Gentles
+      given: I
+  container-title: 'The New Model Army in England, Ireland and Scotland 1645–53'
+  event-place: Oxford
+  ISBN: 0-631-15869-3
+  issued:
+    - year: 1992
+  page: 1–27
+  publisher: Blackwell
+  publisher-place: Oxford
+  section: '1'
+  title: The founding of the New Model Army
+  type: chapter
+
+- id: hirst1991
+  author:
+    - family: Hirst
+      given: Derek
+  container-title: Past and Present
+  DOI: 10.2307/650820
+  issue: '132'
+  issued:
+    - year: 1991
+  page: 33–66
+  title: The failure of godly rule in the english republic
+  type: article-journal
+  URL: 'http://www.jstor.org/stable/650820'
+
+- id: hutton2004
+  author:
+    - family: Hutton
+      given: Ronald
+  container-title: Debates in Stuart history
+  issued:
+    - year: 2004
+  publisher: Palgrave Macmillan
+  title: The Great Civil War
+  type: chapter
+
+- id: hutton2004a
+  author:
+    - family: Hutton
+      given: Ronald
+  ISBN: 1-4039-3588-2
+  issued:
+    - year: 2004
+  publisher: Palgrave Macmillan
+  title: Debates in stuart history
+  type: book
+  URL: 'http://www.worldcat.org/title/debates-in-stuart-history/oclc/54446473'
+
+- id: kishlansky1990
+  author:
+    - family: Kishlansky
+      given: Mark A
+  container-title: Historical Journal
+  DOI: 10.2307/2639804
+  issue: '4'
+  issued:
+    - year: 1990
+  page: 917–937
+  title: Saye what?
+  type: article-journal
+  URL: 'http://www.jstor.org/stable/2639804'
+  volume: '33'
+
+- id: lake1989
+  author:
+    - family: Lake
+      given: P
+  container-title: 'Conflict in early Stuart England: studies in religion and …'
+  editor:
+    - family: Cust
+      given: R
+    - family: Hughes
+      given: A
+  event-place: London
+  ISBN: 0-582-30173-4
+  issued:
+    - year: 1989
+  page: 72–106
+  publisher: Longman
+  publisher-place: London
+  section: '3'
+  title: 'Anti-popery: the structure of a prejudice'
+  type: chapter
+
+- id: mondi2007
+  author:
+    - family: Mondi
+      given: Megan
+  container-title: Constructing the Past
+  issue: '1'
+  issued:
+    - year: 2007
+  page: 139–82
+  title: >-
+    The speeches and self-fashioning of King James VI and I to the English
+    parliament, 1604-1624
+  type: article-journal
+  URL: >-
+    https://digitalcommons.iwu.edu/cgi/viewcontent.cgi?article=1009&context=constructing
+  volume: '8'
+
+- id: morrill1992
+  author:
+    - family: Morrill
+      given: J
+  container-title: 'Revolution and restoration: England in the 1650s'
+  event-place: London
+  ISBN: 1-85585-137-7
+  issued:
+    - year: 1992
+  page: 91–111
+  publisher: Collins & Brown
+  publisher-place: London
+  section: '5'
+  title: The impact on society
+  type: chapter
+
+- id: morton1989
+  author:
+    - family: Morton
+      given: Arthur Leslie
+  edition: '3'
+  issued:
+    - year: 1989
+  publisher: Lawrence & Wishart
+  title: A people's history of England
+  type: book
+
+- id: pearl
+  author:
+    - family: Pearl
+      given: Valerie
+  title: London's counter-revolution
+  type: chapter
+
+- id: pearl1979
+  author:
+    - family: Pearl
+      given: Valerie
+  container-title: London Journal
+  DOI: 10.1179/030580379793313748
+  issue: '1'
+  issued:
+    - year: 1979
+      month: 5
+  page: 3–34
+  title: Change and stability in seventeenth-century london
+  type: article-journal
+  volume: '5'
+
+- id: purkiss1997
+  author:
+    - family: Purkiss
+      given: Diane
+  container-title: Journal of Medieval and Early Modern Studies
+  issue: '1'
+  issued:
+    - year: 1997
+  page: 103–132
+  title: 'Desire and its deformities: Fantasies of witchcraft in the English Civil War'
+  type: article-journal
+  URL: 'https://muse.jhu.edu/article/16450'
+  volume: '27'
+
+- id: purkiss2006
+  author:
+    - family: Purkiss
+      given: Diane
+  container-title: 'The English Civil War: a people''s history'
+  event-place: London
+  ISBN: 978-0-00-715062-5
+  issued:
+    - year: 2006
+  page: 140–174
+  publisher: Harper Perennial
+  publisher-place: London
+  section: '7'
+  title: The valley of decision
+  type: chapter
+  URL: 'http://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.58.8.1317-b'
+
+- id: reeve1989
+  author:
+    - family: Reeve
+      given: L. J.
+  event-place: Cambridge
+  ISBN: 978-0-521-52133-8
+  issued:
+    - year: 1989
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: Charles I and the road to personal rule
+  type: book
+
+- id: russell1987
+  author:
+    - family: Russell
+      given: Conrad
+  container-title: History
+  DOI: 10.1111/j.1468-229X.1987.tb01469.x
+  ISBN: 0631208097
+  issue: '72'
+  issued:
+    - year: 1987
+  page: '395'
+  publisher: Blackwell Publishing Ltd
+  title: The British problem and the English Civil War
+  type: article-journal
+
+- id: sharpe1992
+  author:
+    - family: Sharpe
+      given: Kevin
+  ISBN: 978-0-300-06596-1
+  issued:
+    - year: 1992
+  publisher: Yale University Press
+  title: The personal rule of Charles I
+  type: book
+
+- id: smith2003
+  author:
+    - family: Smith
+      given: David Lawrence
+  container-title: A companion to Stuart Britain
+  editor:
+    - family: Coward
+      given: Barry
+  event-place: Oxford
+  issued:
+    - year: 2003
+  page: 233–52
+  publisher: Blackwell
+  publisher-place: Oxford
+  section: '12'
+  title: 'Politics in early Stuart Britain, 1603–1640'
+  type: chapter
+
+- id: tawney1941
+  author:
+    - family: Tawney
+      given: Richard Henry
+  container-title: Economic History Review
+  DOI: 10.2307/2590708
+  issue: '1'
+  issued:
+    - year: 1941
+  page: 1–38
+  title: 'The rise of the gentry, 1558–1640'
+  type: article-journal
+  URL: 'https://www.jstor.org/stable/2590708'
+  volume: '11'
+
+- id: woolrych1957
+  author:
+    - family: Woolrych
+      given: Austin Herbert
+  container-title: Cambridge Historical Journal
+  DOI: 10.2307/3020682
+  issue: '2'
+  issued:
+    - year: 1957
+  page: 133–161
+  title: The good old cause and the fall of the protectorate
+  type: article-journal
+  URL: 'http://www.jstor.org/stable/3020682'
+  volume: '13'
+
+- id: woolrych1990
+  author:
+    - family: Woolrych
+      given: Austin Herbert
+  container-title: History
+  DOI: 10.1111/j.1468-229X.1990.tb01515.x
+  issue: '244'
+  issued:
+    - year: 1990
+  page: 207–231
+  title: 'The cromwellian protectorate: a military dictatorship?'
+  type: article-journal
+  volume: '75'
+
+- id: woolrych2002
+  author:
+    - family: Woolrych
+      given: Austin Herbert
+  issued:
+    - year: 2002
+  publisher: Oxford University Press
+  title: 'Britain in revolution: 1625–1660'
+  type: book
+
+- id: wootton1991
+  author:
+    - family: Wootton
+      given: David
+  container-title: The Cambridge history of political thought 1450–1700
+  editor:
+    - family: Burns
+      given: J H
+    - family: Goldie
+      given: M
+  event-place: Cambridge
+  ISBN: 0-521-24716-0
+  issued:
+    - year: 1991
+  page: 412–442
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  section: '14'
+  title: Leveller democracy and the puritan revolution
+  type: chapter
+...
