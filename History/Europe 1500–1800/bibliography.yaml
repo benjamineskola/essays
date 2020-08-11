@@ -305,6 +305,17 @@ references:
   title: 'The French wars of religion, 1562–1629'
   type: book
 
+- id: hutton2004
+  author:
+    - family: Hutton
+      given: Ronald
+  container-title: Debates in Stuart history
+  issued:
+    - year: 2004
+  publisher: Palgrave Macmillan
+  title: The Great Civil War
+  type: chapter
+
 - id: kann1980
   author:
     - family: Kann
