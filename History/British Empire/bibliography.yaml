@@ -791,8 +791,6 @@ references:
   publisher: Vintage
   title: Orientalism
   type: book
-  URL: >-
-    http://books.google.co.uk/books?id=npF5BAAAQBAJ&printsec=frontcover&dq=inauthor:said+orientalism&hl=&cd=1&source=gbs_api
 
 - id: sanderson1985
   author:
@@ -875,7 +873,7 @@ references:
   title: 'Transactions of the Colony in the Beginning of September, 1790'
   type: chapter
 
-- id: travers2005
+- id: travers2007
   author:
     - family: Travers
       given: Robert
@@ -883,7 +881,7 @@ references:
   DOI: 10.1080/0308653042000329997
   issue: '1'
   issued:
-    - year: 2005
+    - year: 2007
   page: 7–27
   publisher: Routledge
   title: 'Ideology and British expansion in Bengal, 1757–72'

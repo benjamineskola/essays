@@ -42,8 +42,6 @@ references:
   publisher: Anthem Press
   title: Colonialism as civilizing mission
   type: book
-  URL: >-
-    http://books.google.co.uk/books?id=xOWLCCWsVR8C&printsec=frontcover&dq=intitle:colonialism+as+civilizing+mission&hl=&cd=1&source=gbs_api
 
 - id: goodman2009
   author:
@@ -176,8 +174,6 @@ references:
   publisher: Cambridge University Press
   title: Minute on education
   type: article
-  URL: >-
-    http://www.worldcat.org/title/letters-of-thomas-babington-macaulay-volume-3-january-1834-august-1841/oclc/776981101
 
 - id: mcculloch2004
   author:
@@ -202,6 +198,19 @@ references:
   publisher: Cambridge University Press
   publisher-place: Cambridge
   title: Ideologies of the Raj
+  type: book
+
+- id: mill2009
+  author:
+    - family: Mill
+      given: John Stuart
+  DOI: 10.1017/CBO9781139149785
+  event-place: Cambridge
+  issued:
+    - year: 2009
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  title: On liberty
   type: book
 
 - id: owen1998
@@ -278,6 +287,19 @@ references:
   title: Religion versus empire?
   type: book
 
+- id: said2014
+  author:
+    - family: Said
+      given: Edward W
+  ISBN: 0-8041-5386-8
+  issued:
+    - year: 2014
+      month: 10
+  language: English
+  publisher: Vintage
+  title: Orientalism
+  type: book
+
 - id: semmel1960
   author:
     - family: Semmel
@@ -330,6 +352,21 @@ references:
   URL: 'http://www.journals.uchicago.edu/doi/abs/10.1086/386132'
   volume: '36'
 
+- id: travers2007
+  author:
+    - family: Travers
+      given: Robert
+  container-title: Journal of Imperial and Commonwealth History
+  DOI: 10.1080/0308653042000329997
+  issue: '1'
+  issued:
+    - year: 2007
+  page: 7–27
+  publisher: Routledge
+  title: 'Ideology and British expansion in Bengal, 1757–72'
+  type: article-journal
+  volume: '33'
+
 - id: webster1982
   author:
     - family: Webster
@@ -351,12 +388,24 @@ references:
   URL: >-
     http://www.worldcat.org/title/missionary-ideologies-in-the-imperialist-era-1880-1920-papers-from-the-durham-consultation-1981/oclc/954226168
 
+- id: wood2002
+  author:
+    - family: Wood
+      given: Ellen Meiksins
+  event-place: London
+  issued:
+    - year: 2002
+  publisher: Verso
+  publisher-place: London
+  title: 'The origin of capitalism: a longer view'
+  type: book
+
 - id: xavier1543
   author:
     - family: Xavier
       given: Francis
   issued:
     - year: 1543
-  title: Letter from india to the society of jesus at rome
+  title: Letter from India to the Society of Jesus at Rome
   type: article
 ...
