@@ -1,6 +1,7 @@
 ---
 title: ‘The law on vicarious liability is utterly devoid of logic and good sense.’ Discuss.
 author: Benjamin Eskola
+date: 19 March 2018
 header-includes: |
   \usepackage{fancyhdr}
   \usepackage{titling}

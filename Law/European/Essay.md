@@ -1,6 +1,7 @@
 ---
 title: How has the relationship between national courts and the Court of Justice under Article 267 TFEU evolved over the years?
 author: Benjamin Eskola
+date: 5 March 2018
 header-includes: |
   \usepackage{fancyhdr}
   \usepackage{titling}

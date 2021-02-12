@@ -1,6 +1,7 @@
 ---
 title: Essay
 author: Benjamin Eskola
+date: 29 January 2018
 header-includes: |
   \usepackage{fancyhdr}
   \usepackage{titling}

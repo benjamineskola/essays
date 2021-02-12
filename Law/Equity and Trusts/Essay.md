@@ -1,6 +1,7 @@
 ---
 title: “Although there has been much debate and confusion in the past, the tests for certainty of objects are now clear and satisfactory.” Critically assess the validity of the above statement.
 author: Benjamin Eskola
+date: 6 November 2017
 header-includes: |
   \usepackage{fancyhdr}
   \usepackage{titling}

@@ -1,6 +1,7 @@
 ---
 title: With reference to recent case law interpreting the partial defences of loss of control and diminished responsibility, consider whether the legislation gets the right balance in the imposition of criminal liability, if a drug addict kills his wife after discovering she was having an affair.
 author: Benjamin Eskola
+date: 27 November 2017
 header-includes: |
   \usepackage{fancyhdr}
   \usepackage{titling}
