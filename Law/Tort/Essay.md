@@ -7,7 +7,7 @@ header-includes: |
   \usepackage{titling}
   \pagestyle{fancy}
   \fancyhead[L]{\theauthor}
-  \fancyhead[C]{Public Law}
+  \fancyhead[C]{Tort Law}
   \fancyhead[R]{\thedate}
   \fancyfoot[C]{\thepage}
 ---
