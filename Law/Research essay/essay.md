@@ -68,19 +68,19 @@ It is clear, when reviewing the case law, that there has been no shortage of att
 
 [^1]: Edward Bates, _The evolution of the European Convention on Human Rights_ (OUP 2010).
 [^2]: \(1913) 23 Yale LJ 16, (1917) 27 Yale LJ 710; cited in Ian McLeod, _Legal Theory_ (2010).
-[^3]: _McDonald's Corporation v Steel & Morris_ \[1997] EWHC QB 366; _Steel & Morris v United Kingdom_ \[2005] ECHR 103.
-[^4]: \[2007] 41 EG 200, \[2007] ECHR 700.
-[^5]: \[2002] UKHL 30, \[2003] 1 AC 419.
-[^6]: \[1967] ECHR 34.
-[^7]: \[1986] ECHR 8.
-[^8]: \[2004] EWHC 2170 (ch), \[2005] FLR 1.
+[^3]: [_McDonald's Corporation v Steel & Morris_ [1997] EWHC QB 366][1]; [_Steel & Morris v United Kingdom_ [2005] ECHR 103][2].
+[^4]: [[2007] 41 EG 200, [2007] ECHR 700][3].
+[^5]: [[2002] UKHL 30, [2003] 1 AC 419][4].
+[^6]: [[1967] ECHR 34][5].
+[^7]: [[1986] ECHR 8][6].
+[^8]: [[2004] EWHC 2170 (ch), [2005] FLR 1][7].
 [^9]: Martin Dixon, _Modern Land Law_ (Routledge 2016) 447.
-[^10]: \(1989) 11 EHRR 335.
-[^11]: \(1997) 23 EHRR 101.
-[^12]: \[2016] UKSC 28, \[2017] AC 273.
-[^13]: \[2006] ECHR 628.
-[^14]: \[2009] ECHR 1280.
-[^15]: \[1989] ECHR 25.
+[^10]: [(1989) 11 EHRR 335][8].
+[^11]: [(1997) 23 EHRR 101][9].
+[^12]: [[2016] UKSC 28, [2017] AC 273][10].
+[^13]: [[2006] ECHR 628][11].
+[^14]: [[2009] ECHR 1280][12].
+[^15]: [[1989] ECHR 25][13].
 
 ## Bibliography
 
