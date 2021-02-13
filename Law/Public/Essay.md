@@ -37,13 +37,13 @@ Nor was _Liversidge_ unique in its deference to executive authority; numerous in
 In summary, the decision in _Liversidge_ is difficult to reconcile with a Diceyan understanding both of the rule of law and of Parliamentary sovereignty; but it is not so unique or divergent that we can safely assume that the decision itself is wrong; instead, we must also consider the possibility that Dicey was, at least in part, wrong, and that if the judgment is to be criticized it may need to be on other grounds than a strict adherence to 19th century jurisprudence.
 
 [^1]: A.V. Dicey, *Introduction to the Study of the Law of the Constitution* (1885).
-[^2]: [1942]() AC 206, [1941]() 3 All ER 338.
-[^3]: Carlton Kemp Allen, ‘Regulation 18B and Reasonable Cause’ [1942]() _LQR_ 232.
-[^4]: [1952]() AC 189, [1951]() 2 All ER 839.
-[^5]: A. L. Goodhart, ‘Liversidge v Anderson’ [1942]() _LQR_ 3.
-[^6]: _R v Secretary of State for Foreign and Commonwealth Affairs, ex parte World Development Movement Ltd_ [1994]() EWHC 1 (Admin), [1995]() WLR 386.
-[^7]: _R v Secretary of State for the Home Department, ex parte Adams_ [1995]() All ER (EC) 177.
+[^2]: [1942] AC 206, [1941] 3 All ER 338.
+[^3]: Carlton Kemp Allen, ‘Regulation 18B and Reasonable Cause’ [1942] _LQR_ 232.
+[^4]: [1952] AC 189, [1951] 2 All ER 839.
+[^5]: A. L. Goodhart, ‘Liversidge v Anderson’ [1942] _LQR_ 3.
+[^6]: _R v Secretary of State for Foreign and Commonwealth Affairs, ex parte World Development Movement Ltd_ [1994] EWHC 1 (Admin), [1995] WLR 386.
+[^7]: _R v Secretary of State for the Home Department, ex parte Adams_ [1995] All ER (EC) 177.
 [^8]: JAG Griffith, _The Politics of the Judiciary_ (5th edition, Fontana Press, 1997) 198.
-[^9]: _R v Secretary of State for the Home Department, ex parte Hosenball_ [1977]() 3 All ER 452, [1977]() 1 WLR 766.
+[^9]: _R v Secretary of State for the Home Department, ex parte Hosenball_ [1977] 3 All ER 452, [1977] 1 WLR 766.
 
 #essay

@@ -42,22 +42,22 @@ The interpretation of qualifying triggers and their exclusions has in turn been 
 
 This raises some concerns that, despite its specific exclusion by Parliament, sexual infidelity could be reintroduced as a justification by the back door. There is the potential that even if other factors were relatively minor and the sexual infidelity was the primary trigger for the homicide, the existence of these other factors plus the sexual infidelity could be considered of ‘sufficient weight’ that they should be presented to the jury. And yet conversely, as raised by Norrie, a situation where a campaign of taunting is involved, some of which related to sexual infidelity, cannot justly be excluded or meaningfully divided into included and excluded taunts.
 
-[^1]: [1978]() AC 705 (HL), [1978]() 2 WLR 679.
-[^2]: [1996]() 1 AC 90 (HL), [1995]() 3 WLR 330.
-[^3]: \1997] AC 131 (PC), [1996]() 3 WLR 45.
-[^4]: [2001]() 1 AC 146 (HL), [2000]() 3 WLR 654.
-[^5]: [2005]() UKPC 23, [2005]() 2 AC 580.
+[^1]: [1978] AC 705 (HL), [1978] 2 WLR 679.
+[^2]: [1996] 1 AC 90 (HL), [1995] 3 WLR 330.
+[^3]: [1997] AC 131 (PC), [1996] 3 WLR 45.
+[^4]: [2001] 1 AC 146 (HL), [2000] 3 WLR 654.
+[^5]: [2005] UKPC 23, [2005] 2 AC 580.
 [^6]: Andrew Ashworth, ‘The Doctrine of Provocation’ (1976) 35 CLJ 292, 312.
-[^7]: [2013]() EWCA Crim 157, [2014]() QB 103.
-[^8]: [2012]() EWCA Crim 281, [2012]() 1 WLR 2576.
-[^9]: [1989]() 1 All ER 267.
-[^10]: [2008]() EWCA Crim 1305, [2009]() 1 WLR 496.
-[^11]: [2017]() EWCA Crim 647, [2017]() 4 WLR 121.
-[^12]: [1949]() 1 All ER 932.
+[^7]: [2013] EWCA Crim 157, [2014] QB 103.
+[^8]: [2012] EWCA Crim 281, [2012] 1 WLR 2576.
+[^9]: [1989] 1 All ER 267.
+[^10]: [2008] EWCA Crim 1305, [2009] 1 WLR 496.
+[^11]: [2017] EWCA Crim 647, [2017] 4 WLR 121.
+[^12]: [1949] 1 All ER 932.
 [^13]: Edwards, S.S.M., ‘Anger and Fear as Justifiable Preludes for Loss of Self-Control’ (2010) 74 JCL 223, 226.
 [^14]: Michael Allen, _Criminal Law_ (OUP 2017) 363.
 [^15]: R Dobash and R Dobash, ‘The Nature and Antecedents of Violent Events’ (1984) 24 BJ Crim 269, quoted in Jeremy Horder, _Provocation and Responsibility_ (OUP 1992) 192.
-[^16]: [2012]() EWCA Crim 2, [2013]() QB 1.
+[^16]: [2012] EWCA Crim 2, [2013] QB 1.
 [^17]: Alan Norrie, ‘The Coroners and Justice Act 2009 — partial defences to murder (1) Loss of control’ (2010) 4 Crim LR 275, 288.
 
 #essay

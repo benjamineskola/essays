@@ -43,12 +43,12 @@ _Word count: 1542_
 House of Commons Library, _A Century of Change: Trends in UK Statistics Since 1900_ (Research Paper RP99-111, 1999) \<http://researchbriefings.files.parliament.uk/documents/RP99-111/RP99-111.pdf\> accessed 19 February 2018
 
 [^1]: House of Commons Library,\_ A Century of Change: Trends in UK statistics since 1900\_ (1999).
-[^2]: [2008]() EWCA Civ 347, [2008]() 1 WLR 2695.
-[^3]: [2017]() EWCA Civ 95, [2017]() 2 P&CR DG1.
-[^4]: [2007]() UKHL 17, [2007]() 2 AC 432.
-[^5]: [2014]() EWCA Civ 1347, [2015]() 2 FLR 1240.
-[^6]: [2004]() EWCA Civ 1515, [2004]() All ER (D) 344 (Oct).
-[^7]: [1984]() Ch 317, [1984]() 2 WLR 582.
-[^8]: [2001]() 33 HLR 67.
+[^2]: [2008] EWCA Civ 347, [2008] 1 WLR 2695.
+[^3]: [2017] EWCA Civ 95, [2017] 2 P&CR DG1.
+[^4]: [2007] UKHL 17, [2007] 2 AC 432.
+[^5]: [2014] EWCA Civ 1347, [2015] 2 FLR 1240.
+[^6]: [2004] EWCA Civ 1515, [2004] All ER (D) 344 (Oct).
+[^7]: [1984] Ch 317, [1984] 2 WLR 582.
+[^8]: [2001] 33 HLR 67.
 
 #essay

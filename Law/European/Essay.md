@@ -42,7 +42,7 @@ This basis began to be established in _Van Gend en Loos_.[^11] The claimant soug
 
 > \12. […]() Community law therefore not only imposes obligations on individuals but is also intended to confer upon them rights which become part of their legal heritage. These rights arise not only where they are expressly granted by the Treaty, but also by reason of obligations which the Treaty imposes in a clearly defined way upon individuals as well as upon the Member States and upon the institutions of the Community.
 
-The Court of Justice later built upon this decision in _Van Duyn v Home Office_,[^13] which extended the principle of direct effect to directives as well as treaty provisions: “Article [267]() … implies further that these acts may be invoked by individuals in the national courts.”
+The Court of Justice later built upon this decision in _Van Duyn v Home Office_,[^13] which extended the principle of direct effect to directives as well as treaty provisions: “Article [267] … implies further that these acts may be invoked by individuals in the national courts.”
 
 %% expand upon this?
 
@@ -52,19 +52,19 @@ Furthermore, national courts have sometimes found ways to avoid making prelimina
 
 As such, it is clear that there has been no uniform trend of arrogating power to the Union institutions on the one hand, or of devolving power to national courts on the other; rather, the process has been one of developing nuance, where the Court of Justice has held it necessary to retain certain powers for the effective enforcement of the treaties, yet refuse other powers on the grounds of a lack of jurisdiction; nor have the national courts been purely passive participants in this process, but have been active in the negotiation of their own competencies.
 
-[^1]: Joined Cases 28-30/62 _Da Costa en Schaake NV, Jacob Meijer NV, Hoechst-Holland NV v Nederlandse Belastingadministratie_ [1963]() ECR 31.
-[^2]: Case 283/81 _CILFIT v Ministero della Sanità_ [1982]() ECR 3415.
-[^3]: Case 166/73 _Rheinmühlen-Düsseldorf v Einfuhr- und Vorratsstelle für Getreide und Futtermittel_ [1974]() ECR 33.
-[^4]: C-99/00 _Criminal proceedings against Kenny Roland Lyckeskog_ [2002]() ECR I-4839.
-[^5]: Case 35/76 _Simmenthal v Ministero delle Finanze_ [1976]() ECR 1871.
-[^6]: Joined Cases 36 & 71/80 _Irish Creamery Milk Suppliers Association v Government of Ireland_ [1981]() ECR 735.
-[^7]: Joined Cases C-320-2/90 _Telemarsicabruzzo SpA and others v Circostel and others_ [1993]() ECR I-393.
-[^8]: Case 104/79 _Pasquale Foglia v Mariella Novello_ [1980]() ECR 745.
-[^9]: C-314/85 _Foto-Frost v Hauptzollamt Lübeck-Ost_ [1987]() ECR 4199.
-[^10]: Joined Cases C-297/88 and C-197/89 _Massam Dzodzi v Belgian State_ [1990]() ECR I-3763.
-[^11]: Case 26/62 _NV Algemene Transporten Expeditie Onderneming van Gend en Loos v Nederlandse Administratie der Belastingen_ [1963]() ECR 1.
+[^1]: Joined Cases 28-30/62 _Da Costa en Schaake NV, Jacob Meijer NV, Hoechst-Holland NV v Nederlandse Belastingadministratie_ [1963] ECR 31.
+[^2]: Case 283/81 _CILFIT v Ministero della Sanità_ [1982] ECR 3415.
+[^3]: Case 166/73 _Rheinmühlen-Düsseldorf v Einfuhr- und Vorratsstelle für Getreide und Futtermittel_ [1974] ECR 33.
+[^4]: C-99/00 _Criminal proceedings against Kenny Roland Lyckeskog_ [2002] ECR I-4839.
+[^5]: Case 35/76 _Simmenthal v Ministero delle Finanze_ [1976] ECR 1871.
+[^6]: Joined Cases 36 & 71/80 _Irish Creamery Milk Suppliers Association v Government of Ireland_ [1981] ECR 735.
+[^7]: Joined Cases C-320-2/90 _Telemarsicabruzzo SpA and others v Circostel and others_ [1993] ECR I-393.
+[^8]: Case 104/79 _Pasquale Foglia v Mariella Novello_ [1980] ECR 745.
+[^9]: C-314/85 _Foto-Frost v Hauptzollamt Lübeck-Ost_ [1987] ECR 4199.
+[^10]: Joined Cases C-297/88 and C-197/89 _Massam Dzodzi v Belgian State_ [1990] ECR I-3763.
+[^11]: Case 26/62 _NV Algemene Transporten Expeditie Onderneming van Gend en Loos v Nederlandse Administratie der Belastingen_ [1963] ECR 1.
 [^12]: At that time, article 12, Treaty of Rome; now, article 30 TFEU.
-[^13]: Case 41/74 _Van Duyn v Home Office_ [1974]() ECR 1337.
-[^14]: [2017]() UKSC 5, [2017]() 2 WLR 583, [2017]() 1 All ER 593.
+[^13]: Case 41/74 _Van Duyn v Home Office_ [1974] ECR 1337.
+[^14]: [2017] UKSC 5, [2017] 2 WLR 583, [2017] 1 All ER 593.
 
 #essay

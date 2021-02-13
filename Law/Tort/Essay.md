@@ -41,13 +41,13 @@ _Word count: 2019_
 [^3]: John Salmond, _The law of torts_ (Stevens and Haynes, 1907) 83.
 [^4]: PS Atiyah, _Vicarious liability in the law of torts_ (Butterworths, 1967) 26.
 [^5]: Claire McIvor, ‘The use and abuse of the doctrine of vicarious liability’ (2006) 35 CLWR 268.
-[^6]: [2012]() EWCA Civ 938, [2013]() QB 722.
-[^7]: [2012]() UKSC 56, [2013]() 2 AC 1.
-[^8]: [2001]() UKHL 22, [2002]() AC 215.
-[^9]: [1998]() EWCA Civ 1208, (1998) 10 Admin LR 573.
-[^10]: [1999]() 2 SCR 534, 1999 CanLII 692 (Supreme Court of Canada).
-[^11]: [1999]() 2 SCR 570, 1999 CanLII 693 (Supreme Court of Canada).
-[^12]: [2016]() UKSC 11, [2016]() AC 677.
+[^6]: [2012] EWCA Civ 938, [2013] QB 722.
+[^7]: [2012] UKSC 56, [2013] 2 AC 1.
+[^8]: [2001] UKHL 22, [2002] AC 215.
+[^9]: [1998] EWCA Civ 1208, (1998) 10 Admin LR 573.
+[^10]: [1999] 2 SCR 534, 1999 CanLII 692 (Supreme Court of Canada).
+[^11]: [1999] 2 SCR 570, 1999 CanLII 693 (Supreme Court of Canada).
+[^12]: [2016] UKSC 11, [2016] AC 677.
 [^13]: AJP Taylor, _English history, 1914–1945_ (Penguin, 1965) 25.
 
 #essay

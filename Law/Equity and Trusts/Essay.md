@@ -37,14 +37,14 @@ An extension of this reasoning might lead to a tentative acceptance of Megaw LJ�
 _Word count: 1934_
 
 [^1]: (1840) 49 ER 58, (1840) 3 Beav. 148.
-[^2]: e.g., Graham Virgo, _Principles of Equity and Trusts_ (2nd edn, OUP 2016) 78, 107; cf. _McPhail v Doulton _[1970]() 2 All ER 228 (HL) 240 (Lord Wilberforce): distinction is ‘narrow’ and ‘artificial’.
-[^3]: [1955]() Ch 20 (EWCA Civ).
-[^4]: [1968]() UKHL 5, [1970]() AC 508.
-[^5]: [1970]() UKHL 1, [1971]() AC 424.
-[^6]: [1972]() EWCA Civ 10, [1973]() Ch 9.
-[^7]: e.g., _Re Coxen_ [1948]() Ch 747, [1948]() 2 All ER 492.
-[^8]: [1978]() Ch 49, [1978]() 2 WLR 411.
-[^9]: [1943]() AC 320, [1943]() 1 All ER 16.
-[^10]: [1979]() 1 WLR 278, [1979]() 1 All ER 296.
+[^2]: e.g., Graham Virgo, _Principles of Equity and Trusts_ (2nd edn, OUP 2016) 78, 107; cf. _McPhail v Doulton_ [1970] 2 All ER 228 (HL) 240 (Lord Wilberforce): distinction is ‘narrow’ and ‘artificial’.
+[^3]: [1955] Ch 20 (EWCA Civ).
+[^4]: [1968] UKHL 5, [1970] AC 508.
+[^5]: [1970] UKHL 1, [1971] AC 424.
+[^6]: [1972] EWCA Civ 10, [1973] Ch 9.
+[^7]: e.g., _Re Coxen_ [1948] Ch 747, [1948] 2 All ER 492.
+[^8]: [1978] Ch 49, [1978] 2 WLR 411.
+[^9]: [1943] AC 320, [1943] 1 All ER 16.
+[^10]: [1979] 1 WLR 278, [1979] 1 All ER 296.
 
 #essay

@@ -38,14 +38,14 @@ Overall it seems that Irwin’s strongest argument will be on the ground that th
 
 _Word count: 1802_
 
-[^1]: [1970]() EWCA Civ 2.
-[^2]: [1940]() 1 KB 532.
-[^3]: [1973]() EWCA Civ 6.
-[^4]: [1964]() 1 WLR 125.
-[^5]: [1877]() 2 CPD 416.
-[^6]: [1930]() 1 KB 41.
+[^1]: [1970] EWCA Civ 2.
+[^2]: [1940] 1 KB 532.
+[^3]: [1973] EWCA Civ 6.
+[^4]: [1964] 1 WLR 125.
+[^5]: [1877] 2 CPD 416.
+[^6]: [1930] 1 KB 41.
 [^7]: (1889) 14 PD 64.
-[^8]: [1957]() 1 WLR 370.
-[^9]: [1965]() 1 WLR 623.
+[^8]: [1957] 1 WLR 370.
+[^9]: [1965] 1 WLR 623.
 
 #essay
