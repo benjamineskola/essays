@@ -37,13 +37,34 @@ Nor was _Liversidge_ unique in its deference to executive authority; numerous in
 In summary, the decision in _Liversidge_ is difficult to reconcile with a Diceyan understanding both of the rule of law and of Parliamentary sovereignty; but it is not so unique or divergent that we can safely assume that the decision itself is wrong; instead, we must also consider the possibility that Dicey was, at least in part, wrong, and that if the judgment is to be criticized it may need to be on other grounds than a strict adherence to 19th century jurisprudence.
 
 [^1]: A.V. Dicey, *Introduction to the Study of the Law of the Constitution* (1885).
-[^2]: [1942] AC 206, [1941] 3 All ER 338.
+[^2]: [[1942] AC 206, [1941] 3 All ER 338][1].
 [^3]: Carlton Kemp Allen, ‘Regulation 18B and Reasonable Cause’ [1942] _LQR_ 232.
-[^4]: [1952] AC 189, [1951] 2 All ER 839.
+[^4]: [[1952] AC 189, [1951] 2 All ER 839][2].
 [^5]: A. L. Goodhart, ‘Liversidge v Anderson’ [1942] _LQR_ 3.
-[^6]: _R v Secretary of State for Foreign and Commonwealth Affairs, ex parte World Development Movement Ltd_ [1994] EWHC 1 (Admin), [1995] WLR 386.
-[^7]: _R v Secretary of State for the Home Department, ex parte Adams_ [1995] All ER (EC) 177.
+[^6]: [_R v Secretary of State for Foreign and Commonwealth Affairs, ex parte World Development Movement Ltd_ [1994] EWHC 1 (Admin), [1995] WLR 386][3].
+[^7]: [_R v Secretary of State for the Home Department, ex parte Adams_ [1995] All ER (EC) 177][4].
 [^8]: JAG Griffith, _The Politics of the Judiciary_ (5th edition, Fontana Press, 1997) 198.
-[^9]: _R v Secretary of State for the Home Department, ex parte Hosenball_ [1977] 3 All ER 452, [1977] 1 WLR 766.
+[^9]: [_R v Secretary of State for the Home Department, ex parte Hosenball_ [1977] 3 All ER 452, [1977] 1 WLR 766][5].
+
+## List of Cases
+
+- [_Liverside v Anderson_ [1942] AC 206, [1941] 3 All ER 338][1]
+- [_Magor and St Mellons RDC v Newport Corporation_ [1952] AC 189, [1951] 2 All ER 839][2]
+- [_R v Secretary of State for Foreign and Commonwealth Affairs, ex parte World Development Movement Ltd_ [1994] EWHC 1 (Admin), [1995] WLR 386][3]
+- [_R v Secretary of State for the Home Department, ex parte Adams_ [1995] All ER (EC) 177][4]
+- [_R v Secretary of State for the Home Department, ex parte Hosenball_ [1977] 3 All ER 452, [1977] 1 WLR 766][5]
+
+## Bibliography
+
+- Allen CK, ‘Regulation 18B and Reasonable Cause’ [1942] _LQR_ 232
+- Dicey AV, *Introduction to the Study of the Law of the Constitution* (1885)
+- Goodhart AL, ‘Liversidge v Anderson’ [1942] _LQR_ 3
+- Griffith JAG, _The Politics of the Judiciary_ (5th edition, Fontana Press, 1997) 198
+
+[1]: https://swarb.co.uk/liversidge-v-sir-john-anderson-hl-3-nov-1941/
+[2]: https://swarb.co.uk/magor-and-st-mellons-rural-district-council-v-newport-corporaion-hl-1951/
+[3]: https://swarb.co.uk/regina-v-secretary-of-state-for-foreign-affairs-ex-parte-the-world-development-movement-ltd-admn-10-nov-1994/
+[4]: https://swarb.co.uk/regina-v-secretary-of-state-for-home-dept-ex-parte-adams-qbd-10-aug-1994/
+[5]: https://swarb.co.uk/regina-v-home-secretary-ex-parte-hosenball-CA-1977/
 
 #essay
