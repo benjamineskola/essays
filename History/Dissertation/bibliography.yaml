@@ -53,7 +53,7 @@ references:
     Cotton textiles and the great divergence: Lancashire, India and shifting
     competitive advantage, 1600-1850
   type: article-journal
-  URL: 'http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=5183'
+  URL: http://www.cepr.org/active/publications/discussion_papers/dp.php?dpno=5183
 
 - id: cain1993
   author:
@@ -79,7 +79,7 @@ references:
     - year: 1999
   title: 'British free trade, 1850–1914: economics and policy'
   type: article-journal
-  URL: 'http://www.ehs.org.uk/dotAsset/11cabff5-3f6a-4d69-bba0-1086d69be6c7.pdf'
+  URL: http://www.ehs.org.uk/dotAsset/11cabff5-3f6a-4d69-bba0-1086d69be6c7.pdf
 
 - id: calhoun2002
   author:
@@ -316,7 +316,7 @@ references:
   issued:
     - year: 1962
   page: 684–702
-  title: 'The Indian cotton duties controversy, 1894–1896'
+  title: The Indian cotton duties controversy, 1894–1896
   type: article-journal
   volume: '77'
 
@@ -333,7 +333,7 @@ references:
     The imperialism of free trade: Lancashire and the Indian cotton duties,
     1859–1862
   type: article-journal
-  URL: 'http://www.jstor.org.ezproxy.lib.bbk.ac.uk/stable/pdf/2592098.pdf'
+  URL: http://www.jstor.org.ezproxy.lib.bbk.ac.uk/stable/pdf/2592098.pdf
   volume: '18'
 
 - id: harnetty1966
@@ -418,7 +418,7 @@ references:
   issued:
     - year: 2002
   publisher: Springer
-  title: 'Britain’s imperial century, 1815–1914'
+  title: Britain’s imperial century, 1815–1914
   type: book
 
 - id: leacock1955
@@ -486,9 +486,9 @@ references:
   issued:
     - year: 1964
   page: 135–145
-  title: 'Imperialism and ''free trade'' policy in india, 1853–4'
+  title: Imperialism and 'free trade' policy in india, 1853–4
   type: article-journal
-  URL: 'http://www.jstor.org/stable/pdf/2592695.pdf'
+  URL: http://www.jstor.org/stable/pdf/2592695.pdf
   volume: '17'
 
 - id: owen1993
@@ -498,7 +498,7 @@ references:
   issued:
     - year: 1993
   publisher: I. B. Tauris
-  title: 'The Middle East in the world economy, 1800–1914'
+  title: The Middle East in the world economy, 1800–1914
   type: book
 
 - id: porter1984
@@ -528,11 +528,11 @@ references:
   author:
     - family: Roy
       given: Tirthankar
-  DOI: '10.1093/acprof:oso/9780198074175.001.0001'
+  DOI: 10.1093/acprof:oso/9780198074175.001.0001
   issued:
     - year: 2011
   publisher: OUP India
-  title: 'Economic history of India, 1857–1947'
+  title: Economic history of India, 1857–1947
   type: book
 
 - id: seeley2010
@@ -552,7 +552,7 @@ references:
   author:
     - family: Sexton
       given: Jay
-  DOI: '10.1093/acprof:oso/9780199281039.001.0001'
+  DOI: 10.1093/acprof:oso/9780199281039.001.0001
   event-place: Oxford
   issued:
     - year: 2005
@@ -575,7 +575,7 @@ references:
     Industry, technology and the political economy of empire: Lancashire
     industrialists and the cotton supply question, c. 1850–1910
   type: thesis
-  URL: 'http://digitool.abdn.ac.uk/webclient/DeliveryManager?pid=228009'
+  URL: http://digitool.abdn.ac.uk/webclient/DeliveryManager?pid=228009
 
 - id: tripathi1967
   author:

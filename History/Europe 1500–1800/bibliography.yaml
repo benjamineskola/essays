@@ -1,6 +1,6 @@
 ---
 references:
-- id: 'Anonymous:2ZnqLUY7'
+- id: Anonymous:2ZnqLUY7
   title: Essays in swedish history
   type: book
 
@@ -20,7 +20,7 @@ references:
   page: 195–224
   title: The absolutism of Louis XIV as social collaboration
   type: article-journal
-  URL: 'http://past.oxfordjournals.org/cgi/doi/10.1093/pastj/gti019'
+  URL: http://past.oxfordjournals.org/cgi/doi/10.1093/pastj/gti019
   volume: '188'
 
 - id: black2002
@@ -31,20 +31,20 @@ references:
   issued:
     - year: 2002
   publisher: Routledge
-  title: 'European warfare, 1494–1660'
+  title: European warfare, 1494–1660
   type: book
-  URL: 'http://www.worldcat.org/title/european-warfare-1494-1660/oclc/49784695'
+  URL: http://www.worldcat.org/title/european-warfare-1494-1660/oclc/49784695
 
 - id: black2002a
   author:
     - family: Black
       given: Jeremy
-  container-title: 'European warfare, 1494–1660'
+  container-title: European warfare, 1494–1660
   issued:
     - year: 2002
   page: 69–96
   publisher: Routledge
-  title: 'European warfare, 1494–1559'
+  title: European warfare, 1494–1559
   type: chapter
 
 - id: bonney1987
@@ -92,7 +92,7 @@ references:
   publisher: Oxford University Press
   title: The Guise affinity and popular protest during the wars of religion
   type: article-journal
-  URL: 'http://fh.oxfordjournals.org/cgi/doi/10.1093/fh/9.2.125'
+  URL: http://fh.oxfordjournals.org/cgi/doi/10.1093/fh/9.2.125
   volume: '9'
 
 - id: carroll2000
@@ -124,7 +124,7 @@ references:
   page: '1067'
   title: 'Prologue to a massacre: Popular unrest in paris, 1557-1572'
   type: article-journal
-  URL: 'http://www.jstor.org/stable/10.2307/1859659?origin=crossref'
+  URL: http://www.jstor.org/stable/10.2307/1859659?origin=crossref
   volume: '90'
 
 - id: febvre1973
@@ -194,7 +194,7 @@ references:
       month: 1
   language: English
   page: 73–98
-  publisher: 'Taylor & Francis, Ltd.'
+  publisher: Taylor & Francis, Ltd.
   title: >-
     Methods and approaches in the social history of the Counter-Reformation in
     Italy
@@ -215,7 +215,7 @@ references:
   section: '1'
   title: Chapter 1
   type: chapter
-  URL: 'http://courses.washington.edu/hsteu305/Ginzburg%20Night%20Battles%201-20.pdf'
+  URL: http://courses.washington.edu/hsteu305/Ginzburg%20Night%20Battles%201-20.pdf
 
 - id: ginzburg1983a
   author:
@@ -289,7 +289,7 @@ references:
   page: 524–51
   title: Putting religion back into the wars of religion
   type: article-journal
-  URL: 'http://www.jstor.org/stable/286879?origin=crossref'
+  URL: http://www.jstor.org/stable/286879?origin=crossref
   volume: '18'
 
 - id: holt1995
@@ -302,7 +302,7 @@ references:
     - year: 1995
   publisher: Cambridge University Press
   publisher-place: Cambridge
-  title: 'The French wars of religion, 1562–1629'
+  title: The French wars of religion, 1562–1629
   type: book
 
 - id: hutton2004
@@ -323,7 +323,7 @@ references:
   issued:
     - year: 1980
   language: English
-  title: 'A history of the habsburg empire, 1526–1918'
+  title: A history of the habsburg empire, 1526–1918
   type: book
 
 - id: kirby1990
@@ -344,7 +344,7 @@ references:
   issued:
     - year: 1989
   publisher: Longman
-  title: 'The French wars of religion, 1559–1598'
+  title: The French wars of religion, 1559–1598
   type: book
 
 - id: leroyladurie1966
@@ -364,7 +364,7 @@ references:
   author:
     - family: Lundkvist
       given: Sven
-  container-title: 'Sweden’s Age of Greatness, 1632–1718'
+  container-title: Sweden’s Age of Greatness, 1632–1718
   editor:
     - family: Roberts
       given: Michael
@@ -378,7 +378,7 @@ references:
   author:
     - family: Lundkvist
       given: Sven
-  container-title: 'Sweden''s age of greatness, 1632–1718'
+  container-title: Sweden's age of greatness, 1632–1718
   editor:
     - family: Roberts
       given: Michael
@@ -394,7 +394,7 @@ references:
       given: Michael Edward
     - family: Shaw
       given: Christine
-  collection-title: 'War, state and society in early modern europe'
+  collection-title: War, state and society in early modern europe
   ISBN: 1-317-89939-3
   issued:
     - year: 2012
@@ -495,7 +495,7 @@ references:
   issued:
     - year: 1973
   publisher: Macmillan
-  title: 'Sweden''s age of greatness, 1632–1718'
+  title: Sweden's age of greatness, 1632–1718
   type: book
 
 - id: roberts1992
@@ -634,6 +634,6 @@ references:
     Homicides royaux: The assassination of the duc and cardinal de guise and the
     radicalization of french public opinion
   type: article-journal
-  URL: 'http://fh.oxfordjournals.org/content/18/2/129.abstract'
+  URL: http://fh.oxfordjournals.org/content/18/2/129.abstract
   volume: '18'
 ...

@@ -17,13 +17,13 @@ references:
   title: Essays on twentieth-century history
   type: book
 
-- id: 'Anonymous:jGl7alGP'
+- id: Anonymous:jGl7alGP
   issued:
     - year: 2015
       month: 10
   title: Avalon project - truman doctrine
   type: article-journal
-  URL: 'http://avalon.law.yale.edu/20th_century/trudoc.asp'
+  URL: http://avalon.law.yale.edu/20th_century/trudoc.asp
 
 - id: balloch1974
   author:
@@ -35,9 +35,9 @@ references:
     - year: 1974
   publisher: McGill University
   publisher-place: Montreal
-  title: 'Chinese support for revolutionary movements in the Third World, 1965–1971'
+  title: Chinese support for revolutionary movements in the Third World, 1965–1971
   type: thesis
-  URL: 'https://escholarship.mcgill.ca/concern/theses/cv43nz506?locale=en'
+  URL: https://escholarship.mcgill.ca/concern/theses/cv43nz506?locale=en
 
 - id: best2008
   author:
@@ -137,7 +137,7 @@ references:
   author:
     - family: Darwin
       given: John
-  collection-title: 'The rise and fall of global empires, 1400–2000'
+  collection-title: The rise and fall of global empires, 1400–2000
   ISBN: 978-0-14-101022-9
   issued:
     - year: 2008
@@ -179,7 +179,7 @@ references:
   page: 254–277
   title: Making revolution
   type: chapter
-  URL: 'https://readings.bbk.ac.uk/readings/D/Dower1999.pdf'
+  URL: https://readings.bbk.ac.uk/readings/D/Dower1999.pdf
 
 - id: engerman2011
   author:
@@ -199,9 +199,9 @@ references:
   page: 20–43
   publisher: Cambridge University Press
   publisher-place: Cambridge
-  title: 'Ideology and the origins of the Cold War, 1917–1962'
+  title: Ideology and the origins of the Cold War, 1917–1962
   type: chapter
-  URL: 'http://universitypublishingonline.org/ref/id/histories/CBO9781139056113A006'
+  URL: http://universitypublishingonline.org/ref/id/histories/CBO9781139056113A006
 
 - id: foner2001
   author:
@@ -482,7 +482,7 @@ references:
     - year: 1974
   title: Collected works
   type: book
-  URL: 'https://www.marxists.org/archive/lenin/works/cw/'
+  URL: https://www.marxists.org/archive/lenin/works/cw/
 
 - id: louis2015
   author:
@@ -511,7 +511,7 @@ references:
   publisher: Frank Cass
   title: How (not) to study the origins of the Cold War
   type: chapter
-  URL: 'https://readings.bbk.ac.uk/readings/L/Lundestad2000.pdf'
+  URL: https://readings.bbk.ac.uk/readings/L/Lundestad2000.pdf
 
 - id: luthi2008
   author:
@@ -532,12 +532,12 @@ references:
     - family: Maier
       given: Charles S.
   DOI: 10.4159/9780674040458
-  event-place: 'Cambridge, MA'
+  event-place: Cambridge, MA
   ISBN: 978-0-674-04045-8
   issued:
     - year: 2009
   publisher: Harvard University Press
-  publisher-place: 'Cambridge, MA'
+  publisher-place: Cambridge, MA
   title: 'Among empires: American ascendancy and its predecessors'
   type: book
 
@@ -556,7 +556,7 @@ references:
   publisher-place: Moscow
   title: Manifesto of the communist party
   type: chapter
-  URL: 'https://www.marxists.org/archive/marx/works/download/pdf/Manifesto.pdf'
+  URL: https://www.marxists.org/archive/marx/works/download/pdf/Manifesto.pdf
 
 - id: marx1969a
   author:
@@ -595,7 +595,7 @@ references:
   issued:
     - year: 1995
   publisher: Longman
-  title: 'The origins of the Cold War, 1941–49'
+  title: The origins of the Cold War, 1941–49
   type: book
   URL: >-
     http://www.worldcat.org/title/origins-of-the-cold-war-1941-1949/oclc/32132052
@@ -604,7 +604,7 @@ references:
   author:
     - family: McCauley
       given: Martin
-  container-title: 'The origins of the Cold War, 1941–49'
+  container-title: The origins of the Cold War, 1941–49
   ISBN: 0-582-27659-4
   issued:
     - year: 1995
@@ -612,7 +612,7 @@ references:
   publisher: Longman
   title: Decisions which led to Division
   type: chapter
-  URL: 'https://readings.bbk.ac.uk/readings/M/McCauley1995.pdf'
+  URL: https://readings.bbk.ac.uk/readings/M/McCauley1995.pdf
 
 - id: mcdermott2015
   author:
@@ -626,9 +626,9 @@ references:
       month: 9
   page: 1–40
   publisher: Macmillan
-  title: 'Comintern in the Era of Lenin, 1919–23'
+  title: Comintern in the Era of Lenin, 1919–23
   type: chapter
-  URL: 'https://moodle.bbk.ac.uk/mod/resource/view.php?id=263129'
+  URL: https://moodle.bbk.ac.uk/mod/resource/view.php?id=263129
 
 - id: mcdermott2015a
   author:
@@ -652,7 +652,7 @@ references:
     - year: 1983
   publisher: University of Pittsburgh Press
   publisher-place: Pittsburgh
-  title: 'Cuba between empires, 1878-1902'
+  title: Cuba between empires, 1878-1902
   type: book
 
 - id: priestland
@@ -662,7 +662,7 @@ references:
   page: 234–272
   title: The east is red
   type: chapter
-  URL: 'https://moodle.bbk.ac.uk/mod/resource/view.php?id=263248'
+  URL: https://moodle.bbk.ac.uk/mod/resource/view.php?id=263248
 
 - id: priestlanda
   author:
@@ -675,12 +675,12 @@ references:
   author:
     - family: Radchenko
       given: Sergey
-  event-place: 'Washington, DC'
+  event-place: Washington, DC
   ISBN: 978-0-8047-5879-6
   issued:
     - year: 2009
   publisher: Woodrow Wilson Center Press
-  publisher-place: 'Washington, DC'
+  publisher-place: Washington, DC
   title: 'Two suns in the heavens: the Sino–Soviet struggle for supremacy, 1962–1967'
   type: book
 
@@ -688,7 +688,7 @@ references:
   author:
     - family: Service
       given: Robert
-  collection-title: 'Communism, a world history'
+  collection-title: Communism, a world history
   issued:
     - year: 2008
   title: Comrades
@@ -705,7 +705,7 @@ references:
   page: 107–178
   title: The communist international
   type: chapter
-  URL: 'https://moodle.bbk.ac.uk/mod/resource/view.php?id=263247'
+  URL: https://moodle.bbk.ac.uk/mod/resource/view.php?id=263247
 
 - id: shipway2008
   author:
@@ -731,7 +731,7 @@ references:
     - year: 2015
       month: 11
   page: 1–14
-  title: 'Imperial designs and nationalist realities in southeast asia, 1945–1955'
+  title: Imperial designs and nationalist realities in southeast asia, 1945–1955
   type: chapter
   URL: >-
     https://moodle.bbk.ac.uk/pluginfile.php/474569/mod_resource/content/0/Shipway%20chapter%204.pdf
@@ -790,9 +790,9 @@ references:
       month: 6
   language: English
   page: 637–662
-  title: 'Comintern ''control'' of the Communist Party of Great Britain, 1920-43'
+  title: Comintern 'control' of the Communist Party of Great Britain, 1920-43
   type: article-journal
-  URL: 'http://www.jstor.org/stable/578031'
+  URL: http://www.jstor.org/stable/578031
   volume: CXIII
 
 - id: thorpe2000
@@ -805,7 +805,7 @@ references:
   issued:
     - year: 2000
   page: 777–800
-  title: 'The membership of the Communist Party of Great Britain, 1920–1945'
+  title: The membership of the Communist Party of Great Britain, 1920–1945
   type: article-journal
   volume: '43'
 
@@ -824,9 +824,9 @@ references:
   title: President Harry S. Truman's address before a joint session of Congress
   title-short: Truman doctrine
   type: article
-  URL: 'http://avalon.law.yale.edu/20th_century/trudoc.asp'
+  URL: http://avalon.law.yale.edu/20th_century/trudoc.asp
 
-- id: 'Wallace:Dmrp0uAN'
+- id: Wallace:Dmrp0uAN
   author:
     - family: Wallace
       given: Henry A
@@ -837,7 +837,7 @@ references:
     "Achieving an Atmosphere of Mutual Trust and Confidence": Henry a. Wallace
     offers an alternative to
   type: article-journal
-  URL: 'http://historymatters.gmu.edu/d/6906/'
+  URL: http://historymatters.gmu.edu/d/6906/
 
 - id: wallace1946
   author:
@@ -851,7 +851,7 @@ references:
     “Achieving an atmosphere of mutual trust and confidence”: Henry A. Wallace
     offers an alternative to Cold War containment
   type: article
-  URL: 'http://historymatters.gmu.edu/d/6906/'
+  URL: http://historymatters.gmu.edu/d/6906/
 
 - id: weitz
   author:
@@ -871,18 +871,18 @@ references:
   page: 1–24
   title: Forging a party culture
   type: chapter
-  URL: 'https://moodle.bbk.ac.uk/mod/resource/view.php?id=263246'
+  URL: https://moodle.bbk.ac.uk/mod/resource/view.php?id=263246
 
 - id: westad1998
   author:
     - family: Westad
       given: Odd Arne
-  event-place: 'Washington, DC'
+  event-place: Washington, DC
   ISBN: 978-0-8047-3485-1
   issued:
     - year: 1998
   publisher: Woodrow Wilson Center Press
-  publisher-place: 'Washington, DC'
+  publisher-place: Washington, DC
   title: 'Brothers in arms: the rise and fall of the Sino-Soviet alliance, 1945–1963'
   type: book
 
@@ -890,7 +890,7 @@ references:
   author:
     - family: Westad
       given: Odd Arne
-  collection-title: 'Approaches, interpretations, theory'
+  collection-title: Approaches, interpretations, theory
   ISBN: 0-7146-8120-2
   issued:
     - year: 2000
@@ -925,7 +925,7 @@ references:
     - year: 2009
   publisher: Cambridge University Press
   publisher-place: Cambridge
-  title: 'The global Cold War, Third World interventions and the making of our times'
+  title: The global Cold War, Third World interventions and the making of our times
   type: book
 
 - id: zubok2007
@@ -936,9 +936,9 @@ references:
   issued:
     - year: 2007
   page: 1–28
-  title: 'The Soviet people and Stalin between war and peace, 1945'
+  title: The Soviet people and Stalin between war and peace, 1945
   type: chapter
-  URL: 'https://readings.bbk.ac.uk/readings/Z/Zubok2009.pdf'
+  URL: https://readings.bbk.ac.uk/readings/Z/Zubok2009.pdf
 
 - id: zubok2007a
   author:

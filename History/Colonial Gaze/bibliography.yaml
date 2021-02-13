@@ -18,11 +18,11 @@ references:
   author:
     - family: Darch
       given: John H.
-  event-place: 'Eugene, OR'
+  event-place: Eugene, OR
   issued:
     - year: 2009
   publisher: Wipf and Stock
-  publisher-place: 'Eugene, OR'
+  publisher-place: Eugene, OR
   title: >-
     Missionary imperialists? Missionaries, government and the growth of the
     British empire in the tropics, 1860–1885
@@ -102,7 +102,7 @@ references:
   author:
     - family: Howe
       given: S
-  container-title: 'The left and the end of empire, 1918–1964'
+  container-title: The left and the end of empire, 1918–1964
   ISBN: 978-0-19-820423-7
   issued:
     - year: 1993
@@ -116,7 +116,7 @@ references:
   author:
     - family: Howe
       given: Stephen
-  DOI: '10.1093/acprof:oso/9780199249909.001.0001'
+  DOI: 10.1093/acprof:oso/9780199249909.001.0001
   event-place: Oxford
   issued:
     - year: 2002
@@ -141,7 +141,7 @@ references:
     Orientalist knowledge and social theories: China and the european
     conceptions of east-west differences from 1600 to 1900
   type: article-journal
-  URL: 'http://stx.sagepub.com/lookup/doi/10.1111/1467-9558.00188'
+  URL: http://stx.sagepub.com/lookup/doi/10.1111/1467-9558.00188
   volume: '21'
 
 - id: love1999
@@ -160,7 +160,7 @@ references:
     Monarchs, merchants, and missionaries in early modern asia: The missions
     étrangères in siam, 1662–1684
   type: article-journal
-  URL: 'http://www.jstor.org/stable/10.2307/40108914'
+  URL: http://www.jstor.org/stable/10.2307/40108914
   volume: '21'
 
 - id: macaulay1835
@@ -185,7 +185,7 @@ references:
     - year: 2004
   publisher: Oxford University Press
   publisher-place: Oxford
-  title: 'Empire and violence, 1900–39'
+  title: Empire and violence, 1900–39
   type: chapter
 
 - id: metcalf1994
@@ -232,7 +232,7 @@ references:
   author:
     - family: Owen
       given: Nicholas
-  DOI: '10.1093/acprof:oso/9780199233014.001.0001'
+  DOI: 10.1093/acprof:oso/9780199233014.001.0001
   event-place: Oxford
   issued:
     - year: 2007
@@ -253,9 +253,9 @@ references:
       month: 9
   language: English
   page: 367–391
-  title: 'Cultural imperialism and protestant missionary enterprise, 1780–1914'
+  title: Cultural imperialism and protestant missionary enterprise, 1780–1914
   type: article-journal
-  URL: 'http://www.tandfonline.com/doi/abs/10.1080/03086539708583005'
+  URL: http://www.tandfonline.com/doi/abs/10.1080/03086539708583005
   volume: '25'
 
 - id: porter1999
@@ -271,7 +271,7 @@ references:
     - year: 1999
   publisher: Oxford University Press
   publisher-place: Oxford
-  title: 'Trusteeship, anti-slavery and humanitarianism'
+  title: Trusteeship, anti-slavery and humanitarianism
   type: chapter
   volume: '3'
 
@@ -329,7 +329,7 @@ references:
     - year: 1985
   publisher: Cambridge University Press
   publisher-place: Cambridge
-  title: 'King Leopold’s Congo, 1886–1908'
+  title: King Leopold’s Congo, 1886–1908
   type: chapter
   volume: '6'
 
@@ -349,7 +349,7 @@ references:
     The language of imperialism and the meanings of empire: Imperial discourse
     in british politics, 1895-1914
   type: article-journal
-  URL: 'http://www.journals.uchicago.edu/doi/abs/10.1086/386132'
+  URL: http://www.journals.uchicago.edu/doi/abs/10.1086/386132
   volume: '36'
 
 - id: travers2007
@@ -363,7 +363,7 @@ references:
     - year: 2007
   page: 7–27
   publisher: Routledge
-  title: 'Ideology and British expansion in Bengal, 1757–72'
+  title: Ideology and British expansion in Bengal, 1757–72
   type: article-journal
   volume: '33'
 

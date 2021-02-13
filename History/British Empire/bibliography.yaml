@@ -12,7 +12,7 @@ references:
   page: 245–269
   title: 'Transfer of power in Nigeria: its origins and consequences'
   type: chapter
-  URL: 'https://readings.bbk.ac.uk/readings/A/Ajayi1988.pdf'
+  URL: https://readings.bbk.ac.uk/readings/A/Ajayi1988.pdf
 
 - id: amin2012
   author:
@@ -31,14 +31,12 @@ references:
   title: 'Gandhi as mahatma: Gorakhpur district, eastern UP, 1921-2'
   type: chapter
 
-- id: 'Anonymous:cU-m_vlC'
-  event-place: Oxford
-  publisher: Oxford University Press
-  publisher-place: Oxford
-  title: 'The oxford history of the british empire volume IV: The twentieth century'
-  type: book
-
-- id: 'Arnold:VZUd-mas'
+- id: arnold1988
+  author:
+    - family: Arnold
+      given: David
+  issued:
+    - year: 1988
   title: Imperial medicine and indigenous societies
   type: book
 
@@ -75,7 +73,7 @@ references:
   page: 194–99
   title: Consolidating the new raj
   type: chapter
-  URL: 'https://readings.bbk.ac.uk/readings/B/Bayly1988.pdf'
+  URL: https://readings.bbk.ac.uk/readings/B/Bayly1988.pdf
 
 - id: bayly1996
   author:
@@ -104,9 +102,9 @@ references:
     - year: 1996
   page: 315–337
   publisher: Cambridge University Press
-  title: 'The information order, the Rebellion of 1857-9, and pacification'
+  title: The information order, the Rebellion of 1857-9, and pacification
   type: chapter
-  URL: 'https://readings.bbk.ac.uk/readings/B/BAYLY%201996.pdf'
+  URL: https://readings.bbk.ac.uk/readings/B/BAYLY%201996.pdf
 
 - id: bozzoli1983
   author:
@@ -119,9 +117,9 @@ references:
     - year: 1983
       month: 4
   page: 139–171
-  title: 'Marxism, feminism and south african studies'
+  title: Marxism, feminism and south african studies
   type: article-journal
-  URL: 'http://www.jstor.org/stable/2636298'
+  URL: http://www.jstor.org/stable/2636298
   volume: '9'
 
 - id: bradford1996
@@ -139,6 +137,20 @@ references:
   type: article-journal
   volume: '37'
 
+- id: brown1999
+  editor:
+    - family: Brown
+      given: Judith
+    - family: Louis
+      given: Wm Roger
+  event-place: Oxford
+  issued:
+    - year: 1999
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: 'The Oxford history of the British Empire: Volume IV: The twentieth century'
+  type: book
+
 - id: cain1980
   author:
     - family: Cain
@@ -151,7 +163,7 @@ references:
   issued:
     - year: 1980
   page: 463–90
-  title: 'The political economy of British expansion overseas, 1750–1914'
+  title: The political economy of British expansion overseas, 1750–1914
   type: article-journal
   volume: '33'
 
@@ -168,7 +180,7 @@ references:
   publisher-place: London
   title: Economic foundations of british overseas expansion 1815–1914
   type: book
-  URL: 'http://link.springer.com/10.1007/978-1-349-03591-5'
+  URL: http://link.springer.com/10.1007/978-1-349-03591-5
 
 - id: cain1980b
   author:
@@ -185,7 +197,7 @@ references:
   publisher-place: London
   title: British economic policy and the empire
   type: chapter
-  URL: 'http://link.springer.com/10.1007/978-1-349-03591-5_4'
+  URL: http://link.springer.com/10.1007/978-1-349-03591-5_4
 
 - id: cain1980c
   author:
@@ -202,7 +214,7 @@ references:
   publisher-place: London
   title: Economics and Imperialism 1815–75
   type: chapter
-  URL: 'http://link.springer.com/10.1007/978-1-349-03591-5_7'
+  URL: http://link.springer.com/10.1007/978-1-349-03591-5_7
 
 - id: cain1980d
   author:
@@ -219,7 +231,7 @@ references:
   publisher-place: London
   title: The coming of free trade and free trade imperialism after 1815
   type: chapter
-  URL: 'http://link.springer.com/10.1007/978-1-349-03591-5_3'
+  URL: http://link.springer.com/10.1007/978-1-349-03591-5_3
 
 - id: cain1980e
   author:
@@ -236,7 +248,7 @@ references:
   publisher-place: London
   title: Theoretical approaches
   type: chapter
-  URL: 'http://link.springer.com/10.1007/978-1-349-03591-5_2'
+  URL: http://link.springer.com/10.1007/978-1-349-03591-5_2
 
 - id: cain1980f
   author:
@@ -251,9 +263,9 @@ references:
   page: 59–66
   publisher: Macmillan Education UK
   publisher-place: London
-  title: 'Trade, finance and informal empire after 1875'
+  title: Trade, finance and informal empire after 1875
   type: chapter
-  URL: 'http://link.springer.com/10.1007/978-1-349-03591-5_11'
+  URL: http://link.springer.com/10.1007/978-1-349-03591-5_11
 
 - id: cain1986
   author:
@@ -308,7 +320,7 @@ references:
       given: Shelagh
     - family: Champion
       given: George
-  ISBN: 095964829
+  ISBN: '095964829'
   issued:
     - year: 1989
   title: >-
@@ -319,8 +331,8 @@ references:
     http://www.manly.nsw.gov.au/IgnitionSuite/uploads/docs/The Spearing of
     Governor Phillip at Collins Cove.pdf
 
-- id: 'Chandravarkar:42-NDmrT'
-  collection-title: 'Class, resistance and the state in india c.1850–1950'
+- id: Chandravarkar:42-NDmrT
+  collection-title: Class, resistance and the state in india c.1850–1950
   title: Imperial power and popular politics
   type: book
 
@@ -332,7 +344,7 @@ references:
   issued:
     - year: 1998
   page: 1–17
-  title: 'Plague panic and epidemic politics in India, 1896–1914'
+  title: Plague panic and epidemic politics in India, 1896–1914
   type: chapter
 
 - id: chandravarkar1998a
@@ -417,7 +429,7 @@ references:
   page: 1–27
   title: How British was the British world? The case of South Africa
   type: article-journal
-  URL: 'http://www.tandfonline.com/doi/abs/10.1080/03086530902757688'
+  URL: http://www.tandfonline.com/doi/abs/10.1080/03086530902757688
   volume: '37'
 
 - id: etherington1982
@@ -433,7 +445,7 @@ references:
   page: 1–36
   title: Reconsidering theories of imperialism
   type: article-journal
-  URL: 'http://www.jstor.org/stable/2505147?origin=crossref'
+  URL: http://www.jstor.org/stable/2505147?origin=crossref
   volume: '21'
 
 - id: flint1999
@@ -577,7 +589,7 @@ references:
       month: 5
   language: English
   publisher: Oxford University Press
-  title: 'The oxford history of the british empire: Volume II: The eighteenth century'
+  title: 'The Oxford history of the British Empire: Volume II: The eighteenth century'
   type: book
   URL: >-
     http://books.google.co.uk/books/about/The_Oxford_History_of_the_British_Empire.html?id=COlwt4G05v0C
@@ -627,7 +639,7 @@ references:
   author:
     - family: Morgan
       given: Philip D
-  container-title: 'Abolitionism and imperialism in britain, africa and the atlantic'
+  container-title: Abolitionism and imperialism in britain, africa and the atlantic
   editor:
     - family: Peterson
       given: D R
@@ -670,9 +682,9 @@ references:
   issued:
     - year: 1988
   page: 1–32
-  title: 'The political economy of British taxation, 1660-1815'
+  title: The political economy of British taxation, 1660-1815
   type: article-journal
-  URL: 'http://www.jstor.org/stable/2597330'
+  URL: http://www.jstor.org/stable/2597330
   volume: '41'
 
 - id: oliver1985
@@ -690,7 +702,7 @@ references:
   publisher-place: Cambridge
   title: The cambridge history of africa
   type: book
-  URL: 'http://universitypublishingonline.org/ref/id/histories/CBO9781139054607'
+  URL: http://universitypublishingonline.org/ref/id/histories/CBO9781139054607
 
 - id: palmer2009
   author:
@@ -719,7 +731,7 @@ references:
   page: 43–63
   title: The central beliefs of the Xhosa cattle-killing
   type: article-journal
-  URL: 'https://www.jstor.org/stable/181448'
+  URL: https://www.jstor.org/stable/181448
   volume: '28'
 
 - id: peterson2010
@@ -732,7 +744,7 @@ references:
     - year: 2010
   publisher: Ohio University Press
   publisher-place: Ohio
-  title: 'Abolitionism and imperialism in britain, africa and the atlantic'
+  title: Abolitionism and imperialism in britain, africa and the atlantic
   type: book
   URL: >-
     http://www.worldcat.org/title/abolitionism-and-imperialism-in-britain-africa-and-the-atlantic/oclc/433549496
@@ -749,7 +761,7 @@ references:
   type: book
 
 - id: porter1999a
-  DOI: '10.1093/acprof:oso/9780198205654.001.0001'
+  DOI: 10.1093/acprof:oso/9780198205654.001.0001
   editor:
     - family: Porter
       given: Andrew
@@ -776,7 +788,7 @@ references:
     - year: 1998
   page: 508–529
   publisher-place: Oxford
-  title: 'Indian society and the establishment of British supremacy, 1765–1818'
+  title: Indian society and the establishment of British supremacy, 1765–1818
   type: chapter
 
 - id: said2014
@@ -831,7 +843,7 @@ references:
     Developing iraq: Britain, india and the redemption of empire and technology
     in the first world war
   type: article-journal
-  URL: 'http://past.oxfordjournals.org/cgi/doi/10.1093/pastj/gtm008'
+  URL: http://past.oxfordjournals.org/cgi/doi/10.1093/pastj/gtm008
   volume: '197'
 
 - id: storrs2002
@@ -870,7 +882,7 @@ references:
     - year: 1961
   page: 176–182
   publisher: Angus & Robertson
-  title: 'Transactions of the Colony in the Beginning of September, 1790'
+  title: Transactions of the Colony in the Beginning of September, 1790
   type: chapter
 
 - id: travers2007
@@ -884,7 +896,7 @@ references:
     - year: 2007
   page: 7–27
   publisher: Routledge
-  title: 'Ideology and British expansion in Bengal, 1757–72'
+  title: Ideology and British expansion in Bengal, 1757–72
   type: article-journal
   volume: '33'
 

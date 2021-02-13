@@ -5,7 +5,7 @@ references:
     - family: Ainsworth
       given: Claire
   container-title: Nature
-  DOI: 'doi:10.1038/518288a'
+  DOI: doi:10.1038/518288a
   issue: '518'
   issued:
     - year: 2015
@@ -29,7 +29,7 @@ references:
   page: 75–104
   title: Transexuality and bisexuality
   type: chapter
-  URL: 'https://readings.bbk.ac.uk/readings/B/Bland1998Transexuality.pdf'
+  URL: https://readings.bbk.ac.uk/readings/B/Bland1998Transexuality.pdf
 
 - id: bland1998a
   collection-title: The documents of sexual science
@@ -43,7 +43,7 @@ references:
   publisher: Polity Press
   title: Sexology uncensored
   type: book
-  URL: 'https://press.uchicago.edu/ucp/books/book/chicago/S/bo3614689.html'
+  URL: https://press.uchicago.edu/ucp/books/book/chicago/S/bo3614689.html
 
 - id: childrensemploymentcommission1866
   author:
@@ -142,7 +142,7 @@ references:
   issued:
     - year: 1967
   page: 125–143
-  title: 'The growth of urban population in England and Wales, 1801–1911'
+  title: The growth of urban population in England and Wales, 1801–1911
   type: article-journal
 
 - id: levine2004
@@ -167,7 +167,7 @@ references:
       given: Wade
   issued:
     - year: 2015
-  publisher: 'Routledge, June'
+  publisher: Routledge, June
   title: A critical introduction to law
   type: book
 
@@ -229,7 +229,7 @@ references:
   page: 128–47
   title: A woman's place?
   type: chapter
-  URL: 'https://doi.org/10.1017/cbo9781139167833.010'
+  URL: https://doi.org/10.1017/cbo9781139167833.010
 
 - id: metcalf1965
   author:
@@ -291,7 +291,7 @@ references:
     Locating globalization: Feminist (re)readings of the subjects and spaces of
     globalization
   type: article-journal
-  URL: 'https://www.jstor.org/stable/10.2307/4140810?origin=crossref'
+  URL: https://www.jstor.org/stable/10.2307/4140810?origin=crossref
   volume: '78'
 
 - id: rai2013
@@ -320,7 +320,7 @@ references:
   page: 18–47
   title: Liberated bodies
   type: chapter
-  URL: 'https://readings.bbk.ac.uk/readings/R/redfern2010.pdf'
+  URL: https://readings.bbk.ac.uk/readings/R/redfern2010.pdf
 
 - id: shanley1993
   author:
@@ -329,6 +329,6 @@ references:
   issued:
     - year: 1993
   publisher: Princeton University Press
-  title: 'Feminism, marriage, and the law in Victorian England'
+  title: Feminism, marriage, and the law in Victorian England
   type: book
 ...

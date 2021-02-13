@@ -5,14 +5,14 @@ references:
     - year: 1918
   title: Constitution of the russian soviet federative socialist republic
   type: legislation
-  URL: 'https://www.marxists.org/history/ussr/government/constitution/1918/index.htm'
+  URL: https://www.marxists.org/history/ussr/government/constitution/1918/index.htm
 
 - id: '1936'
   issued:
     - year: 1936
   title: Constitution of the union of soviet socialist republics
   type: legislation
-  URL: 'https://www.marxists.org/reference/archive/stalin/works/1936/12/05.htm'
+  URL: https://www.marxists.org/reference/archive/stalin/works/1936/12/05.htm
 
 - id: carr1987
   author:
@@ -106,7 +106,7 @@ references:
   author:
     - family: Fitzpatrick
       given: Sheila
-  container-title: 'The russian revolution, 1917–32'
+  container-title: The russian revolution, 1917–32
   ISBN: 978-0-19-923767-8
   issued:
     - year: 2008
@@ -114,7 +114,7 @@ references:
   publisher: Oxford University Press
   title: The civil war
   type: chapter
-  URL: 'https://readings.bbk.ac.uk/readings/F/Fitzpatrick2008.pdf'
+  URL: https://readings.bbk.ac.uk/readings/F/Fitzpatrick2008.pdf
 
 - id: florinsky1927
   author:
@@ -129,7 +129,7 @@ references:
   page: 203–227
   title: The Russian mobilization of 1914
   type: article-journal
-  URL: 'https://www.jstor.org/stable/2142786'
+  URL: https://www.jstor.org/stable/2142786
   volume: '42'
 
 - id: goldman1991
@@ -149,7 +149,7 @@ references:
     - year: 1991
   publisher: University of California Press
   publisher-place: Berkeley
-  title: 'Women, abortion and the state, 1917–36'
+  title: Women, abortion and the state, 1917–36
   type: chapter
 
 - id: keep1995
@@ -161,7 +161,7 @@ references:
   issued:
     - year: 1995
   publisher: Oxford University Press
-  title: 'A history of the soviet union, 1945–1991'
+  title: A history of the soviet union, 1945–1991
   type: book
   URL: >-
     http://www.worldcat.org/title/history-of-the-soviet-union-1945-1991-last-of-the-empires/oclc/59498696
@@ -170,9 +170,9 @@ references:
   author:
     - family: Kimball
       given: Alan
-  title: 'Russian Peasants and Village lands, 1861–1917'
+  title: Russian Peasants and Village lands, 1861–1917
   type: webpage
-  URL: 'http://pages.uoregon.edu/kimball/1861-1917.krx.lnd.htm'
+  URL: http://pages.uoregon.edu/kimball/1861-1917.krx.lnd.htm
 
 - id: lenin1915
   author:
@@ -183,7 +183,7 @@ references:
     - year: 1915
   title: Socialism and war
   type: chapter
-  URL: 'https://www.marxists.org/archive/lenin/works/1915/s+w'
+  URL: https://www.marxists.org/archive/lenin/works/1915/s+w
   volume: '21'
 
 - id: lenin1916
@@ -195,7 +195,7 @@ references:
     - year: 1916
   title: A caricature of marxist and imperialist economism
   type: chapter
-  URL: 'https://www.marxists.org/archive/lenin/works/1916/carimarx/index.htm'
+  URL: https://www.marxists.org/archive/lenin/works/1916/carimarx/index.htm
   volume: '23'
 
 - id: lenin1917
@@ -207,7 +207,7 @@ references:
     - year: 1917
   title: The state and revolution
   type: chapter
-  URL: 'https://www.marxists.org/archive/lenin/works/1917/staterev/'
+  URL: https://www.marxists.org/archive/lenin/works/1917/staterev/
   volume: '25'
 
 - id: lenin1917a
@@ -219,7 +219,7 @@ references:
     - year: 1917
   title: War and revolution
   type: chapter
-  URL: 'https://www.marxists.org/archive/lenin/works/1917/may/14.htm'
+  URL: https://www.marxists.org/archive/lenin/works/1917/may/14.htm
   volume: '24'
 
 - id: lenin1917b
@@ -234,7 +234,7 @@ references:
   publisher-place: Moscow
   title: The tasks of the proletariat in the present revolution (the April theses)
   type: chapter
-  URL: 'https://www.marxists.org/archive/lenin/works/1917/apr/04.htm'
+  URL: https://www.marxists.org/archive/lenin/works/1917/apr/04.htm
   volume: '24'
 
 - id: lenin1918
@@ -246,7 +246,7 @@ references:
     - year: 1918
   title: Speech at the First All-Russia Congress of Working Women
   type: chapter
-  URL: 'https://www.marxists.org/archive/lenin/works/1918/nov/19.htm'
+  URL: https://www.marxists.org/archive/lenin/works/1918/nov/19.htm
   volume: '28'
 
 - id: lenin1919
@@ -258,7 +258,7 @@ references:
     - year: 1919
   title: Soviet power and the status of women
   type: chapter
-  URL: 'https://www.marxists.org/archive/lenin/works/1919/nov/06.htm'
+  URL: https://www.marxists.org/archive/lenin/works/1919/nov/06.htm
   volume: '30'
 
 - id: lenin1920
@@ -270,7 +270,7 @@ references:
     - year: 1920
   title: On International Women's Day
   type: chapter
-  URL: 'https://www.marxists.org/archive/lenin/works/1920/mar/04.htm'
+  URL: https://www.marxists.org/archive/lenin/works/1920/mar/04.htm
 
 - id: marx1976
   author:
@@ -295,7 +295,7 @@ references:
     - year: 1980
   title: Critique of the Gotha programme
   type: chapter
-  URL: 'https://www.marxists.org/archive/marx/works/1875/gotha/index.htm'
+  URL: https://www.marxists.org/archive/marx/works/1875/gotha/index.htm
   volume: '3'
 
 - id: petrogradsoviet1917
@@ -307,7 +307,7 @@ references:
     Order No. 1 of the Petrograd Soviet of Workers' and Soldiers' Deputies to
     the Petrograd District Garrison
   type: legislation
-  URL: 'https://www.marxists.org/history/ussr/government/1917/03/01.htm'
+  URL: https://www.marxists.org/history/ussr/government/1917/03/01.htm
 
 - id: pichugina1939
   author:
@@ -317,7 +317,7 @@ references:
     - year: 1939
   title: Women in the USSR
   type: article
-  URL: 'https://www.marxists.org/subject/women/authors/pichugina/women.html'
+  URL: https://www.marxists.org/subject/women/authors/pichugina/women.html
 
 - id: service2013
   author:
@@ -351,7 +351,7 @@ references:
     - year: 1905
   title: Programme of the Socialist Revolutionary Party
   type: book
-  URL: 'https://community.dur.ac.uk/a.k.harrington/srprog.html'
+  URL: https://community.dur.ac.uk/a.k.harrington/srprog.html
 
 - id: trotsky1937
   author:
@@ -361,7 +361,7 @@ references:
     - year: 1937
   title: The revolution betrayed
   type: book
-  URL: 'https://www.marxists.org/archive/trotsky/1936/revbet/index.htm'
+  URL: https://www.marxists.org/archive/trotsky/1936/revbet/index.htm
 
 - id: westwood1984
   author:

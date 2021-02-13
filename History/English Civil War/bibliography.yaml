@@ -1,7 +1,7 @@
 ---
 references:
 - id: '2001'
-  collection-title: 'The army, the levellers and the english state'
+  collection-title: The army, the levellers and the english state
   event-place: Cambridge
   issued:
     - year: 2001
@@ -20,7 +20,7 @@ references:
   page: 93–120
   title: The baronial context of the English Civil War
   type: article-journal
-  URL: 'http://www.jstor.org/stable/3679164'
+  URL: http://www.jstor.org/stable/3679164
   volume: '40'
 
 - id: adamson1991
@@ -35,7 +35,7 @@ references:
   page: 231–255
   title: Politics and the nobility in civil-war England
   type: article-journal
-  URL: 'http://www.jstor.org/stable/2639726'
+  URL: http://www.jstor.org/stable/2639726
   volume: '34'
 
 - id: crawford2001
@@ -67,9 +67,9 @@ references:
   issued:
     - year: 1994
   page: 1137–1166
-  title: 'Atrocity, war crime, and treason in the English Civil War'
+  title: Atrocity, war crime, and treason in the English Civil War
   type: article-journal
-  URL: 'http://www.jstor.org/stable/2168772'
+  URL: http://www.jstor.org/stable/2168772
   volume: '99'
 
 - id: elton1974
@@ -82,7 +82,7 @@ references:
   publisher: Cambridge University Press
   title: A high road to civil war?
   type: chapter
-  URL: 'http://dx.doi.org/10.1017/CBO9780511561108.008'
+  URL: http://dx.doi.org/10.1017/CBO9780511561108.008
 
 - id: foster2006
   author:
@@ -115,7 +115,7 @@ references:
       given: Samuel R.
   issued:
     - year: 1883
-  publisher: 'Longmans, Green & Co.'
+  publisher: Longmans, Green & Co.
   title: >-
     History of England from the accession of James I to the outbreak of the
     Civil War
@@ -126,7 +126,7 @@ references:
   author:
     - family: Gentles
       given: I
-  container-title: 'The New Model Army in England, Ireland and Scotland 1645–53'
+  container-title: The New Model Army in England, Ireland and Scotland 1645–53
   event-place: Oxford
   ISBN: 0-631-15869-3
   issued:
@@ -150,7 +150,7 @@ references:
   page: 33–66
   title: The failure of godly rule in the english republic
   type: article-journal
-  URL: 'http://www.jstor.org/stable/650820'
+  URL: http://www.jstor.org/stable/650820
 
 - id: hutton2004
   author:
@@ -173,7 +173,7 @@ references:
   publisher: Palgrave Macmillan
   title: Debates in stuart history
   type: book
-  URL: 'http://www.worldcat.org/title/debates-in-stuart-history/oclc/54446473'
+  URL: http://www.worldcat.org/title/debates-in-stuart-history/oclc/54446473
 
 - id: kishlansky1990
   author:
@@ -187,7 +187,7 @@ references:
   page: 917–937
   title: Saye what?
   type: article-journal
-  URL: 'http://www.jstor.org/stable/2639804'
+  URL: http://www.jstor.org/stable/2639804
   volume: '33'
 
 - id: lake1989
@@ -288,7 +288,7 @@ references:
   page: 103–132
   title: 'Desire and its deformities: Fantasies of witchcraft in the English Civil War'
   type: article-journal
-  URL: 'https://muse.jhu.edu/article/16450'
+  URL: https://muse.jhu.edu/article/16450
   volume: '27'
 
 - id: purkiss2006
@@ -306,7 +306,7 @@ references:
   section: '7'
   title: The valley of decision
   type: chapter
-  URL: 'http://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.58.8.1317-b'
+  URL: http://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.58.8.1317-b
 
 - id: reeve1989
   author:
@@ -327,7 +327,7 @@ references:
       given: Conrad
   container-title: History
   DOI: 10.1111/j.1468-229X.1987.tb01469.x
-  ISBN: 0631208097
+  ISBN: '0631208097'
   issue: '72'
   issued:
     - year: 1987
@@ -362,7 +362,7 @@ references:
   publisher: Blackwell
   publisher-place: Oxford
   section: '12'
-  title: 'Politics in early Stuart Britain, 1603–1640'
+  title: Politics in early Stuart Britain, 1603–1640
   type: chapter
 
 - id: tawney1941
@@ -375,9 +375,9 @@ references:
   issued:
     - year: 1941
   page: 1–38
-  title: 'The rise of the gentry, 1558–1640'
+  title: The rise of the gentry, 1558–1640
   type: article-journal
-  URL: 'https://www.jstor.org/stable/2590708'
+  URL: https://www.jstor.org/stable/2590708
   volume: '11'
 
 - id: woolrych1957
@@ -392,7 +392,7 @@ references:
   page: 133–161
   title: The good old cause and the fall of the protectorate
   type: article-journal
-  URL: 'http://www.jstor.org/stable/3020682'
+  URL: http://www.jstor.org/stable/3020682
   volume: '13'
 
 - id: woolrych1990

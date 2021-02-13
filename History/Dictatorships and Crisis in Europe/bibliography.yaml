@@ -55,15 +55,15 @@ references:
   author:
     - family: Clark
       given: Martin
-  container-title: 'Modern italy, 1871–1995'
+  container-title: Modern italy, 1871–1995
   ISBN: 0-582-05126-6
   issued:
     - year: 1996
   page: 203–229
   publisher: Longman
-  title: 'The strange death of liberal Italy, 1919-25'
+  title: The strange death of liberal Italy, 1919-25
   type: chapter
-  URL: 'https://readings.bbk.ac.uk/readings/C/Clark1996%5B2%5D.pdf'
+  URL: https://readings.bbk.ac.uk/readings/C/Clark1996%5B2%5D.pdf
 
 - id: clark1996a
   author:
@@ -73,7 +73,7 @@ references:
   issued:
     - year: 1996
   publisher: Longman
-  title: 'Modern Italy, 1871–1995'
+  title: Modern Italy, 1871–1995
   type: book
 
 - id: duggan2008
@@ -97,9 +97,9 @@ references:
     - year: 2008
   page: 407–432
   publisher: Penguin
-  title: 'Civil war and the advent of fascism, 1919-22'
+  title: Civil war and the advent of fascism, 1919-22
   type: chapter
-  URL: 'https://readings.bbk.ac.uk/readings/D/Duggan2008.pdf'
+  URL: https://readings.bbk.ac.uk/readings/D/Duggan2008.pdf
 
 - id: gellately2007
   author:
@@ -193,7 +193,7 @@ references:
   issued:
     - year: 1998
   publisher: Edwin Mellen Press
-  title: 'Britain, Italy, Germany and the Spanish Civil War'
+  title: Britain, Italy, Germany and the Spanish Civil War
   type: book
 
 - id: preston1990
@@ -217,7 +217,7 @@ references:
     Against fascism: Jews who served in the International Brigade in the Spanish
     Civil War
   type: webpage
-  URL: 'http://www.jewishvirtuallibrary.org/jsource/History/spanjews.pdf'
+  URL: http://www.jewishvirtuallibrary.org/jsource/History/spanjews.pdf
 
 - id: thomas1961
   author:
@@ -241,6 +241,6 @@ references:
   page: '133'
   title: How franco financed his war — Reconsidered
   type: article-journal
-  URL: 'http://www.jstor.org/stable/260240'
+  URL: http://www.jstor.org/stable/260240
   volume: '12'
 ...
