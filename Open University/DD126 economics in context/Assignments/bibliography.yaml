@@ -1,0 +1,292 @@
+---
+references:
+- id: anand2019
+  author:
+    - family: Anand
+      given: Paul
+    - family: Lombardozzi
+      given: Lorena
+  container-title: Economics in context
+  editor:
+    - family: Santos
+      given: Cristina
+    - family: Anand
+      given: P
+    - family: Simonetti
+      given: R
+    - family: Green
+      given: A
+    - family: Lombardozzi
+      given: L
+    - family: Stone
+      given: H
+    - family: Szymborska
+      given: H K
+    - family: Trigg
+      given: A
+  event-place: Milton Keynes
+  issued:
+    - year: 2019
+  publisher: Open University Press
+  publisher-place: Milton Keynes
+  title: The economic functions of government
+  type: chapter
+
+- id: asaria2016
+  author:
+    - family: Asaria
+      given: Miqdad
+    - family: Ali
+      given: Shehzad
+    - family: Doran
+      given: Tim
+    - family: Ferguson
+      given: Brian
+    - family: Fleetcroft
+      given: Robert
+    - family: Goddard
+      given: Maria
+    - family: Goldblatt
+      given: Peter
+    - family: Laudicella
+      given: Mauro
+    - family: Raine
+      given: Rosalind
+    - family: Cookson
+      given: Richard
+  container-title: Journal of Epidemiology & Community Health
+  DOI: 10.1136/jech-2015-206742
+  ISSN: 0143-005X
+  issue: '7'
+  issued:
+    - year: 2016
+  note: '_eprint: https://jech.bmj.com/content/70/7/637.full.pdf'
+  page: 637–643
+  publisher: BMJ Publishing Group Ltd
+  title: 'How a universal health system reduces inequalities: lessons from England'
+  type: article-journal
+  URL: https://jech.bmj.com/content/70/7/637
+  volume: '70'
+
+- id: beckert2014
+  author:
+    - family: Beckert
+      given: Sven
+  event-place: New York
+  issued:
+    - year: 2014
+  publisher: Vintage
+  publisher-place: New York
+  title: Empire of cotton
+  type: book
+
+- id: harnetty1972
+  author:
+    - family: Harnetty
+      given: Peter
+  event-place: Manchester
+  issued:
+    - year: 1972
+  publisher: Manchester University Press
+  publisher-place: Manchester
+  title: Imperialism and free trade
+  type: book
+
+- id: hayek2002
+  author:
+    - family: Hayek
+      given: Friedrich
+  container-title: Quarterly Journal of Austrian Economics
+  container-title-short: Quart J Austrian Econ
+  DOI: 10.1007/s12113-002-1029-0
+  issue: '3'
+  issued:
+    - year: 2002
+      month: 9
+      day: 1
+  page: 9–23
+  title: Competition as a discovery procedure
+  translator:
+    - family: Snow
+      given: Marcellus S
+  type: article-journal
+  volume: '5'
+
+- id: hobsbawm1995
+  author:
+    - family: Hobsbawm
+      given: Eric J
+  issued:
+    - year: 1995
+  publisher: Weidenfeld & Nicholson
+  title: 'The age of capital: 1848–1875'
+  type: book
+
+- id: hobsbawm1999
+  author:
+    - family: Hobsbawm
+      given: Eric J
+  edition: Rev. edn.
+  event-place: London
+  issued:
+    - year: 1999
+  publisher: Penguin
+  publisher-place: London
+  title: Industry and empire
+  type: book
+
+- id: okun1975
+  author:
+    - family: Okun
+      given: Arthur
+  event-place: Washington, D.C.
+  issued:
+    - year: 1975
+  publisher: Brookings Institute
+  publisher-place: Washington, D.C.
+  title: 'Equality and efficiency: the big tradeoff'
+  type: book
+
+- id: rowlingson2011
+  accessed:
+    - year: 2020
+      month: 7
+      day: 27
+  author:
+    - family: Rowlingson
+      given: Karen
+  issued:
+    - year: 2011
+  publisher: Joseph Rowntree Foundation
+  title: Does income inequality cause health and social problems?
+  type: report
+  URL: >-
+    https://www.jrf.org.uk/report/does-income-inequality-cause-health-and-social-problems
+
+- id: schumpeter1943
+  author:
+    - family: Schumpeter
+      given: Joseph A
+  event-place: London
+  issued:
+    - year: 1943
+  publisher: Routledge
+  publisher-place: London
+  title: Capitalism, socialism and democracy
+  type: book
+
+- id: szymborska2019
+  author:
+    - family: Szymborska
+      given: Hanna K
+  container-title: Economics in context
+  editor:
+    - family: Santos
+      given: Cristina
+    - family: Anand
+      given: P
+    - family: Simonetti
+      given: R
+    - family: Green
+      given: A
+    - family: Lombardozzi
+      given: L
+    - family: Stone
+      given: H
+    - family: Szymborska
+      given: H K
+    - family: Trigg
+      given: A
+  event-place: Milton Keynes
+  issued:
+    - year: 2019
+  publisher: Open University Press
+  publisher-place: Milton Keynes
+  title: 'Freedom and success in markets: a reflection'
+  type: chapter
+
+- id: szymborska2019a
+  author:
+    - family: Szymborska
+      given: Hanna K
+  container-title: Economics in context
+  editor:
+    - family: Santos
+      given: Cristina
+    - family: Anand
+      given: P
+    - family: Simonetti
+      given: R
+    - family: Green
+      given: A
+    - family: Lombardozzi
+      given: L
+    - family: Stone
+      given: H
+    - family: Szymborska
+      given: H K
+    - family: Trigg
+      given: A
+  event-place: Milton Keynes
+  issued:
+    - year: 2019
+  publisher: Open University Press
+  publisher-place: Milton Keynes
+  title: Labour and inequality
+  type: chapter
+
+- id: trigg2019
+  author:
+    - family: Trigg
+      given: Andrew
+  container-title: Economics in context
+  editor:
+    - family: Santos
+      given: Cristina
+    - family: Anand
+      given: P
+    - family: Simonetti
+      given: R
+    - family: Green
+      given: A
+    - family: Lombardozzi
+      given: L
+    - family: Stone
+      given: H
+    - family: Szymborska
+      given: H K
+    - family: Trigg
+      given: A
+  event-place: Milton Keynes
+  issued:
+    - year: 2019
+  publisher: Open University Press
+  publisher-place: Milton Keynes
+  title: Economics in time and space
+  type: chapter
+
+- id: westwood2008
+  author:
+    - family: Westwood
+      given: Clare
+  issued:
+    - year: 2008
+  publisher: New Internationalist
+  title: Rice under threat
+  type: article-magazine
+  URL: https://newint.org/features/special/2008/11/18/rice-under-threat
+
+- id: wilkinson2009
+  author:
+    - family: Wilkinson
+      given: Richard
+    - family: Pickett
+      given: Kate
+  event-place: London
+  issued:
+    - year: 2009
+  publisher: Penguin
+  publisher-place: London
+  title: 'The spirit level: why equality is better for everyone'
+  type: book
+...

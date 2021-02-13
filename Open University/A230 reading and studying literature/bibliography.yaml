@@ -1,0 +1,129 @@
+---
+references:
+- id: pacheco2018
+  edition: '2'
+  editor:
+    - family: Pacheco
+      given: Anita
+    - family: Johnson
+      given: David
+    - family: Asbee
+      given: Sue
+    - family: Gibson
+      given: Jonathan
+  ISBN: 978-1-4730-2400-7
+  issued:
+    - year: 2018
+  publisher: Open University Press
+  title: The Renaissance and long eighteenth century
+  type: book
+
+- id: said2003
+  author:
+    - family: Said
+      given: Edward W.
+  edition: 25th Anniversary Edition
+  event-place: London
+  ISBN: 978-0-8041-5386-7
+  issued:
+    - year: 2003
+  language: eng
+  note: 'OCLC: 249111448'
+  number-of-pages: '396'
+  publisher: Vintage
+  publisher-place: London
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: Orientalism
+  type: book
+
+- id: shakespeare2006
+  author:
+    - family: Shakespeare
+      given: William
+  editor:
+    - family: Neill
+      given: Michael
+  event-place: Oxford
+  ISBN: 978-0-19-953587-3
+  issued:
+    - year: 2006
+  language: eng
+  number-of-pages: '491'
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: Othello, the Moor of Venice
+  type: book
+
+- id: shelley2003
+  author:
+    - family: Shelley
+      given: Percy Bysshe
+  editor:
+    - family: Leader
+      given: Zachary
+    - family: O’Neill
+      given: Michael
+  issued:
+    - year: 2003
+  title: The Major Works
+  type: book
+
+- id: voltaire2009
+  author:
+    - literal: Voltaire
+  editor:
+    - family: Cuffe
+      given: Theo
+  event-place: London
+  ISBN: 978-0-14-045510-6
+  issued:
+    - year: 2009
+  language: English
+  note: 'OCLC: 762181603'
+  publisher: Penguin
+  publisher-place: London
+  source: Open WorldCat
+  title: Candide, or, Optimism
+  type: book
+
+- id: watson2018
+  edition: '2'
+  editor:
+    - family: Watson
+      given: Nicola J
+    - family: Towheed
+      given: Shafquat
+  ISBN: 978 1 4730 2455 7
+  issued:
+    - year: 2018
+  publisher: Open University Press
+  title: Romantics and Victorians
+  type: book
+
+- id: wilsonknight1930
+  author:
+    - family: Wilson Knight
+      given: George
+  event-place: Oxford
+  issued:
+    - year: 1930
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  title: 'The Wheel of Fire: Interpretations of Shakespearian Tragedy'
+  type: book
+
+- id: wordsworth1977
+  author:
+    - family: Wordsworth
+      given: William
+  editor:
+    - family: Darlington
+      given: B
+  issued:
+    - year: 1977
+  original-date:
+    - year: 1888
+  publisher: Cornell University Press
+  title: Home at Grasmere
+  type: book
+...
