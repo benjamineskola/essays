@@ -1,0 +1,108 @@
+---
+references:
+- id: baxell2012
+  author:
+    - family: Baxell
+      given: Richard
+  issued:
+    - year: 2012
+  publisher: Aurum Press
+  title: >-
+    Unlikely warriors: the British in the Spanish Civil War and the struggle
+    against fascism
+  type: book
+
+- id: beevor2006
+  author:
+    - family: Beevor
+      given: Antony
+  issued:
+    - year: 2006
+  publisher: Wiedenfeld & Nicholson
+  title: The battle for Spain
+  type: book
+
+- id: frank1999
+  author:
+    - family: Frank, Jr.
+      given: Willard C
+  container-title: The International History Review
+  ISSN: '07075332'
+  issue: '4'
+  issued:
+    - year: 1999
+  language: English
+  page: 1072–1073
+  publisher: Taylor & Francis, Ltd.
+  title: >-
+    Review: Into the Heart of the Fire. The British in the Spanish Civil War by
+    James K. Hopkins
+  type: article-journal
+  URL: http://www.jstor.org/stable/40109233
+  volume: '21'
+
+- id: hopkins1998
+  author:
+    - family: Hopkins
+      given: James K
+  ISBN: 0-8047-3127-6
+  issued:
+    - year: 1998
+  publisher: Stanford University Press
+  title: Into the heart of the fire - The British in the Spanish Civil War
+  type: book
+
+- id: hopkinsjamesk
+  author:
+    - literal: Hopkins, James K
+  title: Faculty page for Professor James k. Hopkins
+  type: webpage
+  URL: http://faculty.smu.edu/hopkins/
+
+- id: nelson2004
+  author:
+    - family: Nelson
+      given: Cary
+  container-title: Science & Society
+  ISSN: '00368237'
+  issue: '3'
+  issued:
+    - year: 2004
+  language: English
+  page: 369–376
+  publisher: Guilford Press
+  title: The British contribution to the anti-fascist struggle in Spain
+  type: article-journal
+  URL: http://www.jstor.org/stable/40404197
+  volume: '68'
+
+- id: stradling2000
+  author:
+    - family: Stradling
+      given: Robert
+  container-title: The English Historical Review
+  DOI: 10.1093/ehr/115.460.164
+  ISSN: '00138266'
+  issue: '460'
+  issued:
+    - year: 2000
+  language: English
+  page: 164–166
+  publisher: Oxford University Press
+  title: >-
+    Review: Into the Heart of the Fire. The British in the Spanish Civil War by
+    James K. Hopkins
+  type: article-journal
+  URL: http://www.jstor.org/stable/579443
+  volume: '115'
+
+- id: thomas1961
+  author:
+    - family: Thomas
+      given: Hugh
+  issued:
+    - year: 1961
+  publisher: Eyre & Spottiswood
+  title: The Spanish Civil War
+  type: book
+...
