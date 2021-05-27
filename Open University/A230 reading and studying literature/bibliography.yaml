@@ -1,5 +1,19 @@
 ---
 references:
+- id: bishop2004
+  author:
+    - family: Bishop
+      given: Elizabeth
+  event-place: London
+  issued:
+    - year: 2004
+  original-date:
+    - year: 1983
+  publisher: Chatto & Windus
+  publisher-place: London
+  title: Complete Poems
+  type: book
+
 - id: davenport2020
   accessed:
     - year: 2021
@@ -42,6 +56,23 @@ references:
   publisher: Broadview Press
   source: Library of Congress ISBN
   title: The sign of four
+  type: book
+
+- id: fortuny2003
+  author:
+    - family: Fortuny
+      given: Kim
+  call-number: PS3503.I785 Z666 2003
+  event-place: Boulder
+  ISBN: 978-0-87081-741-0
+  issued:
+    - year: 2003
+  number-of-pages: '121'
+  publisher: University Press of Colorado
+  publisher-place: Boulder
+  source: Library of Congress ISBN
+  title: 'Elizabeth Bishop: the art of travel'
+  title-short: Elizabeth Bishop
   type: book
 
 - id: haslam2018
