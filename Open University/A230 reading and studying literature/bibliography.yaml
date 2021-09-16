@@ -179,6 +179,23 @@ references:
   title: Orientalism
   type: book
 
+- id: selvon2006
+  author:
+    - family: Selvon
+      given: Samuel
+  event-place: London
+  ISBN: 978-0-14-118841-6
+  issued:
+    - year: 2006
+  language: eng
+  note: 'OCLC: 254891915'
+  number-of-pages: '138'
+  publisher: Penguin Books
+  publisher-place: London
+  source: Gemeinsamer Bibliotheksverbund ISBN
+  title: The lonely Londoners
+  type: book
+
 - id: shakespeare2006
   author:
     - family: Shakespeare
