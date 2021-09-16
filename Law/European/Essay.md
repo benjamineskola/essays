@@ -66,5 +66,3 @@ As such, it is clear that there has been no uniform trend of arrogating power to
 [^12]: At that time, article 12, Treaty of Rome; now, article 30 TFEU.
 [^13]: Case 41/74 _Van Duyn v Home Office_ [1974] ECR 1337.
 [^14]: [2017] UKSC 5, [2017] 2 WLR 583, [2017] 1 All ER 593.
-
-#essay

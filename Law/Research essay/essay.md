@@ -123,5 +123,3 @@ It is clear, when reviewing the case law, that there has been no shortage of att
 [11]: https://swarb.co.uk/hutten-czapska-v-poland-echr-19-jun-2006/
 [12]: https://swarb.co.uk/gauci-v-malta-echr-15-sep-2009/
 [13]: https://swarb.co.uk/mellacher-and-others-v-austria-echr-19-dec-1989/
-
-#essay

@@ -66,5 +66,3 @@ In summary, the decision in _Liversidge_ is difficult to reconcile with a Diceya
 [3]: https://swarb.co.uk/regina-v-secretary-of-state-for-foreign-affairs-ex-parte-the-world-development-movement-ltd-admn-10-nov-1994/
 [4]: https://swarb.co.uk/regina-v-secretary-of-state-for-home-dept-ex-parte-adams-qbd-10-aug-1994/
 [5]: https://swarb.co.uk/regina-v-home-secretary-ex-parte-hosenball-CA-1977/
-
-#essay

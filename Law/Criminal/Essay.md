@@ -59,5 +59,3 @@ This raises some concerns that, despite its specific exclusion by Parliament, se
 [^15]: R Dobash and R Dobash, ‘The Nature and Antecedents of Violent Events’ (1984) 24 BJ Crim 269, quoted in Jeremy Horder, _Provocation and Responsibility_ (OUP 1992) 192.
 [^16]: [2012] EWCA Crim 2, [2013] QB 1.
 [^17]: Alan Norrie, ‘The Coroners and Justice Act 2009 — partial defences to murder (1) Loss of control’ (2010) 4 Crim LR 275, 288.
-
-#essay

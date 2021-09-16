@@ -49,5 +49,3 @@ _Word count: 2019_
 [^11]: [1999] 2 SCR 570, 1999 CanLII 693 (Supreme Court of Canada).
 [^12]: [2016] UKSC 11, [2016] AC 677.
 [^13]: AJP Taylor, _English history, 1914–1945_ (Penguin, 1965) 25.
-
-#essay

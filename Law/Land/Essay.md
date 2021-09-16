@@ -50,5 +50,3 @@ House of Commons Library, _A Century of Change: Trends in UK Statistics Since 19
 [^6]: [2004] EWCA Civ 1515, [2004] All ER (D) 344 (Oct).
 [^7]: [1984] Ch 317, [1984] 2 WLR 582.
 [^8]: [2001] 33 HLR 67.
-
-#essay
