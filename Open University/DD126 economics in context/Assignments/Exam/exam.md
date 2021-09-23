@@ -1,15 +1,16 @@
----
----
-
 # Question 1
+
 > Using a diagram explain how the use of a price ceiling would impact a perfectly competitive market. Describe the disadvantages of a price ceiling.
 
 ![](priceceiling.png)
 
-When the price ceiling p1 (the violet line) is set below the equilibrium price pE (the red line), the supply and demand do not align. The quantity demanded at that price (q1) is greater than the quantity that producers are willing to supply (s1). The producers will be unwilling to increase their output above s1, because they will be unable to make a profit (or even to break even) at a higher level. So there will be unmet demand.  
+When the price ceiling p1 (the violet line) is set below the equilibrium price pE (the red line), the supply and demand do not align. The quantity demanded at that price (q1) is greater than the quantity that producers are willing to supply (s1). The producers will be unwilling to increase their output above s1, because they will be unable to make a profit (or even to break even) at a higher level. So there will be unmet demand.
 
+```{=tex}
 \newpage
+```
 # Question 2
+
 > Explain how trade can promote success for economic agents. Describe one way in which trade might not always result in success.
 
 David Ricardo’s model of trade posited that under the right circumstances, trade between two agents (states, in particular) could be mutually beneficial, and produce better outcomes for both parties than not to trade at all. This was in contrast to earlier, mercantilist theories of trade, which treated this as impossible: particularly in the context of international trade, it was assumed that there was a finite amount of wealth in the world and the goal of trade was to maximise the amount of wealth held by one’s own country and that this would always be at the expense of the trading partner.
@@ -18,8 +19,11 @@ In Ricardo’s theory of comparative advantage, both parties benefit because the
 
 However, as with many things in economics, Ricardo’s model of trade assumes ideal conditions which might not exist in reality. To build on the previous example, the UK’s cotton trade did not exist in a perfectly free market, but involved British political control over India, which was both one source of raw cotton and also a major market for finished cotton goods. This meant, for example, that the UK could set tariffs on Indian imports and exports to the benefit of British industry rather than Indian, maximising British profits at the expense of Indian development. The cotton industry also relied, until the 1860s, on the USA as a source of cheap raw cotton (of better quality than Indian cotton), whose price was artificially low due to the use of slave labour: while the industry might have meant success for a Manchester factory owner or Liverpool shipping magnate, it is clearly not success for the enslaved people in question.
 
+```{=tex}
 \newpage
+```
 # Question 4
+
 > Explain the role of trade unions in labour markets. Outline the advantages and disadvantages of trade unions in the success of labour.
 
 Trade unions enable collective bargaining among workers, to attempt to increase the influence the workers have in setting prices in the labour market. Instead of wages being negotiated on an individual basis between each employer and each worker, a union can negotiate on behalf of all of its members as a bloc, so that an employer must set a wage for all of its employees (or all of those who are union members); in some cases, unions might negotiate pay or conditions with all employers in a particular industry.

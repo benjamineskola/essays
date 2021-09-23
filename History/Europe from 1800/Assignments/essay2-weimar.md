@@ -1,11 +1,10 @@
 ---
-title: Why did the Weimar republic collapse?
 date: 13 June 2014
 nocite: |
   @kershaw2001a, @kershaw1993, @hobsbawm1994
+result: 54% average with first essay
+title: Why did the Weimar republic collapse?
 ---
-
-<!-- 54% average with first essay -->
 
 The period of the Weimar Republic was one of great turmoil in a number of spheres, both for Germany and for the wider world. The end of the Great War led to deep social unrest, from the revolution of 1918–19 through to the end of the Weimar period. This in turn contributed to political instability, compounded by the balkanisation of the Reichstag and the flawed Weimar constitution. All of this was exacerbated by economic hardship, particularly at the beginning and end of the period and influenced by external factors, not least the Wall Street Crash and Great Depression that followed. All of these factors contributed to the rise of the NSDAP and the collapse of the Weimar government. However, despite the obvious importance of the NSDAP in later years, the collapse would have taken place anyway; rather than being a significant contributing factor, it was merely in the right place at the right time to take advantage of the collapse.
 
@@ -23,7 +22,7 @@ Until the critical period of 1929-33, Hitler and the NSDAP were relative outside
 
 The crash itself was exacerbated by the Versailles settlement which entailed reparations payments to France, payments which were supported by loans from the US. The financial situation in the US led to these loans being called in. The NSDAP’s stated intentions of rejecting Versailles here had a populist appeal — it could be seen to be responsible for Germany’s current economic hardship.
 
-Further, the NSDAP’s anti-democratic stance won mainstream popularity. The ‘ineffectual’ Weimar government became another scapegoat for the problems. At the same time, von Hindenburg was increasingly forced to use emergency powers to govern, a mark of the Reichstag’s inability to come to any decision as much as of von Hindenburg’s antipathy towards democracy. The NSDAP promised to end such problems by application of the “Führerprinzip”, _leader principle_, by which the authority of the leader would be absolute; it later became a significant theme in NSDAP propaganda.
+Further, the NSDAP’s anti-democratic stance won mainstream popularity. The ‘ineffectual’ Weimar government became another scapegoat for the problems. At the same time, von Hindenburg was increasingly forced to use emergency powers to govern, a mark of the Reichstag’s inability to come to any decision as much as of von Hindenburg’s antipathy towards democracy. The NSDAP promised to end such problems by application of the “Führerprinzip”, *leader principle*, by which the authority of the leader would be absolute; it later became a significant theme in NSDAP propaganda.
 
 However, even by 1930 the rise to power of the NSDAP was not a foregone conclusion — a populace disillusioned by capitalism and democracy could have easily turned to the KPD. It has been argued that the KPD’s anti-capitalist rhetoric ‘terrified’ the majority, despite being the ‘party of the unemployed’ in a period of mass unemployment [@stephenson1997]. It has also been claimed that the history of anti-Semitism in Germany made the populace more accepting of NSDAP’s scapegoating; to some extent, a certain level of anti-Semitism was commonplace, even normal, and NSDAP propaganda played into this [@friedlander1997].
 
