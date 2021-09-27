@@ -1,18 +1,4 @@
 ---
-header-includes: |
-
-  \usepackage{fancyhdr}
-
-  \pagestyle{fancy}
-
-  \fancyhead[L]{Benjamin Eskola (B8622563)}
-
-  \fancyhead[C]{TMA01}
-
-  \fancyhead[R]{\today}
-
-  \fancyfoot[C]{\thepage}
-
 nocite: |
 
   @hobsbawm1999

@@ -1,17 +1,6 @@
 ---
 title: To what extent and in what ways is Imperialism gendered?
-author: Benjamin M. A’Lee
 date: 15 March 2016
-header-includes: |
-  \usepackage{fancyhdr}
-  \usepackage{titling}
-  \pagestyle{fancy}
-  \fancyhead[L]{\theauthor}
-  \fancyhead[C]{Gender, Space, and Time}
-  \fancyhead[R]{\thedate}
-  \fancyfoot[C]{\thepage}
-
-nocite:
 ---
 
 <!-- 80% -->

@@ -1,14 +1,5 @@
 ---
 title: Narrative techniques, linguistic features, and context of Voltaire’s _Candide_
-header-includes: |
-  \usepackage{fancyhdr}
-  \pagestyle{fancy}
-  \fancyhead[L]{Benjamin Eskola (B8622563)}
-  \fancyhead[C]{TMA02}
-  \fancyhead[R]{\today}
-  \fancyfoot[C]{\thepage}
-nocite:
-nothing: words words words words words words words words
 ---
 
 Voltaire’s _Candide_ is a work that is difficult to classify — while often described as a novel, it does not entirely meet the usual criteria. Rather than a consistent plot, the events recounted are inconsistent bordering on the surreal, since Voltaire’s purpose is less to tell a story than to satirise his philosophical opponents, particularly Leibniz. Making heavy use of irony, he attempts to show that the world cannot possibly be ‘the best of all possible worlds’, while the characters struggle to reconcile the events they experience with the philosophy they have been taught or that they themselves espouse.

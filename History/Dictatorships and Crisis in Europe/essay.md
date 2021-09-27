@@ -1,17 +1,6 @@
 ---
 title: Did the Franco dictatorship emerge more from long-term internal Spanish conflicts, or as part of a ‘European Civil War’?
-author: Benjamin M. A’Lee
 date: 2 April 2014
-header-includes: |
-  \usepackage{fancyhdr}
-  \usepackage{titling}
-  \pagestyle{fancy}
-  \fancyhead[L]{\theauthor}
-  \fancyhead[C]{Dictatorships 1919–49}
-  \fancyhead[R]{\thedate}
-  \fancyfoot[C]{\thepage}
-
-sansfont: Palatino
 ---
 
 <!-- 59% -->

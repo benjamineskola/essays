@@ -1,17 +1,6 @@
 ---
 title: To what extent can the outbreak of civil war in 1642 be blamed on Charles I?
-author: Benjamin M. A’Lee
 date: 4 July 2013
-header-includes: |
-  \usepackage{fancyhdr}
-  \usepackage{titling}
-  \pagestyle{fancy}
-  \fancyhead[L]{\theauthor}
-  \fancyhead[C]{English Civil War}
-  \fancyhead[R]{\thedate}
-  \fancyfoot[C]{\thepage}
-
-nocite:
 ---
 
 The causes of the English Revolution have long been a subject of historiographical debate. One of the central questions has been that of the existence of a “high road to civil war”; that is, whether the causes of revolution can be traced back to the reigns of James, Elizabeth, or even earlier, or whether the causes were more immediate, surfacing during Charles’ reign. This essay will therefore address the question of the extent to which it was caused by the actions of Charles — which is to say, whether the causes originated after 1625 and, furthermore, whether Charles could reasonably be said to be responsible, or whether the events were out of his control.

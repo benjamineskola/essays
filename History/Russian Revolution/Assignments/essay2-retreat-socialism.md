@@ -1,17 +1,6 @@
 ---
 title: Do you agree that the Soviet cultural policies of the 1930s were a retreat from socialism?
-author: Benjamin M. A’Lee
 date: 21 March 2017
-header-includes: |
-  \usepackage{fancyhdr}
-  \usepackage{titling}
-  \pagestyle{fancy}
-  \fancyhead[L]{\theauthor}
-  \fancyhead[C]{Russian Revolution}
-  \fancyhead[R]{\thedate}
-  \fancyfoot[C]{\thepage}
-
-nocite:
 ---
 
 <!-- 63% -->

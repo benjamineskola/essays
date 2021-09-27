@@ -1,15 +1,6 @@
 ---
 title: ‘The law on vicarious liability is utterly devoid of logic and good sense.’ Discuss.
-author: Benjamin Eskola
 date: 19 March 2018
-header-includes: |
-  \usepackage{fancyhdr}
-  \usepackage{titling}
-  \pagestyle{fancy}
-  \fancyhead[L]{\theauthor}
-  \fancyhead[C]{Tort Law}
-  \fancyhead[R]{\thedate}
-  \fancyfoot[C]{\thepage}
 ---
 
 The doctrine of vicarious liability has undergone significant changes over the last decades. It can be found in English law dating back at least to the 17th century,[^1] and was well-established by the late 19th century, by which time the courts began to define the kinds of relationship which would be amenable to vicarious liability.[^2] The test became codified in the early 20th century,[^3] and this codification remained the standard for much of the next hundred years. However, more recent cases have redefined the tests both for the forms of relationship and the kinds of wrongful acts which might give rise to vicarious liability. In turn this has led to a debate about the theoretical basis and purpose of the doctrine.

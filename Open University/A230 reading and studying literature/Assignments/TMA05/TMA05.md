@@ -1,12 +1,5 @@
 ---
 title: Anonymity and social contact in early-20th-century Dublin and New York
-header-includes: |
-  \usepackage{fancyhdr}
-  \pagestyle{fancy}
-  \fancyhead[L]{Benjamin Eskola (B8622563)}
-  \fancyhead[C]{TMA05}
-  \fancyhead[R]{\today}
-  \fancyfoot[C]{\thepage}
 nocite: |
   @joyce2000, @haslam2018
 ---

@@ -1,17 +1,6 @@
 ---
 title: How do you account for the failure of parliamentary democracy in Russia in 1917?
-author: Benjamin M. A’Lee
 date: 4 April 2014
-header-includes: |
-  \usepackage{fancyhdr}
-  \usepackage{titling}
-  \pagestyle{fancy}
-  \fancyhead[L]{\theauthor}
-  \fancyhead[C]{Europe from 1800}
-  \fancyhead[R]{\thedate}
-  \fancyfoot[C]{\thepage}
-
-nocite:
 ---
 
 <!-- 54% average with second essay -->

@@ -1,12 +1,5 @@
 ---
 title: Representations of nature in Wordsworth’s _Home on Grasmere_ and Shelley’s _Mont Blanc_
-header-includes: |
-  \usepackage{fancyhdr}
-  \pagestyle{fancy}
-  \fancyhead[L]{Benjamin Eskola (B8622563)}
-  \fancyhead[C]{TMA03}
-  \fancyhead[R]{\today}
-  \fancyfoot[C]{\thepage}
 nocite: |
 	@wordsworth1977, @shelley2003
 ---

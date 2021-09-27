@@ -1,16 +1,6 @@
 ---
 title: "Hopkins, James K., _Into the Heart of the Fire: The British in the Spanish Civil War_"
 date:
-author: Benjamin M. A'Lee
-header-includes: |
-  \usepackage{fancyhdr}
-  \usepackage{titling}
-  \pagestyle{fancy}
-  \fancyhead[L]{\theauthor}
-  \fancyhead[C]{Historiography}
-  \fancyhead[R]{\thedate}
-  \fancyfoot[C]{\thepage}
-
 nocite: |
   @hopkins1998, @hopkinsjamesk
 ---

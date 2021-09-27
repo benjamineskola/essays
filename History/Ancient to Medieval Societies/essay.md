@@ -1,15 +1,6 @@
 ---
 title: How tenable is the view that the Roman Empire did not fall but slowly declined over several hundred years?
 date:
-author: Benjamin M. A'Lee
-header-includes: |
-  \usepackage{fancyhdr}
-  \usepackage{titling}
-  \pagestyle{fancy}
-  \fancyhead[L]{\theauthor}
-  \fancyhead[C]{Ancient to Medieval Societies}
-  \fancyhead[R]{\thedate}
-  \fancyfoot[C]{\thepage}
 ---
 
 <!-- 77% -->

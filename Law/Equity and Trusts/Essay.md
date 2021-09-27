@@ -1,15 +1,6 @@
 ---
 title: “Although there has been much debate and confusion in the past, the tests for certainty of objects are now clear and satisfactory.” Critically assess the validity of the above statement.
-author: Benjamin Eskola
 date: 6 November 2017
-header-includes: |
-  \usepackage{fancyhdr}
-  \usepackage{titling}
-  \pagestyle{fancy}
-  \fancyhead[L]{\theauthor}
-  \fancyhead[C]{Equity and Trusts}
-  \fancyhead[R]{\thedate}
-  \fancyfoot[C]{\thepage}
 ---
 
 The requirements for the establishment of a trust developed through case law, particularly during the 19th century. While, earlier in the century, the courts were broad in their interpretation of wills, holding trusts to have been created by relatively unspecific language, as time passed the interpretative requirements grew narrower and more precisely defined. A turning point was _Knight v Knight_,[^1] in which were laid out three requirements (the ‘three certainties’) which must be defined in order for a will to be construed as creating a trust (and not, for example, making a gift). Over the following century the case law around each requirement developed separately. In this instance, it is the third requirement with which we are concerned; per Langdale MR: ‘the objects or persons intended to have the benefit of the recommendation or wish be also certain.’ This essay will attempt first to summarize the case law around this requirement, and then to examine the potential ambiguities and flaws in its current interpretation.

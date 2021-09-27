@@ -1,12 +1,5 @@
 ---
 title: End-Of-Module Assessment
-header-includes: |
-  \usepackage{fancyhdr}
-  \pagestyle{fancy}
-  \fancyhead[L]{Benjamin Eskola (B8622563)}
-  \fancyhead[C]{EMA}
-  \fancyhead[R]{\today}
-  \fancyfoot[C]{\thepage}
 nocite: |
   @shelley2003, @joyce2000
 ---

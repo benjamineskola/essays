@@ -1,16 +1,6 @@
 ---
 title: Why did the Weimar republic collapse?
-author: Benjamin M. A’Lee
 date: 13 June 2014
-header-includes: |
-  \usepackage{fancyhdr}
-  \usepackage{titling}
-  \pagestyle{fancy}
-  \fancyhead[L]{\theauthor}
-  \fancyhead[C]{Europe from 1800}
-  \fancyhead[R]{\thedate}
-  \fancyfoot[C]{\thepage}
-
 nocite: |
   @kershaw2001a, @kershaw1993, @hobsbawm1994
 ---

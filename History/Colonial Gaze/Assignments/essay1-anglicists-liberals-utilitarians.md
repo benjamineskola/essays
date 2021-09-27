@@ -1,16 +1,6 @@
 ---
 title: "In what ways did Anglicists, Liberals, and Utilitarians differ from ‘Orientalists’ in their attitudes and understandings of society, religion and culture in South Asia?"
-author: Benjamin M. A’Lee
 date: 8 December 2016
-header-includes: |
-  \usepackage{fancyhdr}
-  \usepackage{titling}
-  \pagestyle{fancy}
-  \fancyhead[L]{\theauthor}
-  \fancyhead[C]{Colonial Gaze}
-  \fancyhead[R]{\thedate}
-  \fancyfoot[C]{\thepage}
-
 nocite: |
   @fischer-tine2004, @wood2002, @said2014
 ---

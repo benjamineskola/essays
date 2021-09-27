@@ -1,12 +1,5 @@
 ---
 title: Reflections and critiques of Victorian domestic values in Doyle's _The Sign of Four_ and Stevenson's _The Beach of Falesá_
-header-includes: |
-  \usepackage{fancyhdr}
-  \pagestyle{fancy}
-  \fancyhead[L]{Benjamin Eskola (B8622563)}
-  \fancyhead[C]{TMA04}
-  \fancyhead[R]{\today}
-  \fancyfoot[C]{\thepage}
 nocite: |
 	@doyle2010, @stevenson2008, @mcclintock1995
 ---

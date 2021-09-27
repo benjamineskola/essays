@@ -1,17 +1,6 @@
 ---
 title: “The 1917 Revolution was the inevitable outcome of the First World War”. Discuss.
-author: Benjamin M. A’Lee
 date: 8 December 2016
-header-includes: |
-  \usepackage{fancyhdr}
-  \usepackage{titling}
-  \pagestyle{fancy}
-  \fancyhead[L]{\theauthor}
-  \fancyhead[C]{Russian Revolution}
-  \fancyhead[R]{\thedate}
-  \fancyfoot[C]{\thepage}
-
-nocite:
 ---
 
 <!-- 50% -->

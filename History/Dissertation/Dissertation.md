@@ -1,16 +1,15 @@
 ---
 title: "Free Trade and Imperialism: the cotton industry and British foreign policy, 1858–98"
-author: Benjamin M. A’Lee
 date: 27 April 2017
-header-includes: |
+header-includes:
+- |
   \usepackage{fancyhdr}
   \usepackage{titling}
   \pagestyle{fancy}
   \fancyhead[L]{\theauthor}
+  \fancyhead[C]{\rightmark}
   \fancyhead[R]{\thedate}
   \fancyfoot[C]{\thepage}
-
-nocite:
 ---
 
 ## Contents

@@ -1,12 +1,5 @@
 ---
 title: What are the questions asked in Bishop’s _Questions of Travel_, and what if any answers does she give?
-header-includes: |
-  \usepackage{fancyhdr}
-  \pagestyle{fancy}
-  \fancyhead[L]{Benjamin Eskola (B8622563)}
-  \fancyhead[C]{TMA06}
-  \fancyhead[R]{\today}
-  \fancyfoot[C]{\thepage}
 nocite: |
 	@haslam2018, @bishop2004
 ---

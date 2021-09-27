@@ -1,16 +1,6 @@
 ---
 title: How ‘new’ was the ‘new imperialism’ of the period c. 1870–1914?
-author: Benjamin M. A’Lee
 date: 9 Dec 2014
-header-includes: |
-  \usepackage{fancyhdr}
-  \usepackage{titling}
-  \pagestyle{fancy}
-  \fancyhead[L]{\theauthor}
-  \fancyhead[C]{British Empire}
-  \fancyhead[R]{\thedate}
-  \fancyfoot[C]{\thepage}
-
 nocite: |
   @darwin2013, @levine2007, @porter1984
 ---

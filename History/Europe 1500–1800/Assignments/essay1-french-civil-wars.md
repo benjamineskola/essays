@@ -1,16 +1,6 @@
 ---
 title: Has the role of religion in the French civil wars of the sixteenth century been exaggerated?
-author: Benjamin M. A’Lee
 date: 11 Dec 2014
-header-includes: |
-  \usepackage{fancyhdr}
-  \usepackage{titling}
-  \pagestyle{fancy}
-  \fancyhead[L]{\theauthor}
-  \fancyhead[C]{Early Modern Europe}
-  \fancyhead[R]{\thedate}
-  \fancyfoot[C]{\thepage}
-
 nocite: |
   @heller1996, @holt1993, @roberts2004, @rosa1998
 ---
