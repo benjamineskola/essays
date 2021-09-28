@@ -1,0 +1,11 @@
+---
+header-includes: |
+  \usepackage{fancyhdr}
+  \usepackage{titling}
+  \pagestyle{fancy}
+  \fancyhead[L]{\theauthor}
+  \fancyhead[C]{\rightmark}
+  \fancyhead[R]{\thedate}
+  \fancyfoot[C]{\thepage}
+---
+
