@@ -1,5 +1,6 @@
 ---
 date: 15 March 2016
+module: Gender, Space, and Time
 result: 80%
 title: To what extent and in what ways is Imperialism gendered?
 ---

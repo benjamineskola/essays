@@ -1,5 +1,6 @@
 ---
 date: 19 March 2018
+module: Tort
 title: ‘The law on vicarious liability is utterly devoid of logic and good sense.’ Discuss.
 ---
 

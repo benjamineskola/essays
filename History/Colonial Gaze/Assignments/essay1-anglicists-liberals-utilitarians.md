@@ -1,5 +1,6 @@
 ---
 date: 8 December 2016
+module: Colonial Gaze, 1600–1960
 nocite: |
   @fischer-tine2004, @wood2002, @said2014
 result: 41%

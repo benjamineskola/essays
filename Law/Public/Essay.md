@@ -1,5 +1,6 @@
 ---
 date: 11 December 2017
+module: Public and constitutional law
 title: Assess the proposition that the majority judgments in Liversidge v Anderson were wholly subversive of the principles both of the rule of law and the sovereignty of Parliament as Dicey would have understood them
 ---
 

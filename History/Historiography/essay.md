@@ -1,4 +1,5 @@
 ---
+module: Historiography
 nocite: |
   @hopkins1998, @hopkinsjamesk
 title: "Hopkins, James K., *Into the Heart of the Fire: The British in the Spanish Civil War*"

@@ -1,3 +1,7 @@
+---
+module: Economics in context
+---
+
 # Part A
 
 1.  For a given market price, James will demand as many bowls for which his willingness to pay remains above the market price. Therefore:

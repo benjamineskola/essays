@@ -1,4 +1,5 @@
 ---
+module: Reading and studying literature
 nocite: |
   @joyce2000, @haslam2018
 title: Anonymity and social contact in early-20th-century Dublin and New York

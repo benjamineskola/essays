@@ -1,5 +1,6 @@
 ---
 date: 9 Dec 2014
+module: British Empire, 1780–1960
 nocite: |
   @darwin2013, @levine2007, @porter1984
 result: 66%

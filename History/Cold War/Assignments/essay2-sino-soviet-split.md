@@ -1,5 +1,6 @@
 ---
 date: 15 March 2016
+module: Global Cold War
 sansfont: Palatino
 title: What were the consequences of the Sino-Soviet split for the Cold War?
 ---

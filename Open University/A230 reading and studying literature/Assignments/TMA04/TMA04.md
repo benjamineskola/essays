@@ -1,4 +1,5 @@
 ---
+module: Reading and studying literature
 nocite: |
   @doyle2010, @stevenson2008, @mcclintock1995
 title: Reflections and critiques of Victorian domestic values in Doyle’s *The Sign of Four* and Stevenson’s *The Beach of Falesá*

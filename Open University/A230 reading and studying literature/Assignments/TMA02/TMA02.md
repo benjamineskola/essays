@@ -1,4 +1,5 @@
 ---
+module: Reading and studying literature
 title: Narrative techniques, linguistic features, and context of Voltaire’s *Candide*
 ---
 

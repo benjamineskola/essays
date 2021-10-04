@@ -1,3 +1,7 @@
+---
+module: Economics in context
+---
+
 # Part A
 
 1.  a.  Nominal wages are wages as expressed in terms of currency; i.e., the wages actually agreed in a labour contract. Real wages are the wages after changes to the cost of living are factored in, i.e., accounting for the varying rate of inflation, and would be expressed in relation to a particular year.

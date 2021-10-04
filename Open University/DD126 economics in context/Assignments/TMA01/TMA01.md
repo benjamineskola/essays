@@ -1,4 +1,5 @@
 ---
+module: Economics in context
 nocite: |
   @hobsbawm1999
 ---

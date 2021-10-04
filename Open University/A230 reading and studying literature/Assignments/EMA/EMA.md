@@ -1,4 +1,5 @@
 ---
+module: Reading and studying literature
 nocite: |
   @shelley2003, @joyce2000
 title: End-Of-Module Assessment

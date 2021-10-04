@@ -1,4 +1,5 @@
 ---
+module: Reading and studying literature
 nocite: |
   @shakespeare2006
 ---

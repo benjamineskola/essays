@@ -1,5 +1,6 @@
 ---
 date: 29 January 2018
+module: Contract law
 title: Essay
 ---
 

@@ -1,3 +1,7 @@
+---
+module: Economics in context
+---
+
 # Question 1
 
 > Using a diagram explain how the use of a price ceiling would impact a perfectly competitive market. Describe the disadvantages of a price ceiling.

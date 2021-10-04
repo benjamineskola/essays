@@ -1,5 +1,6 @@
 ---
 date: 13 June 2014
+module: Europe from 1800
 nocite: |
   @kershaw2001a, @kershaw1993, @hobsbawm1994
 result: 54% average with first essay

@@ -1,4 +1,5 @@
 ---
+module: Reading and studying literature
 nocite: |
   @haslam2018, @bishop2004
 title: What are the questions asked in Bishop’s *Questions of Travel*, and what if any answers does she give?

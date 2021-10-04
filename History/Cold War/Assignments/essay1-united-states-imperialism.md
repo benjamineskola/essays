@@ -1,5 +1,6 @@
 ---
 date: 8 December 2015
+module: Global Cold War
 sansfont: Palatino
 title: To what extent can the United States in the twentieth century be described as an empire?
 ---
