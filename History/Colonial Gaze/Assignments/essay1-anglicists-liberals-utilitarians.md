@@ -5,6 +5,7 @@ nocite: |
   @fischer-tine2004, @wood2002, @said2014
 result: 41%
 title: In what ways did Anglicists, Liberals, and Utilitarians differ from ‘Orientalists’ in their attitudes and understandings of society, religion and culture in South Asia?
+wordcount: 1470
 ---
 
 The beginnings of Orientalist knowledge of India as a distinct phenomenon date from the arrival of the Portuguese in the subcontinent at the end of the fifteenth century. The Liberal conception of India developed later, as part of the broader Enlightenment and the shift it entailed in the understanding of the world. Both mindsets were rooted in the social conditions in which they emerged, the former in the context of early-modern exploration and imperialism, the latter as a result of the increasing importance of Enlightenment ideologies in the transition to capitalism.

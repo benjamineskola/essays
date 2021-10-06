@@ -2,6 +2,7 @@
 date: 14 May 2018
 module: Research essay
 title: ‘The much heralded deployment of human rights in English law has had significant effects in many areas. In land law, however, the effects have been muted and, in truth, hardly noticeable.’ Discuss.
+wordcount: 3776
 ---
 
 Over the past seventy years, human rights have become an increasingly important part of the legal and political landscape in the UK and across Europe. However, the developments that have ensued have not been uniform. From the outset, the rights that were codified reflected particular priorities by the drafters, and the impact on various aspects of domestic law has been influenced both by these initial priorities and by the interpretations of these codified rights by the domestic and international courts. This essay will therefore attempt firstly to identify the characteristics of domestic and international human rights discourse and of English land law that have been pertinent to this interaction. Secondly, it will examine the extent to which the development of land law has been affected by human rights discourse, and attempt to apply the findings of the previous section to understand why this is so.

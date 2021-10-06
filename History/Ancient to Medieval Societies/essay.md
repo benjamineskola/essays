@@ -2,6 +2,7 @@
 module: Ancient to Medieval Societies
 result: 77%
 title: How tenable is the view that the Roman Empire did not fall but slowly declined over several hundred years?
+wordcount: 1340
 ---
 
 The nature of the ‘fall’ of the Roman Empire has long been a matter of dispute. On one hand, the fall of Rome is often associated with the sacks of Rome in 410 and 455 or the deposition of the last Western Emperor in 476. On the other hand, Gibbon’s “History of the Decline and Fall of the Roman Empire” begins in the first century AD and ends with the capture of Constantinople by the Ottoman Empire in 1453. While there are few more recent historians who would go so far, it is safe to say that the matter is not entirely settled. There are a number of issues that must be discussed in relation to this question. Firstly, one of geography: one can feasibly argue that the Western Empire fell in 476, but it would be significantly more difficult to argue that the Eastern Empire did. Even the two halves of the empire are not homogeneous; each province can be studied on an individual basis, and in each case the answer will be somewhat different. Secondly, one of methodology; looking solely at literary sources gives a very different answer to looking at archaeological sources. Furthermore, studying, for example, the economic history will give a different answer to studying the cultural or religious history; these, too, are influenced by geography. It is only by looking at each of these aspects and integrating the various findings that the question can be answered.

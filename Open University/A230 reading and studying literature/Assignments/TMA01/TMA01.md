@@ -2,6 +2,7 @@
 module: Reading and studying literature
 nocite: |
   @shakespeare2006
+wordcount: 823
 ---
 
 *Othello* is one of Shakespeare’s best-known tragedies, a description which implies not merely an unhappy ending but a particular contrast: a character of noble spirit, meeting misfortune, downfall, and likely death. Othello in particular has continued to attract attention into the present day not only for its presentation of these themes, but also for its treatment of race, arguably one of the earliest expressions of the concept in its modern sense. In analysing particular passages, some of these themes present in the work as a whole can be identified.

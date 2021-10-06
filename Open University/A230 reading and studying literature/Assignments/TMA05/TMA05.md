@@ -3,6 +3,7 @@ module: Reading and studying literature
 nocite: |
   @joyce2000, @haslam2018
 title: Anonymity and social contact in early-20th-century Dublin and New York
+wordcount: 1267
 ---
 
 Cities were a common theme of modernist writers; by the early 20th century, the urban population in Europe and the United States had increased in size and significance, and presented new social and moral questions with which to grapple. They were a site of contradictions: on the one hand, freedom from the constraints and prejudices of smaller communities, and the possibility of other forms of community, whether racial, as in Harlem, New York, or sexual, as for example in San Francisco, whose gay community began to develop during this period [@sibalis2004]; on the other hand, loneliness and isolation, the negative aspect of anonymity.

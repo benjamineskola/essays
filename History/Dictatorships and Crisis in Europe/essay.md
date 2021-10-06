@@ -3,6 +3,7 @@ date: 2 April 2014
 module: Dictatorships, 1919–49
 result: 59%
 title: Did the Franco dictatorship emerge more from long-term internal Spanish conflicts, or as part of a ‘European Civil War’?
+wordcount: 2380
 ---
 
 The Spanish Civil War occurred during a period of deep political and economic crisis in Europe and in the wider world. Since the Great War, a socialist government had become established in Russia; socialist revolutions had occurred in Germany, Hungary, Italy, and beyond, along with non-socialist revolutions such as the Irish War of Independence; the Wall Street Crash of October 1929 had caused long-lasting and international economic damage; and the rise of far-right governments in Germany, Italy, and Portugal, and far-right parties across much of Europe, including Britain. The outbreak of civil war in Spain in July 1936 was seen by many on the left wing of politics as the ‘latest battleground’ in a ‘world war in embryo’, and an opportunity to ‘defend democracy with deeds’ [@baxell2012]. During the war itself, foreign involvement on both sides played a significant role, despite an official policy of neutrality on the part of many western powers. Undoubtably, the war cannot be looked at in isolation from events in Europe and worldwide; however, were these events more significant than the internal conflicts that had already sparked a series of civil wars during the 19th century and led to the establishment of the Second Republic in 1931?

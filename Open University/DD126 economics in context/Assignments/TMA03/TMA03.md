@@ -1,5 +1,6 @@
 ---
 module: Economics in context
+wordcount: 988
 ---
 
 # Part A

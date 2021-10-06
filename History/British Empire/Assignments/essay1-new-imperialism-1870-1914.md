@@ -5,6 +5,7 @@ nocite: |
   @darwin2013, @levine2007, @porter1984
 result: 66%
 title: How ‘new’ was the ‘new imperialism’ of the period c. 1870–1914?
+wordcount: 1252
 ---
 
 The history of the British Empire in the long nineteenth century has traditionally been divided into three periods: the initial imperialist period of around 1780 until around 1830, the ‘anti-imperialist’ or ‘free trade’ period from around 1830 until around 1870, and the ‘new imperialism’ of 1870 onward, characterised in particular by the ‘Scramble for Africa’. It is therefore necessary, in answering this question, to look not only at whether a qualitative shift in the nature of empire occurred around 1870 (and if so, what), but also at whether the intermediate period itself was distinct from the earlier phase of British imperialism. (In particular, looking at the work of @gallagher1953 and subsequent scholarship.)

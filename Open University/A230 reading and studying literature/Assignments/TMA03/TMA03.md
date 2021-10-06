@@ -3,6 +3,7 @@ module: Reading and studying literature
 nocite: |
   @wordsworth1977, @shelley2003
 title: Representations of nature in Wordsworth’s *Home on Grasmere* and Shelley’s *Mont Blanc*
+wordcount: 1125
 ---
 
 ## Part 1

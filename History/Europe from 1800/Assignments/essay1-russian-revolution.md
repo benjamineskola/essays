@@ -3,6 +3,7 @@ date: 4 April 2014
 module: Europe from 1800
 result: 54% average with second essay
 title: How do you account for the failure of parliamentary democracy in Russia in 1917?
+wordcount: 993
 ---
 
 There are a number of issues to consider in assessing the success or failure of parliamentary democracy in Russia. After three years of European war, two revolutions in 1917, and five years of civil war, the Russia of the early 1920s was drastically different to the Russia of ten years earlier. Thus, to account for the failure, it is necessary first to determine whether parliamentary democracy ever had a chance of succeeding; if it did, then which of the various factors led to the failure.

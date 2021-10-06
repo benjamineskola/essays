@@ -2,6 +2,7 @@
 date: 19 February 2018
 module: Land law
 title: “The case law concerning the acquisition and quantification of property rights in cases of the shared family home reveals neither a coherent conceptual basis for the applicable legal principles nor a convincing policy analysis of why the law takes its current form.” Discuss.
+wordcount: 1602
 ---
 
 The modern law of property in England and Wales has taken shape by means of both common-law development and explicit statutory reform, over the course of most of the 20th century. However, there are significant shortcomings in these developments, and as of 2018 the law leaves much to be desired in terms of its relation to current social norms of property ownership. The current statutes were, for the most part, passed in the 1920s, a period with a comparatively very low level of home ownership (around ten percent of homes owner-occupied in 1914 and almost 90% privately rented, social housing then being almost non-existent).[^1] It was, furthermore, only seven years since the Representation of the People Act had removed the last property qualification for voting for men (and another three years until property qualifications for women would be removed). Thus, not only was home ownership much rarer at that time than it is now, but its social and political impact was different.

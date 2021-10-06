@@ -2,6 +2,7 @@
 date: 5 March 2018
 module: European law
 title: How has the relationship between national courts and the Court of Justice under Article 267 TFEU evolved over the years?
+wordcount: 1968
 ---
 
 The treaties establishing the European Community and later European Union did not define in detail the interaction between the Court of Justice and national courts. In short, article 234 TEC (later article 267 TFEU) laid out that national courts had the ability, and in some cases the obligation, to refer questions of Union law to the Court of Justice. Various specifics of this relationship, in particular the nature and extent of the obligation to refer, were established in case law over the subsequent decades. Furthermore, the article itself was used as a basis to support more general rights to rely on Union law in a national context. However, the process has not simply been one of increasing the power of the Court of Justice; practical and political concerns have in turn restricted the extent to which art 267 is applied.

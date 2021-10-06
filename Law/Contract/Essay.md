@@ -2,6 +2,7 @@
 date: 29 January 2018
 module: Contract law
 title: Essay
+wordcount: 1829
 ---
 
 This question raises a number of issues. It revolves around a contract of sale, which purports to incorporate certain standard terms; these standard terms, in turn, purport to exclude any implied warranty. Both of these points are contentious. Firstly, the issue of incorporation: did the terms in question actually take effect as part of this contract? Secondly, the issue of validity: if the terms were incorporated, were they in fact invalidated either by statute or for some other reason?

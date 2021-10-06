@@ -1,6 +1,7 @@
 ---
 module: Reading and studying literature
 title: Narrative techniques, linguistic features, and context of Voltaire’s *Candide*
+wordcount: 1243
 ---
 
 Voltaire’s *Candide* is a work that is difficult to classify — while often described as a novel, it does not entirely meet the usual criteria. Rather than a consistent plot, the events recounted are inconsistent bordering on the surreal, since Voltaire’s purpose is less to tell a story than to satirise his philosophical opponents, particularly Leibniz. Making heavy use of irony, he attempts to show that the world cannot possibly be ‘the best of all possible worlds’, while the characters struggle to reconcile the events they experience with the philosophy they have been taught or that they themselves espouse.
