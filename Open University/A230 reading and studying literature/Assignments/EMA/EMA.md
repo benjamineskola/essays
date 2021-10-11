@@ -20,100 +20,100 @@ wordcount: 1789
 
 ```{=html}
 <!--
-1   
-O, wild West Wind, thou breath of Autumn’s being,   
-Thou, from whose unseen presence the leaves dead    
-Are driven, like ghosts from an enchanter fleeing,  
-    
-Yellow, and black, and pale, and hectic red,    
+1
+O, wild West Wind, thou breath of Autumn’s being,
+Thou, from whose unseen presence the leaves dead
+Are driven, like ghosts from an enchanter fleeing,
+ 
+Yellow, and black, and pale, and hectic red,
 Pestilence-stricken multitudes: O, thou,    5
-Who chariotest to their dark wintry bed 
-    
-The wingèd seeds, where they lie cold and low,  
-Each like a corpse within its grave, until  
-Thine azure sister of the Spring shall blow 
-    
-Her clarion o’er the dreaming earth, and fill   
+Who chariotest to their dark wintry bed
+ 
+The wingèd seeds, where they lie cold and low,
+Each like a corpse within its grave, until
+Thine azure sister of the Spring shall blow
+ 
+Her clarion o’er the dreaming earth, and fill
 (Driving sweet buds like flocks to feed in air) 10
-With living hues and odours plain and hill: 
-    
-Wild Spirit, which art moving everywhere;   
-Destroyer and Preserver; hear, O, hear! 
-2   
+With living hues and odours plain and hill:
+ 
+Wild Spirit, which art moving everywhere;
+Destroyer and Preserver; hear, O, hear!
+2
 Thou on whose stream, ’mid the steep sky’s commotion,   15
-Loose clouds like earth’s decaying leaves are shed, 
-Shook from the tangled boughs of Heaven and Ocean,  
-    
-Angels of rain and lightning: there are spread  
-On the blue surface of thine airy surge,    
+Loose clouds like earth’s decaying leaves are shed,
+Shook from the tangled boughs of Heaven and Ocean,
+ 
+Angels of rain and lightning: there are spread
+On the blue surface of thine airy surge,
 Like the bright hair uplifted from the head 20
-    
-Of some fierce Maenad, even from the dim verge  
-Of the horizon to the zenith’s height,  
-The locks of the approaching storm. Thou dirge  
-    
-Of the dying year, to which this closing night  
+ 
+Of some fierce Maenad, even from the dim verge
+Of the horizon to the zenith’s height,
+The locks of the approaching storm. Thou dirge
+ 
+Of the dying year, to which this closing night
 Will be the dome of a vast sepulchre,   25
-Vaulted with all thy congregated might  
-    
-Of vapours, from whose solid atmosphere 
-Black rain, and fire, and hail will burst: O, hear! 
-3   
-Thou who didst waken from his summer dreams 
+Vaulted with all thy congregated might
+ 
+Of vapours, from whose solid atmosphere
+Black rain, and fire, and hail will burst: O, hear!
+3
+Thou who didst waken from his summer dreams
 The blue Mediterranean, where he lay,   30
-Lulled by the coil of his crystalline streams,  
-    
-Beside a pumice isle in Baiae’s bay,    
-And saw in sleep old palaces and towers 
-Quivering within the wave’s intenser day,   
-    
+Lulled by the coil of his crystalline streams,
+ 
+Beside a pumice isle in Baiae’s bay,
+And saw in sleep old palaces and towers
+Quivering within the wave’s intenser day,
+ 
 All overgrown with azure moss and flowers   35
-So sweet, the sense faints picturing them! Thou 
-For whose path the Atlantic’s level powers  
-    
-Cleave themselves into chasms, while far below  
-The sea-blooms and the oozy woods which wear    
+So sweet, the sense faints picturing them! Thou
+For whose path the Atlantic’s level powers
+ 
+Cleave themselves into chasms, while far below
+The sea-blooms and the oozy woods which wear
 The sapless foliage of the ocean, know  40
-    
-Thy voice, and suddenly grow grey with fear,    
-And tremble and despoil themselves: O, hear!    
-4   
-If I were a dead leaf thou mightest bear;   
-If I were a swift cloud to fly with thee;   
+ 
+Thy voice, and suddenly grow grey with fear,
+And tremble and despoil themselves: O, hear!
+4
+If I were a dead leaf thou mightest bear;
+If I were a swift cloud to fly with thee;
 A wave to pant beneath thy power, and share 45
-    
-The impulse of thy strength, only less free 
-Than thou, O, Uncontrollable! If even   
-I were as in my boyhood, and could be   
-    
-The comrade of thy wanderings over Heaven,  
+ 
+The impulse of thy strength, only less free
+Than thou, O, Uncontrollable! If even
+I were as in my boyhood, and could be
+ 
+The comrade of thy wanderings over Heaven,
 As then, when to outstrip thy skiey speed   50
-Scarce seemed a vision; I would ne’er have striven  
-    
-As thus with thee in prayer in my sore need.    
-Oh! lift me as a wave, a leaf, a cloud! 
-I fall upon the thorns of life! I bleed!    
-    
+Scarce seemed a vision; I would ne’er have striven
+ 
+As thus with thee in prayer in my sore need.
+Oh! lift me as a wave, a leaf, a cloud!
+I fall upon the thorns of life! I bleed!
+ 
 A heavy weight of hours has chained and bowed   55
-One too like thee: tameless, and swift, and proud.  
-5   
-Make me thy lyre, even as the forest is:    
-What if my leaves are falling like its own! 
-The tumult of thy mighty harmonies  
-    
+One too like thee: tameless, and swift, and proud.
+5
+Make me thy lyre, even as the forest is:
+What if my leaves are falling like its own!
+The tumult of thy mighty harmonies
+ 
 Will take from both a deep, autumnal tone,  60
-Sweet though in sadness. Be thou, Spirit fierce,    
-My spirit! Be thou me, impetuous one!   
-    
-Drive my dead thoughts over the universe    
-Like withered leaves to quicken a new birth!    
+Sweet though in sadness. Be thou, Spirit fierce,
+My spirit! Be thou me, impetuous one!
+ 
+Drive my dead thoughts over the universe
+Like withered leaves to quicken a new birth!
 And, by the incantation of this verse,  65
-    
-Scatter, as from an unextinguished hearth   
-Ashes and sparks, my words among mankind!   
-Be through my lips to unawakened earth  
-    
-The trumpet of a prophecy! O, wind, 
+ 
+Scatter, as from an unextinguished hearth
+Ashes and sparks, my words among mankind!
+Be through my lips to unawakened earth
+ 
+The trumpet of a prophecy! O, wind,
 If Winter comes, can Spring be far behind?  70
 -->
 ```

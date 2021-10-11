@@ -57,31 +57,31 @@ It is clear, when reviewing the case law, that there has been no shortage of att
 
 ## Bibliography
 
-- Bates E, *The evolution of the European Convention on Human Rights* (OUP 2010)
-- Dembour M, *Who believes in human rights? Reflections on the European Convention* (CUP 2012)
-- Dixon M, *Modern Land Law* (Routledge 2016)
-- Gearty C and Douzinas C, *The Cambridge companion to human rights law* (CUP 2012)
-- Griffith JAG, *The politics of the judiciary* (5th edn, Fontana 1997)
-- Hofmann J, *The right to housing: Law, concepts, possibilities* (Hart 2013)
-- Hohfeld WN, “Some Fundamental Legal Conceptions as Applied in Judicial Reasoning” (1913) 23 Yale LJ 16
-- Hohfeld WN, “Fundamental Legal Conceptions as Applied in Judicial Reasoning” (1917) 27 Yale LJ 710
-- McLeod I, *Legal Theory* (Palgrave Macmillan 2010).
+-   Bates E, *The evolution of the European Convention on Human Rights* (OUP 2010)
+-   Dembour M, *Who believes in human rights? Reflections on the European Convention* (CUP 2012)
+-   Dixon M, *Modern Land Law* (Routledge 2016)
+-   Gearty C and Douzinas C, *The Cambridge companion to human rights law* (CUP 2012)
+-   Griffith JAG, *The politics of the judiciary* (5th edn, Fontana 1997)
+-   Hofmann J, *The right to housing: Law, concepts, possibilities* (Hart 2013)
+-   Hohfeld WN, “Some Fundamental Legal Conceptions as Applied in Judicial Reasoning” (1913) 23 Yale LJ 16
+-   Hohfeld WN, “Fundamental Legal Conceptions as Applied in Judicial Reasoning” (1917) 27 Yale LJ 710
+-   McLeod I, *Legal Theory* (Palgrave Macmillan 2010).
 
 ## List of Cases
 
-- [*A, B, C, and D v United Kingdom* \[1967\] ECHR 34](http://www.bailii.org/eu/cases/ECHR/1967/3039_67.html)
-- [*Barca v Mears* \[2004\] EWHC 2170 (ch), \[2005\] FLR 1](https://swarb.co.uk/barca-v-mears-chd-2005/)
-- [*Buckley v United Kingdom* (1997) 23 EHRR 101](https://swarb.co.uk/buckley-v-the-united-kingdom-ECHR-25-Sep-1996/)
-- [*Gauci v Malta* \[2009\] ECHR 1280](https://swarb.co.uk/gauci-v-malta-echr-15-sep-2009/)
-- [*Gillow v United Kingdom* (1989) 11 EHRR 335](http://www.worldlii.org/eu/cases/ECHR/1986/14.html)
-- [*Hutten-Czapska v Poland* \[2006\] ECHR 628](https://swarb.co.uk/hutten-czapska-v-poland-echr-19-jun-2006/)
-- [*Lithgow v United Kingdom* \[1986\] ECHR 8](https://swarb.co.uk/lithgow-and-others-v-the-united-kingdom-echr-8-jul-1986/)
-- [*McDonald v McDonald* \[2016\] UKSC 28, \[2017\] AC 273](https://swarb.co.uk/mcdonald-v-mcdonald-and-others-sc-15-jun-2016/)
-- [*McDonald’s Corporation v Steel & Morris* \[1997\] EWHC QB 366](https://swarb.co.uk/mcdonalds-corporation-mcdonalds-restaurants-limited-v-steel-and-morris-ca-5-jan-1998/)
-- [*Mellacher v Austria* \[1989\] ECHR 25](https://swarb.co.uk/mellacher-and-others-v-austria-echr-19-dec-1989/)
-- [*Pye v Graham* \[2002\] UKHL 30, \[2003\] 1 AC 419](https://swarb.co.uk/j-a-pye-oxford-ltd-and-others-v-graham-and-another-hl-4-jul-2002/)
-- [*Pye v United Kingdom* \[2007\] 41 EG 200, \[2007\] ECHR 700](https://swarb.co.uk/j-a-pye-oxford-ltd-v-the-united-kingdom-echr-30-aug-2007/)
-- [*Steel & Morris v United Kingdom* \[2005\] ECHR 103](https://swarb.co.uk/steel-and-morris-v-united-kingdom-echr-15-feb-2005/)
+-   [*A, B, C, and D v United Kingdom* \[1967\] ECHR 34](http://www.bailii.org/eu/cases/ECHR/1967/3039_67.html)
+-   [*Barca v Mears* \[2004\] EWHC 2170 (ch), \[2005\] FLR 1](https://swarb.co.uk/barca-v-mears-chd-2005/)
+-   [*Buckley v United Kingdom* (1997) 23 EHRR 101](https://swarb.co.uk/buckley-v-the-united-kingdom-ECHR-25-Sep-1996/)
+-   [*Gauci v Malta* \[2009\] ECHR 1280](https://swarb.co.uk/gauci-v-malta-echr-15-sep-2009/)
+-   [*Gillow v United Kingdom* (1989) 11 EHRR 335](http://www.worldlii.org/eu/cases/ECHR/1986/14.html)
+-   [*Hutten-Czapska v Poland* \[2006\] ECHR 628](https://swarb.co.uk/hutten-czapska-v-poland-echr-19-jun-2006/)
+-   [*Lithgow v United Kingdom* \[1986\] ECHR 8](https://swarb.co.uk/lithgow-and-others-v-the-united-kingdom-echr-8-jul-1986/)
+-   [*McDonald v McDonald* \[2016\] UKSC 28, \[2017\] AC 273](https://swarb.co.uk/mcdonald-v-mcdonald-and-others-sc-15-jun-2016/)
+-   [*McDonald’s Corporation v Steel & Morris* \[1997\] EWHC QB 366](https://swarb.co.uk/mcdonalds-corporation-mcdonalds-restaurants-limited-v-steel-and-morris-ca-5-jan-1998/)
+-   [*Mellacher v Austria* \[1989\] ECHR 25](https://swarb.co.uk/mellacher-and-others-v-austria-echr-19-dec-1989/)
+-   [*Pye v Graham* \[2002\] UKHL 30, \[2003\] 1 AC 419](https://swarb.co.uk/j-a-pye-oxford-ltd-and-others-v-graham-and-another-hl-4-jul-2002/)
+-   [*Pye v United Kingdom* \[2007\] 41 EG 200, \[2007\] ECHR 700](https://swarb.co.uk/j-a-pye-oxford-ltd-v-the-united-kingdom-echr-30-aug-2007/)
+-   [*Steel & Morris v United Kingdom* \[2005\] ECHR 103](https://swarb.co.uk/steel-and-morris-v-united-kingdom-echr-15-feb-2005/)
 
 [^1]: Edward Bates, *The evolution of the European Convention on Human Rights* (OUP 2010).
 

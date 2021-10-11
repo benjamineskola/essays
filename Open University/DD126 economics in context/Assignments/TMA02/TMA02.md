@@ -22,19 +22,16 @@ wordcount: 1065
 ```
 3.  The marginal cost for each quantity is the difference between the total cost for that quantity and the total cost for one fewer units:
 
-```{=html}
-<!-- -->
-```
-  Number of bowls of fried rice   Total cost (£)   Marginal cost (£)
-  ------------------------------- ---------------- -------------------
-  13                              13               —
-  14                              15               2
-  15                              19               4
-  16                              24               5
-  17                              31               7
-  18                              39               8
-  19                              48               9
-  20                              58               10
+      Number of bowls of fried rice   Total cost (£)   Marginal cost (£)
+      ------------------------------- ---------------- -------------------
+      13                              13               —
+      14                              15               2
+      15                              19               4
+      16                              24               5
+      17                              31               7
+      18                              39               8
+      19                              48               9
+      20                              58               10
 
 4.  The supplier will sell as many units as it can while keeping the marginal cost below the market price; if the marginal cost was higher than the market price, it would lose money by selling additional units. Therefore:
 

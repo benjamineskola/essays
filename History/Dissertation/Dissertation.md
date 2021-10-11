@@ -7,13 +7,13 @@ wordcount: 7414
 
 ## Contents
 
-- [Introduction](#introduction)
-- [Historiography](#historiography)
-- [India](#india)
-- [North America](#north-america)
-- [Egypt](#egypt)
-- [Conclusion](#conclusion)
-- [References](#bibliography)
+-   [Introduction](#introduction)
+-   [Historiography](#historiography)
+-   [India](#india)
+-   [North America](#north-america)
+-   [Egypt](#egypt)
+-   [Conclusion](#conclusion)
+-   [References](#bibliography)
 
 ## Introduction
 

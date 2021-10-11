@@ -31,18 +31,18 @@ In summary, the decision in *Liversidge* is difficult to reconcile with a Diceya
 
 ## List of Cases
 
-- [*Liversidge v Anderson* \[1942\] AC 206, \[1941\] 3 All ER 338](https://swarb.co.uk/liversidge-v-sir-john-anderson-hl-3-nov-1941/)
-- [*Magor and St Mellons RDC v Newport Corporation* \[1952\] AC 189, \[1951\] 2 All ER 839](https://swarb.co.uk/magor-and-st-mellons-rural-district-council-v-newport-corporaion-hl-1951/)
-- [*R v Secretary of State for Foreign and Commonwealth Affairs, ex parte World Development Movement Ltd* \[1994\] EWHC 1 (Admin), \[1995\] WLR 386](https://swarb.co.uk/regina-v-secretary-of-state-for-foreign-affairs-ex-parte-the-world-development-movement-ltd-admn-10-nov-1994/)
-- [*R v Secretary of State for the Home Department, ex parte Adams* \[1995\] All ER (EC) 177](https://swarb.co.uk/regina-v-secretary-of-state-for-home-dept-ex-parte-adams-qbd-10-aug-1994/)
-- [*R v Secretary of State for the Home Department, ex parte Hosenball* \[1977\] 3 All ER 452, \[1977\] 1 WLR 766](https://swarb.co.uk/regina-v-home-secretary-ex-parte-hosenball-CA-1977/)
+-   [*Liversidge v Anderson* \[1942\] AC 206, \[1941\] 3 All ER 338](https://swarb.co.uk/liversidge-v-sir-john-anderson-hl-3-nov-1941/)
+-   [*Magor and St Mellons RDC v Newport Corporation* \[1952\] AC 189, \[1951\] 2 All ER 839](https://swarb.co.uk/magor-and-st-mellons-rural-district-council-v-newport-corporaion-hl-1951/)
+-   [*R v Secretary of State for Foreign and Commonwealth Affairs, ex parte World Development Movement Ltd* \[1994\] EWHC 1 (Admin), \[1995\] WLR 386](https://swarb.co.uk/regina-v-secretary-of-state-for-foreign-affairs-ex-parte-the-world-development-movement-ltd-admn-10-nov-1994/)
+-   [*R v Secretary of State for the Home Department, ex parte Adams* \[1995\] All ER (EC) 177](https://swarb.co.uk/regina-v-secretary-of-state-for-home-dept-ex-parte-adams-qbd-10-aug-1994/)
+-   [*R v Secretary of State for the Home Department, ex parte Hosenball* \[1977\] 3 All ER 452, \[1977\] 1 WLR 766](https://swarb.co.uk/regina-v-home-secretary-ex-parte-hosenball-CA-1977/)
 
 ## Bibliography
 
-- Allen CK, ‘Regulation 18B and Reasonable Cause’ \[1942\] *LQR* 232
-- Dicey AV, *Introduction to the Study of the Law of the Constitution* (1885)
-- Goodhart AL, ‘Liversidge v Anderson’ \[1942\] *LQR* 3
-- Griffith JAG, *The Politics of the Judiciary* (5th edition, Fontana Press, 1997) 198
+-   Allen CK, ‘Regulation 18B and Reasonable Cause’ \[1942\] *LQR* 232
+-   Dicey AV, *Introduction to the Study of the Law of the Constitution* (1885)
+-   Goodhart AL, ‘Liversidge v Anderson’ \[1942\] *LQR* 3
+-   Griffith JAG, *The Politics of the Judiciary* (5th edition, Fontana Press, 1997) 198
 
 [^1]: A.V. Dicey, *Introduction to the Study of the Law of the Constitution* (1885).
 

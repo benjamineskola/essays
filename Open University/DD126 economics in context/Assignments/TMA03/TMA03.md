@@ -1,6 +1,6 @@
 ---
 module: Economics in context
-wordcount: 988
+wordcount: 989
 ---
 
 # Part A
@@ -14,22 +14,14 @@ wordcount: 988
         ii. The table shows that year-on-year, nominal wages increased for every category of worker in almost all cases (only managers saw a decrease, between 2013 and 2015); that despite this, real wages did not always increase and in several cases decreased; and that consequently, the rate of inflation must have increased significantly in those years.
 
         iii. 
-
-        ```{=html}
-        <!-- -->
-        ```
-          Managers   Professionals   Plant and machine operators and assemblers
-          ---------- --------------- --------------------------------------------
-          27.9%      35.2%           57.2%
+               Managers   Professionals   Plant and machine operators and assemblers
+               ---------- --------------- --------------------------------------------
+               27.9%      35.2%           57.2%
 
         iv. 
-
-        ```{=html}
-        <!-- -->
-        ```
-          Managers   Professionals   Plant and machine operators and assemblers
-          ---------- --------------- --------------------------------------------
-          29.5%      38.5%           58.2%
+              Managers   Professionals   Plant and machine operators and assemblers
+              ---------- --------------- --------------------------------------------
+              29.5%      38.5%           58.2%
 
         For each occupation compared, primary occupation wages are a larger proportion of the compared wage in 2017 than in 2011; i.e., in each case, the wage gap has fallen slightly.
 
@@ -38,9 +30,6 @@ wordcount: 988
 ```
 2.  a.  
 
-    ```{=html}
-    <!-- -->
-    ```
       Year   Percentage share (%)
       ------ ----------------------
       2004   59.9
