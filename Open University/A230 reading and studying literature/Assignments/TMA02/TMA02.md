@@ -1,4 +1,5 @@
 ---
+date: 3 December 2020
 module: Reading and studying literature
 title: Narrative techniques, linguistic features, and context of Voltaire’s *Candide*
 wordcount: 1243

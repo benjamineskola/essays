@@ -1,4 +1,5 @@
 ---
+date: 6 May 2021
 module: Reading and studying literature
 nocite: |
   @haslam2018, @bishop2004
