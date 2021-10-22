@@ -3,7 +3,6 @@ date: 15 March 2016
 module: Gender, Space, and Time
 result: 80%
 title: To what extent and in what ways is Imperialism gendered?
-wordcount: 1850
 ---
 
 Imperialism has been defined as ‘the sustained effort to assimilate a country or region to the political, economics, or cultural system of another power’ [@darwin1997]; in particular, the process can be seen in capitalism from the late eighteenth century onwards. Throughout this period, empires have relied on a variety of ideological constructions in order to justify, maintain, and perpetuate themselves. The most notable of these has been the racial theories that have been used to justify slavery, expropriation of land, and social domination. Alongside this, ideologies of gender have also been used for similar purposes; gender ideology has been intertwined with the ideology of race and class to produce a complex sociocultural justification for empire whose effects are still felt today. On another level, imperialism can be shown to have material effects which were and are differentiated by gender; once again, these gendered material effects have intertwined with racial and class-based power structures. This essay will, therefore, argue that imperialism is gendered on both a material and an ideological level, while also being inseparable from the racial and class systems that developed alongside gender. The focus will be on Britain and its empire, particularly during the ‘long’ nineteenth century, with examples from other empires and other periods as appropriate.

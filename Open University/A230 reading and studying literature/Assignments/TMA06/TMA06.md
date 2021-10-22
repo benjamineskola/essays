@@ -4,7 +4,6 @@ module: Reading and studying literature
 nocite: |
   @haslam2018, @bishop2004
 title: What are the questions asked in Bishop’s *Questions of Travel*, and what if any answers does she give?
-wordcount: 1365
 ---
 
 Elizabeth Bishop’s collection *Questions of Travel* combines seemingly disparate subject matter: the Brazilian landscape, people, and culture, tourism, the history of colonialism, and memories of her childhood in New England and Nova Scotia. Yet despite this disjointedness there are underlying themes which draw them together, bringing into question the nature of travel and the traveller’s place in the world.

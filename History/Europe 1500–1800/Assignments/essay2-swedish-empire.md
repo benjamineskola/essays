@@ -2,7 +2,6 @@
 date: 16 Mar 2015
 module: Europe, 1500–1800
 title: Why was the Swedish empire so short-lived?
-wordcount: 1449
 ---
 
 Around the turn of the seventeenth century, Sweden transformed itself from a regional power on the northern edge of Europe into a major player in European politics, the linchpin of the Protestant forces in the Thirty Years’ War and a signatory of the resulting Peace of Westphalia. Yet within a century its “great power era” (*Stormaktstiden*) was over, after a series of crushing defeats at the hands of Russia. This essay will examine the nature and causes of Sweden’s rise to power and attempt to explain why this “golden age” ended so suddenly.

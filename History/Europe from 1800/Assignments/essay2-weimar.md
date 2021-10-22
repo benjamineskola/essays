@@ -5,7 +5,6 @@ nocite: |
   @kershaw2001a, @kershaw1993, @hobsbawm1994
 result: 54% average with first essay
 title: Why did the Weimar republic collapse?
-wordcount: 1105
 ---
 
 The period of the Weimar Republic was one of great turmoil in a number of spheres, both for Germany and for the wider world. The end of the Great War led to deep social unrest, from the revolution of 1918–19 through to the end of the Weimar period. This in turn contributed to political instability, compounded by the balkanisation of the Reichstag and the flawed Weimar constitution. All of this was exacerbated by economic hardship, particularly at the beginning and end of the period and influenced by external factors, not least the Wall Street Crash and Great Depression that followed. All of these factors contributed to the rise of the NSDAP and the collapse of the Weimar government. However, despite the obvious importance of the NSDAP in later years, the collapse would have taken place anyway; rather than being a significant contributing factor, it was merely in the right place at the right time to take advantage of the collapse.

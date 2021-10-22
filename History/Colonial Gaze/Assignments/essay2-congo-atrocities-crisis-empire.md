@@ -2,7 +2,6 @@
 date: 21 March 2017
 module: Colonial Gaze, 1600–1960
 title: Why, and through what means did revelations of atrocities in the Congo produce a ‘crisis of empire’ in the early twentieth century?
-wordcount: 1988
 ---
 
 The period of the late nineteenth and early twentieth centuries was a one of reconfiguration of European imperialism in which both the methods of political organization and control and the public attitudes towards imperialism were changing. Issues of political economy and of social attitudes influenced each other bidirectionally; economic motives drove new colonial ventures which, in turn, ran up against both positive and negative attitudes which themselves affected both relationships with colonized regions and relationships between imperial powers. The situation of the Belgian Congo is an example of this, in which humanitarian outcry made the current form of political–economic control untenable, while nevertheless serving mainly to normalize rather than to fundamentally alter the relationship between colonizer and colonized.

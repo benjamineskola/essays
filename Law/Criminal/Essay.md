@@ -2,7 +2,6 @@
 date: 27 November 2017
 module: Criminal law
 title: With reference to recent case law interpreting the partial defences of loss of control and diminished responsibility, consider whether the legislation gets the right balance in the imposition of criminal liability, if a drug addict kills his wife after discovering she was having an affair.
-wordcount: 1627
 ---
 
 The Coroners and Justice Act 2009 defined two partial defences for murder, amending the Homicide Act 1957. The defence of diminished responsibility was redefined, ostensibly based on medical developments in the intervening period; and the previous defence of provocation was abolished and replaced with a new defence of loss of control, based upon significant criticisms of the definition and interpretation of the previous defence. In the given case, the defendant would have a potential defence on both grounds; however, both grounds would involve controversies and ambiguities that remain unresolved.

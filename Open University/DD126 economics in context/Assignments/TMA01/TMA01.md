@@ -2,7 +2,6 @@
 module: Economics in context
 nocite: |
   @hobsbawm1999
-wordcount: 891
 ---
 
 # Part A

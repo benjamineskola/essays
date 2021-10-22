@@ -3,7 +3,6 @@ date: 8 December 2016
 module: Revolutionary Russia, 1891–1991
 result: 50%
 title: “The 1917 Revolution was the inevitable outcome of the First World War”. Discuss.
-wordcount: 1990
 ---
 
 What does it mean for events to be “inevitable”? For E. H. Carr, the claim of inevitability in a strict sense is vacuous, since, “for it to have happened otherwise, the antecedent causes would have had to be different”; this is, of course, true of everything. In a more general sense, he argues, there are always alternative courses of action available; nothing is inevitable until it has occurred. A less pedantic meaning (as he himself acknowledges) might be “extremely probable” or that the “conjunction of factors … was overwhelmingly strong” [@carr1987 96].
