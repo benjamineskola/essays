@@ -2,6 +2,7 @@
 date: 21 March 2017
 module: Revolutionary Russia, 1891–1991
 result: 63%
+tags: history, russia
 title: Do you agree that the Soviet cultural policies of the 1930s were a retreat from socialism?
 ---
 
