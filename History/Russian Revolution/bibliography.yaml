@@ -183,7 +183,7 @@ references:
     - year: 1915
   title: Socialism and war
   type: chapter
-  URL: https://www.marxists.org/archive/lenin/works/1915/s+w
+  URL: https://www.marxists.org/archive/lenin/works/1915/s-w/
   volume: '21'
 
 - id: lenin1916
@@ -351,7 +351,8 @@ references:
     - year: 1905
   title: Programme of the Socialist Revolutionary Party
   type: book
-  URL: https://community.dur.ac.uk/a.k.harrington/srprog.html
+  URL: >-
+    https://web.archive.org/web/20170702052439/https://community.dur.ac.uk/a.k.harrington/srprog.html
 
 - id: trotsky1937
   author:
