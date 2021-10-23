@@ -1,19 +1,10 @@
 ---
 date: 27 April 2017
 module: Dissertation
+renderTOC: true
 tags: history, nineteenth century, britain, united states, imperialism, slavery
 title: "Free Trade and Imperialism: the cotton industry and British foreign policy, 1858–98"
 ---
-
-## Contents
-
--   [Introduction](#introduction)
--   [Historiography](#historiography)
--   [India](#india)
--   [North America](#north-america)
--   [Egypt](#egypt)
--   [Conclusion](#conclusion)
--   [References](#bibliography)
 
 ## Introduction
 

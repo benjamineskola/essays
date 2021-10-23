@@ -1,6 +1,7 @@
 ---
 date: 14 May 2018
 module: Research essay
+renderTOC: true
 tags: law, human rights, eu, housing
 title: ‘The much heralded deployment of human rights in English law has had significant effects in many areas. In land law, however, the effects have been muted and, in truth, hardly noticeable.’ Discuss.
 ---
