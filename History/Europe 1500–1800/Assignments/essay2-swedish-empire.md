@@ -1,6 +1,7 @@
 ---
-date: 16 Mar 2015
+date: 16 March 2015
 module: Europe, 1500–1800
+published: 2015-03-16
 tags: history, sweden, seventeenth century
 title: Why was the Swedish empire so short-lived?
 ---

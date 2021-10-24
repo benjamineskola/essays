@@ -1,6 +1,7 @@
 ---
 date: 2 April 2014
 module: Dictatorships, 1919–49
+published: 2014-04-02
 result: 59%
 tags: history, spain, fascism
 title: Did the Franco dictatorship emerge more from long-term internal Spanish conflicts, or as part of a ‘European Civil War’?

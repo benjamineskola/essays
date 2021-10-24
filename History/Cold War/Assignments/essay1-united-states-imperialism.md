@@ -1,6 +1,7 @@
 ---
 date: 8 December 2015
 module: Global Cold War
+published: 2015-12-08
 tags: history, united states, imperialism, cold war
 title: To what extent can the United States in the twentieth century be described as an empire?
 ---

@@ -1,6 +1,7 @@
 ---
 date: 4 July 2013
 module: English Civil War
+published: 2013-07-04
 tags: history, britain, seventeenth century
 title: To what extent can the outbreak of civil war in 1642 be blamed on Charles I?
 ---

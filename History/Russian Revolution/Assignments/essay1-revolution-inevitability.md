@@ -1,6 +1,7 @@
 ---
 date: 8 December 2016
 module: Revolutionary Russia, 1891–1991
+published: 2016-12-08
 result: 50%
 tags: history, russia
 title: “The 1917 Revolution was the inevitable outcome of the First World War”. Discuss.

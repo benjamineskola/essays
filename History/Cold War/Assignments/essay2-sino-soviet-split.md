@@ -1,6 +1,7 @@
 ---
 date: 15 March 2016
 module: Global Cold War
+published: 2016-03-15
 tags: history, russia, china, cold war
 title: What were the consequences of the Sino-Soviet split for the Cold War?
 ---

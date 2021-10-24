@@ -1,6 +1,7 @@
 ---
 date: 21 March 2017
 module: Colonial Gaze, 1600–1960
+published: 2017-03-21
 tags: history, nineteenth century, britain, africa, imperialism
 title: Why, and through what means did revelations of atrocities in the Congo produce a ‘crisis of empire’ in the early twentieth century?
 ---

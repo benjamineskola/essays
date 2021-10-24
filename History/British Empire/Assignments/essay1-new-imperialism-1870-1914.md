@@ -1,8 +1,9 @@
 ---
-date: 9 Dec 2014
+date: 9 December 2014
 module: British Empire, 1780–1960
 nocite: |
   @darwin2013, @levine2007, @porter1984
+published: 2014-12-09
 result: 66%
 tags: history, britain, imperialism, nineteenth century
 title: How ‘new’ was the ‘new imperialism’ of the period c. 1870–1914?

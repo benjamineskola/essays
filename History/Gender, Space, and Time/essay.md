@@ -1,6 +1,7 @@
 ---
 date: 15 March 2016
 module: Gender, Space, and Time
+published: 2016-03-15
 result: 80%
 tags: history, imperialism, feminism
 title: To what extent and in what ways is Imperialism gendered?
