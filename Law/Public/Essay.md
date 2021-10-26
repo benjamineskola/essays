@@ -45,7 +45,7 @@ In summary, the decision in *Liversidge* is difficult to reconcile with a Diceya
 -   Goodhart AL, ‘Liversidge v Anderson’ \[1942\] *LQR* 3
 -   Griffith JAG, *The Politics of the Judiciary* (5th edition, Fontana Press, 1997) 198
 
-[^1]: A.V. Dicey, *Introduction to the Study of the Law of the Constitution* (1885).
+[^1]: AV Dicey, *Introduction to the Study of the Law of the Constitution* (1885).
 
 [^2]: [\[1942\] AC 206, \[1941\] 3 All ER 338](https://swarb.co.uk/liversidge-v-sir-john-anderson-hl-3-nov-1941/).
 
@@ -53,7 +53,7 @@ In summary, the decision in *Liversidge* is difficult to reconcile with a Diceya
 
 [^4]: [\[1952\] AC 189, \[1951\] 2 All ER 839](https://swarb.co.uk/magor-and-st-mellons-rural-district-council-v-newport-corporaion-hl-1951/).
 
-[^5]: A. L. Goodhart, ‘Liversidge v Anderson’ \[1942\] *LQR* 3.
+[^5]: AL Goodhart, ‘Liversidge v Anderson’ \[1942\] *LQR* 3.
 
 [^6]: [*R v Secretary of State for Foreign and Commonwealth Affairs, ex parte World Development Movement Ltd* \[1994\] EWHC 1 (Admin), \[1995\] WLR 386](https://swarb.co.uk/regina-v-secretary-of-state-for-foreign-affairs-ex-parte-the-world-development-movement-ltd-admn-10-nov-1994/).
 
