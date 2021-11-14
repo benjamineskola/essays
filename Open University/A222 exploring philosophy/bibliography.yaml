@@ -1,0 +1,53 @@
+---
+references:
+- id: cottingham2008
+  call-number: BD21 .W43 2008
+  edition: '2'
+  editor:
+    - family: Cottingham
+      given: John
+  ISBN: 978-1-4051-2477-5 978-1-4051-2478-2
+  issued:
+    - year: 2008
+  note: 'OCLC: ocn145431781'
+  number-of-pages: '849'
+  publisher: Blackwell
+  source: Library of Congress ISBN
+  title: 'Western philosophy: an anthology'
+  title-short: Western philosophy
+  type: book
+
+- id: locke1997
+  author:
+    - family: Locke
+      given: John
+    - family: Woolhouse
+      given: R. S.
+  call-number: B1290 1997
+  event-place: London
+  ISBN: 978-0-14-043482-8
+  issued:
+    - year: 1997
+  number-of-pages: '784'
+  publisher: 'New York : Penguin Books'
+  publisher-place: London
+  source: Library of Congress ISBN
+  title: An essay concerning human understanding
+  type: book
+
+- id: warburton2011
+  author:
+    - family: Warburton
+      given: Nigel
+  event-place: Milton Keynes
+  ISBN: 978-1-84873-309-1
+  issued:
+    - year: 2011
+  language: English
+  note: 'OCLC: 758544761'
+  publisher: Open University
+  publisher-place: Milton Keynes
+  source: Open WorldCat
+  title: The self
+  type: book
+...
