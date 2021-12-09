@@ -1,5 +1,21 @@
 ---
 references:
+- id: chappell2011
+  author:
+    - family: Chappell
+      given: Timothy
+  event-place: Milton Keynes
+  ISBN: 978-1-84873-309-1
+  issued:
+    - year: 2011
+  language: English
+  note: 'OCLC: 758544761'
+  publisher: Open University
+  publisher-place: Milton Keynes
+  source: Open WorldCat
+  title: The Philosophy of Religion
+  type: book
+
 - id: cottingham2008
   call-number: BD21 .W43 2008
   edition: '2'
