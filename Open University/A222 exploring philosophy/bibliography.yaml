@@ -1,17 +1,29 @@
 ---
 references:
+- id: barber2011
+  author:
+    - family: Barber
+      given: Alex
+  ISBN: 978-1-84873-311-4
+  issued:
+    - year: 2011
+  language: English
+  note: 'OCLC: 783127365'
+  publisher: Open University
+  source: Open WorldCat
+  title: Ethics
+  type: book
+
 - id: chappell2011
   author:
     - family: Chappell
       given: Timothy
-  event-place: Milton Keynes
   ISBN: 978-1-84873-309-1
   issued:
     - year: 2011
   language: English
   note: 'OCLC: 758544761'
   publisher: Open University
-  publisher-place: Milton Keynes
   source: Open WorldCat
   title: The Philosophy of Religion
   type: book
@@ -55,14 +67,12 @@ references:
   author:
     - family: Warburton
       given: Nigel
-  event-place: Milton Keynes
   ISBN: 978-1-84873-309-1
   issued:
     - year: 2011
   language: English
   note: 'OCLC: 758544761'
   publisher: Open University
-  publisher-place: Milton Keynes
   source: Open WorldCat
   title: The self
   type: book
