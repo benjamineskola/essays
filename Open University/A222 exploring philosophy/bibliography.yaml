@@ -63,6 +63,16 @@ references:
   title: An essay concerning human understanding
   type: book
 
+- id: sep2014
+  author:
+    - literal: Stanford Encyclopedia of Philosophy
+  container-title: Stanford Encyclopedia of Philosophy
+  issued:
+    - year: 2014
+  title: The History of Utilitarianism
+  type: entry-encyclopedia
+  URL: https://plato.stanford.edu/entries/utilitarianism-history/
+
 - id: warburton2011
   author:
     - family: Warburton
