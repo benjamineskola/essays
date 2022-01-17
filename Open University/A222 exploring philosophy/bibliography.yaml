@@ -73,6 +73,16 @@ references:
   type: entry-encyclopedia
   URL: https://plato.stanford.edu/entries/utilitarianism-history/
 
+- id: sep2019
+  author:
+    - literal: Stanford Encyclopedia of Philosophy
+  container-title: Stanford Encyclopedia of Philosophy
+  issued:
+    - year: 2019
+  title: Consequentialism
+  type: entry-encyclopedia
+  URL: https://plato.stanford.edu/entries/utilitarianism-history/
+
 - id: warburton2011
   author:
     - family: Warburton
