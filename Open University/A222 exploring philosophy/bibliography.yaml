@@ -45,6 +45,28 @@ references:
   title-short: Western philosophy
   type: book
 
+- id: driver2014
+  author:
+    - family: Driver
+      given: Julia
+  container-title: Stanford Encyclopedia of Philosophy
+  issued:
+    - year: 2014
+  title: The History of Utilitarianism
+  type: entry-encyclopedia
+  URL: https://plato.stanford.edu/entries/utilitarianism-history/
+
+- id: hooker2015
+  author:
+    - family: Hooker
+      given: Brad
+  container-title: Stanford Encyclopedia of Philosophy
+  issued:
+    - year: 2015
+  title: Rule Consequentialism
+  type: entry-encyclopedia
+  URL: https://plato.stanford.edu/entries/consequentialism-rule/
+
 - id: locke1997
   author:
     - family: Locke
@@ -63,25 +85,16 @@ references:
   title: An essay concerning human understanding
   type: book
 
-- id: sep2014
+- id: sinnott-armstrong2019
   author:
-    - literal: Stanford Encyclopedia of Philosophy
-  container-title: Stanford Encyclopedia of Philosophy
-  issued:
-    - year: 2014
-  title: The History of Utilitarianism
-  type: entry-encyclopedia
-  URL: https://plato.stanford.edu/entries/utilitarianism-history/
-
-- id: sep2019
-  author:
-    - literal: Stanford Encyclopedia of Philosophy
+    - family: Sinnott-Armstrong
+      given: Walter
   container-title: Stanford Encyclopedia of Philosophy
   issued:
     - year: 2019
   title: Consequentialism
   type: entry-encyclopedia
-  URL: https://plato.stanford.edu/entries/utilitarianism-history/
+  URL: https://plato.stanford.edu/entries/consequentialism/
 
 - id: warburton2011
   author:
