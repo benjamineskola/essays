@@ -18,4 +18,6 @@ Rule utilitarianism then proposes that the bearer of utility is a rule or set of
 
 It may of course still be necessary to adjust these rules to account for varying circumstances; for example, a proviso regarding consent could be made in order to treat euthanasia as different from murder. However, while for act utilitarianism such provisos would have to be made to the general principle (“the greatest good for the greatest number unless it means killing an innocent person”, perhaps, to account for the transplant example), in rule utilitarianism the principle remains unamended and each specific rule (or set of rules) remains consistent with that principle (“it is forbidden to actively end somebody’s life without their consent”, perhaps, to permit euthanasia).
 
+However, rule utilitarianism is not without its potential complexities. The question remains to be resolved of the conditions under which a given rule might increase utility.
+
 [^conseq]: “After the middle of the 20th Century it has become more common to identify as a ‘Consequentialist’ since very few philosophers agree entirely with the view proposed by the Classical Utilitarians, particularly with respect to the hedonistic value theory.” [@sep2014] As the act/rule distinction applies to the consequentialist aspect of utilitarianism I have made reference to these in this essay.
