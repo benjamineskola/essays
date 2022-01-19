@@ -22,7 +22,8 @@ It may of course still be necessary to adjust these rules to account for varying
 
 However, rule utilitarianism is not without its potential complexities. The question remains to be resolved of the conditions under which a given rule might increase utility: compliance with said rule, or acceptance of it [@hooker2015]. This is not a purely semantic distinction; while it is, of course, compliance with a rule that produces the most obvious and direct effect, ‘acceptance of a rule can have consequences other than compliance’ (ibid.). For example, obedience to a rule that forbids lying will, of course, prevent lying; but acceptance of the rule may well be found to increase trust and thereby make people happier, even prior to any situation in which the rule could be complied with or broken. 
 
-Basing the moral judgment on the acceptance rather than obedience of a rule also produces more intuitive answers in cases where it may be acceptable either to act or not to act: [@sinnott-armstrong2019].
+Basing the moral judgment on the acceptance rather than obedience of a rule also produces more intuitive answers in cases where it may be acceptable either to act or not to act: under obedience-rule utilitarianism, a rule “have some children”, if universally violated, would lead to extinction, yet it is difficult to argue that failing to have children is immoral; acceptance-rule utilitarianism allows for acts that are permissible due to violating no accepted rule [@sinnott-armstrong2019].
+
+A further point of contention is what it means for a rule to be ‘accepted’, however; various authors have differed on whether this means to be integrated into individuals’ consciences, for example, or ‘built into public institutions’ [@sinnott-armstrong2019].
 
 Thus, while earlier it was noted that act utilitarianism may result in counterintuitive decisions unless further complexity is introduced to its basic principle, rule utilitarianism requires more complexity in the statement of its basic principle in order to be meaningful in the first place, but as a result is able to adjust more flexibly to moral quandaries.
-
