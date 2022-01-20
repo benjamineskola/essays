@@ -27,3 +27,14 @@ Basing the moral judgment on the acceptance rather than obedience of a rule also
 A further point of contention is what it means for a rule to be ‘accepted’, however; various authors have differed on whether this means to be integrated into individuals’ consciences, for example, or ‘built into public institutions’ [@sinnott-armstrong2019].
 
 Thus, while earlier it was noted that act utilitarianism may result in counterintuitive decisions unless further complexity is introduced to its basic principle, rule utilitarianism requires more complexity in the statement of its basic principle in order to be meaningful in the first place, but as a result is able to adjust more flexibly to moral quandaries.
+
+One potential problem in the definition of rule utilitarianism, however, is the necessity to ensure it remains distinct from act utilitarianism. Naturally an overly-strict rule may not maximise utility; for example, an absolute rule against killing might be found to lead to less happiness/wellbeing than a rule against _nonconsensual_ killing (i.e., permitting euthanasia); or, at the opposite end of the political spectrum, than a rule against killing _except as punishment for serious crime_. However, in the extreme case, it can be hypothesised that there might be so many exceptions and provisos that in effect every act needs to be analysed individually: rule utilitarianism just becomes a more complex version of act utilitarianism. For @hooker2015 this can be avoided by the proper formulation of rule utilitarianism; in short, the utility of a rule and its cost of acceptance (which in part depends upon its complexity) must be weighed against each other. A more complex rule or set of rules will have greater acceptance costs (e.g., in learning and understanding the rules) and thus potentially produce less utility than a simpler set of rules even if the rules as applied might not lead to the best possible outcome.
+
+In short, while act utilitarianism seeks to maximise utility in every individual action, yet perhaps becomes infeasible as a result, rule utilitarianism attempts to place acts in a context of rules, and sets of rules, and social acceptance of them; and considers the utility of this system as a whole. This may lead to individual cases in which utility is not maximised, justified by the likelihood that making exceptions to the rule would lead to worse outcomes overall than not doing so.
+
+## References
+
+::: {#refs}
+:::
+
+# Part B:
