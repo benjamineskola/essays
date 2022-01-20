@@ -4,7 +4,7 @@ title: Critically compare act utilitarianism and rule utilitarianism
 
 Utilitarian ethical theories were originally propounded by Jeremy Bentham in *An Introduction to the Principles of Morals and Legislation* and John Stuart Mill in *Utilitarianism*. Both authors would have agreed on the basic principle of utilitarianism, formulated by Mill as “actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness”. However, they and subsequent utilitarians have disagreed on various other aspects, including how best to quantify and compare the happiness promoted by a given action and indeed the nature of happiness itself.
 
-Bentham’s version of the theory has been characterised as ‘crude’, in which view Mill’s version is seen as a refinement or improvement [@barber2011 50]. However, the changes Mill proposes are significant enough that subsequent authors have developed them into what is in effect an entirely distinct subtheory, requiring separate justification.
+Bentham’s version of the theory has been characterised as ‘crude’, in which view Mill’s version is seen as a refinement or improvement [@barber2011 50]. However, Mill partially diverged from Bentham in seeming (though inconsistently) to suggest a system based on the utility produced by ethical rules rather than individual acts. Subsequent authors have developed this further into what is in effect an entirely distinct subtheory, requiring separate justification.
 
 For Bentham, an ethical action is one whose ‘tendency it has to augment the happiness of the community is greater than any it has to diminish it’ [@barber2011 183]. It seems to be implied, and has been criticised on the basis, that each individual act must be evaluated in its own right. Mill, then, addresses this, with the theoretical innovation that later came to be referred to as ‘rule’ utilitarianism; he observes that the end goal of maximising utility does not preclude other ‘secondary’ principles to that effect, and that therefore there is no need ‘to endeavour to test each individual action by the first principle’ [@cottingham2008 517].
 
@@ -31,11 +31,3 @@ Thus, while earlier it was noted that act utilitarianism may result in counterin
 One potential problem in the definition of rule utilitarianism, however, is the necessity to ensure it remains distinct from act utilitarianism. Naturally an overly-strict rule may not maximise utility; for example, an absolute rule against killing might be found to lead to less happiness/wellbeing than a rule against _nonconsensual_ killing (i.e., permitting euthanasia); or, at the opposite end of the political spectrum, than a rule against killing _except as punishment for serious crime_. However, in the extreme case, it can be hypothesised that there might be so many exceptions and provisos that in effect every act needs to be analysed individually: rule utilitarianism just becomes a more complex version of act utilitarianism. For @hooker2015 this can be avoided by the proper formulation of rule utilitarianism; in short, the utility of a rule and its cost of acceptance (which in part depends upon its complexity) must be weighed against each other. A more complex rule or set of rules will have greater acceptance costs (e.g., in learning and understanding the rules) and thus potentially produce less utility than a simpler set of rules even if the rules as applied might not lead to the best possible outcome.
 
 In short, while act utilitarianism seeks to maximise utility in every individual action, yet perhaps becomes infeasible as a result, rule utilitarianism attempts to place acts in a context of rules, and sets of rules, and social acceptance of them; and considers the utility of this system as a whole. This may lead to individual cases in which utility is not maximised, justified by the likelihood that making exceptions to the rule would lead to worse outcomes overall than not doing so.
-
-## References
-
-::: {#refs}
-:::
-
-# Part B: Using no more than 200 words, say how you have incorporated feedback from your tutor in previous TMA(s) in your answer
-
