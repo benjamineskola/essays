@@ -4,6 +4,7 @@ references:
   author:
     - family: Barber
       given: Alex
+  citation-key: barber2011
   ISBN: 978-1-84873-311-4
   issued:
     - year: 2011
@@ -18,6 +19,7 @@ references:
   author:
     - family: Chappell
       given: Timothy
+  citation-key: chappell2011
   ISBN: 978-1-84873-309-1
   issued:
     - year: 2011
@@ -28,8 +30,22 @@ references:
   title: The Philosophy of Religion
   type: book
 
+- id: chimisso2011
+  author:
+    - family: Chimisso
+      given: Cristina
+  citation-key: chimisso2011
+  ISBN: 978-1-84873-312-1
+  issued:
+    - year: 2011
+  language: English
+  publisher: Open University
+  title: Knowledge
+  type: book
+
 - id: cottingham2008
   call-number: BD21 .W43 2008
+  citation-key: cottingham2008
   edition: '2'
   editor:
     - family: Cottingham
@@ -49,6 +65,7 @@ references:
   author:
     - family: Driver
       given: Julia
+  citation-key: driver2014
   container-title: Stanford Encyclopedia of Philosophy
   issued:
     - year: 2014
@@ -60,6 +77,7 @@ references:
   author:
     - family: Hooker
       given: Brad
+  citation-key: hooker2015
   container-title: Stanford Encyclopedia of Philosophy
   issued:
     - year: 2015
@@ -74,6 +92,7 @@ references:
     - family: Woolhouse
       given: R. S.
   call-number: B1290 1997
+  citation-key: locke1997
   event-place: London
   ISBN: 978-0-14-043482-8
   issued:
@@ -89,6 +108,7 @@ references:
   author:
     - family: Sinnott-Armstrong
       given: Walter
+  citation-key: sinnott-armstrong2019
   container-title: Stanford Encyclopedia of Philosophy
   issued:
     - year: 2019
@@ -100,6 +120,7 @@ references:
   author:
     - family: Warburton
       given: Nigel
+  citation-key: warburton2011
   ISBN: 978-1-84873-309-1
   issued:
     - year: 2011
