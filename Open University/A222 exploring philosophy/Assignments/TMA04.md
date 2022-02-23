@@ -20,8 +20,11 @@ Popper’s answer, therefore, was to invert the process: rather than theory aris
 
 Thus a theory ‘all ravens are black’, as mentioned, cannot be reliably proven through observation; observation cannot exclude the possibility that ravens of other colours exist but have escaped observation. But for Popper, the vital process is to attempt to *disprove* it. This refutation can be made deductively sound:
 
-> Premise: all ravens are black.
-> 
+- If all ravens are black, then all ravens that are observed must be black.
+- A raven is observed that is not black.
+- Conclusion: not all ravens are black; the conjecture is false.
+
+Popper considers that every observation of a black raven would be a corroboration: if a sufficiently large quantity of ravens have been observed, it appears increasingly unlikely that the theory is false, and it is thus increasingly valuable. But this is never provable deductively; these conclusions are only ever ‘tentative’, even if increasingly reliable.
 
 <!--
 
