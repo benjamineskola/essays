@@ -4,6 +4,7 @@ references:
   author:
     - family: Balderston
       given: Theo
+  citation-key: balderston2010
   container-title: Economic History Review
   DOI: >-
     10.1111/j.1468-0289.2009.00453.x?issn=1468-0289{\&}tracking_referrer=onlinelibrary.wiley.com.ezproxy.lib.bbk.ac.uk{\&}purchase_referrer=onlinelibrary.wiley.com.ezproxy.lib.bbk.ac.uk{\&}customer_ids=BIRKBE001S%7CCORE00000004150%7CEAL00000041805%7CBIRKBE003S%7CEAL00000133929{\&}publisher=wiley{\&}access_api=1{\&}parent_url=http:%2F%2Fonlinelibrary.wiley.com.ezproxy.lib.bbk.ac.uk%2Fdoi%2F10.1111%2Fj.1468-0289.2009.00453.x%2Fepdf{\&}preview=1
@@ -21,6 +22,7 @@ references:
   author:
     - family: Beckert
       given: Sven
+  citation-key: beckert2014
   issued:
     - year: 2014
   publisher: Vintage
@@ -31,6 +33,7 @@ references:
   author:
     - family: Blackett
       given: R. J. M.
+  citation-key: blackett2001
   event-place: Baton Rouge
   issued:
     - year: 2001
@@ -45,6 +48,7 @@ references:
       given: Stephen
     - family: Gupta
       given: Bishnupriya
+  citation-key: broadberry2005
   issued:
     - year: 2005
   title: >-
@@ -59,6 +63,7 @@ references:
       given: P. J.
     - family: Hopkins
       given: A. G.
+  citation-key: cain1993
   event-place: Harlow
   issued:
     - year: 1993
@@ -71,6 +76,7 @@ references:
   author:
     - family: Cain
       given: Peter J.
+  citation-key: cain1999
   container-title: Recent Findings of Research in Economic Social History
   issue: '29'
   issued:
@@ -83,6 +89,7 @@ references:
   author:
     - family: Calhoun
       given: Ricky-Dale
+  citation-key: calhoun2002
   genre: PhD Thesis
   issued:
     - year: 2002
@@ -98,6 +105,7 @@ references:
   author:
     - family: Cole
       given: Juan R. I.
+  citation-key: cole1999
   issued:
     - year: 1999
   publisher: American Univ in Cairo Press
@@ -108,6 +116,7 @@ references:
   author:
     - family: Craig
       given: F. W. S.
+  citation-key: craig1989
   edition: '2'
   event-place: London
   issued:
@@ -120,6 +129,7 @@ references:
 - id: csa1862
   author:
     - literal: Cotton Supply Association
+  citation-key: csa1862
   event-place: Manchester
   issued:
     - year: 1862
@@ -131,6 +141,7 @@ references:
 - id: csa1868
   author:
     - literal: Cotton Supply Association
+  citation-key: csa1868
   event-place: Manchester
   issued:
     - year: 1868
@@ -142,6 +153,7 @@ references:
 - id: csr1865
   author:
     - literal: Cotton Supply Reporter
+  citation-key: csr1865
   container-title: Cotton Supply Reporter
   event-place: Manchester
   issued:
@@ -154,6 +166,7 @@ references:
 - id: csr1865a
   author:
     - literal: Cotton Supply Reporter
+  citation-key: csr1865a
   container-title: Cotton Supply Reporter
   event-place: Manchester
   issued:
@@ -167,6 +180,7 @@ references:
   author:
     - family: Darwin
       given: John
+  citation-key: darwin1997
   container-title: English Historical Review
   DOI: 10.1093/ehr/cxii.447.614
   issue: '447'
@@ -181,6 +195,7 @@ references:
   author:
     - family: Davis
       given: R.
+  citation-key: davis1979
   event-place: Leicester
   issued:
     - year: 1979
@@ -193,6 +208,7 @@ references:
   author:
     - family: Earle
       given: Edward Mead
+  citation-key: earle1926
   container-title: Political Science Quarterly
   DOI: 10.2307/2142228
   issue: '4'
@@ -206,6 +222,7 @@ references:
 - id: economist1861
   author:
     - literal: The Economist
+  citation-key: economist1861
   event-place: London
   issued:
     - year: 1861
@@ -218,6 +235,7 @@ references:
 - id: economist1862
   author:
     - literal: The Economist
+  citation-key: economist1862
   event-place: London
   issued:
     - year: 1862
@@ -231,6 +249,7 @@ references:
   author:
     - family: Ellison
       given: Mary
+  citation-key: ellison1972
   event-place: Chicago
   issued:
     - year: 1972
@@ -243,6 +262,7 @@ references:
   author:
     - family: Farnie
       given: D. A.
+  citation-key: farnie1979
   event-place: Oxford
   issued:
     - year: 1979
@@ -257,6 +277,7 @@ references:
       given: John
     - family: Robinson
       given: Ronald
+  citation-key: gallagher1953
   container-title: Economic History Review
   DOI: 10.2307/2591017
   issue: '1'
@@ -271,6 +292,7 @@ references:
   author:
     - family: Guelzo
       given: Allen C.
+  citation-key: guelzo2012
   issued:
     - year: 2012
   publisher: OUP USA
@@ -280,6 +302,7 @@ references:
 - id: hansard1862
   author:
     - literal: Hansard
+  citation-key: hansard1862
   issued:
     - year: 1862
       month: 6
@@ -294,6 +317,7 @@ references:
 - id: hansard1908
   author:
     - literal: Hansard
+  citation-key: hansard1908
   issued:
     - year: 1908
       month: 2
@@ -308,6 +332,7 @@ references:
   author:
     - family: Harnetty
       given: Peter
+  citation-key: harnetty1962
   container-title: English Historical Review
   DOI: 10.1093/ehr/lxxvii.cccv.684
   issue: '305'
@@ -322,6 +347,7 @@ references:
   author:
     - family: Harnetty
       given: Peter
+  citation-key: harnetty1965
   container-title: Economic History Review
   issue: '2'
   issued:
@@ -338,6 +364,7 @@ references:
   author:
     - family: Harnetty
       given: Peter
+  citation-key: harnetty1966
   container-title: Journal of British Studies
   DOI: 10.1086/385528
   issue: '1'
@@ -354,6 +381,7 @@ references:
   author:
     - family: Harnetty
       given: Peter
+  citation-key: harnetty1972
   event-place: Manchester
   issued:
     - year: 1972
@@ -366,6 +394,7 @@ references:
   author:
     - family: Henderson
       given: W. O.
+  citation-key: henderson1969
   edition: '2'
   event-place: Manchester
   issued:
@@ -379,6 +408,7 @@ references:
   author:
     - family: Hobsbawm
       given: Eric J
+  citation-key: hobsbawm1995
   issued:
     - year: 1995
   publisher: Weidenfeld & Nicholson
@@ -389,6 +419,7 @@ references:
   author:
     - family: Hobsbawm
       given: Eric J
+  citation-key: hobsbawm1999
   edition: Rev. edn.
   event-place: London
   issued:
@@ -402,6 +433,7 @@ references:
   author:
     - family: Hobson
       given: J. A.
+  citation-key: hobson1902
   issued:
     - year: 1902
   title: Imperialism
@@ -411,6 +443,7 @@ references:
   author:
     - family: Hyam
       given: Ronald
+  citation-key: hyam2002
   edition: '3'
   ISBN: 1-349-22784-6
   issued:
@@ -425,6 +458,7 @@ references:
       given: Seth
     - family: Mandelbaum
       given: David G.
+  citation-key: leacock1955
   container-title: Economic Development and Cultural Change
   DOI: 10.1086/449693
   issue: '4'
@@ -441,6 +475,7 @@ references:
   author:
     - family: Lenin
       given: Vladimir
+  citation-key: lenin1964
   container-title: Collected Works
   event-place: Moscow
   issued:
@@ -454,6 +489,7 @@ references:
   author:
     - family: Mill
       given: John Stuart
+  citation-key: mill2009
   DOI: 10.1017/CBO9781139149785
   event-place: Cambridge
   issued:
@@ -467,6 +503,7 @@ references:
   author:
     - family: Mitchell
       given: Timothy
+  citation-key: mitchell2002
   ISBN: 978-0-520-23262-4
   issued:
     - year: 2002
@@ -478,6 +515,7 @@ references:
   author:
     - family: Moore
       given: R J
+  citation-key: moore1964
   container-title: Economic History Review
   DOI: 10.2307/2592695
   issue: '1'
@@ -493,6 +531,7 @@ references:
   author:
     - family: Owen
       given: Roger
+  citation-key: owen1993
   issued:
     - year: 1993
   publisher: I. B. Tauris
@@ -503,6 +542,7 @@ references:
   author:
     - family: Porter
       given: Bernard
+  citation-key: porter1984
   edition: '2'
   issued:
     - year: 1984
@@ -514,6 +554,7 @@ references:
   author:
     - family: Reid
       given: Brian Holden
+  citation-key: reid1999
   event-place: London
   issued:
     - year: 1999
@@ -526,6 +567,7 @@ references:
   author:
     - family: Roy
       given: Tirthankar
+  citation-key: roy2011
   DOI: 10.1093/acprof:oso/9780198074175.001.0001
   issued:
     - year: 2011
@@ -537,6 +579,7 @@ references:
   author:
     - family: Seeley
       given: John Robert
+  citation-key: seeley2010
   DOI: 10.1017/CBO9780511783159
   event-place: Cambridge
   issued:
@@ -550,6 +593,7 @@ references:
   author:
     - family: Sexton
       given: Jay
+  citation-key: sexton2005
   DOI: 10.1093/acprof:oso/9780199281039.001.0001
   event-place: Oxford
   issued:
@@ -565,6 +609,7 @@ references:
   author:
     - family: Tate
       given: Jonathan Graham
+  citation-key: tate2015
   genre: PhD Thesis
   issued:
     - year: 2015
@@ -579,6 +624,7 @@ references:
   author:
     - family: Tripathi
       given: Dwijendra
+  citation-key: tripathi1967
   container-title: The Indian Economic & Social History Review
   DOI: 10.1177/001946466700400303
   issue: '3'
@@ -594,6 +640,7 @@ references:
 - id: wfqr1850
   author:
     - literal: Westminster and Foreign Quarterly Review
+  citation-key: wfqr1850
   event-place: London
   issued:
     - year: 1850
@@ -605,6 +652,7 @@ references:
   author:
     - family: Williams
       given: Eric
+  citation-key: williams1994
   edition: '2'
   event-place: Chapel Hill
   issued:

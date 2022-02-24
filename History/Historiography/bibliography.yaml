@@ -4,6 +4,7 @@ references:
   author:
     - family: Baxell
       given: Richard
+  citation-key: baxell2012
   issued:
     - year: 2012
   publisher: Aurum Press
@@ -16,6 +17,7 @@ references:
   author:
     - family: Beevor
       given: Antony
+  citation-key: beevor2006
   issued:
     - year: 2006
   publisher: Wiedenfeld & Nicholson
@@ -26,6 +28,7 @@ references:
   author:
     - family: Frank, Jr.
       given: Willard C
+  citation-key: frank1999
   container-title: The International History Review
   ISSN: '07075332'
   issue: '4'
@@ -45,6 +48,7 @@ references:
   author:
     - family: Hopkins
       given: James K
+  citation-key: hopkins1998
   ISBN: 0-8047-3127-6
   issued:
     - year: 1998
@@ -55,6 +59,7 @@ references:
 - id: hopkinsjamesk
   author:
     - literal: Hopkins, James K
+  citation-key: hopkinsjamesk
   title: Faculty page for Professor James k. Hopkins
   type: webpage
   URL: http://faculty.smu.edu/hopkins/
@@ -63,6 +68,7 @@ references:
   author:
     - family: Nelson
       given: Cary
+  citation-key: nelson2004
   container-title: Science & Society
   ISSN: '00368237'
   issue: '3'
@@ -80,6 +86,7 @@ references:
   author:
     - family: Stradling
       given: Robert
+  citation-key: stradling2000
   container-title: The English Historical Review
   DOI: 10.1093/ehr/115.460.164
   ISSN: '00138266'
@@ -100,6 +107,7 @@ references:
   author:
     - family: Thomas
       given: Hugh
+  citation-key: thomas1961
   issued:
     - year: 1961
   publisher: Eyre & Spottiswood

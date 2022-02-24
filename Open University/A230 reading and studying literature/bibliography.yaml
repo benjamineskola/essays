@@ -4,6 +4,7 @@ references:
   author:
     - family: Bishop
       given: Elizabeth
+  citation-key: bishop2004
   event-place: London
   issued:
     - year: 2004
@@ -22,6 +23,7 @@ references:
   author:
     - family: Davenport
       given: Romola J.
+  citation-key: davenport2020
   container-title: The Economic History Review
   container-title-short: The Economic History Review
   DOI: 10.1111/ehr.12964
@@ -43,6 +45,7 @@ references:
     - family: Doyle
       given: Arthur Conan
   call-number: PR4622 .S44 2010
+  citation-key: doyle2010
   editor:
     - family: Towheed
       given: Shafquat
@@ -63,6 +66,7 @@ references:
     - family: Fortuny
       given: Kim
   call-number: PS3503.I785 Z666 2003
+  citation-key: fortuny2003
   event-place: Boulder
   ISBN: 978-0-87081-741-0
   issued:
@@ -76,6 +80,7 @@ references:
   type: book
 
 - id: haslam2018
+  citation-key: haslam2018
   edition: '2'
   editor:
     - family: Haslam
@@ -92,6 +97,7 @@ references:
   author:
     - family: Joyce
       given: James
+  citation-key: joyce2000
   editor:
     - family: Brown
       given: Terence
@@ -114,6 +120,7 @@ references:
     - family: Engels
       given: Friedrich
   call-number: HX276 .M2782 1970
+  citation-key: marx1970
   editor:
     - family: Arthur
       given: C. J.
@@ -135,6 +142,7 @@ references:
   author:
     - family: McClintock
       given: Anne
+  citation-key: mcclintock1995
   event-place: London
   issued:
     - year: 1995
@@ -144,6 +152,7 @@ references:
   type: book
 
 - id: pacheco2018
+  citation-key: pacheco2018
   edition: '2'
   editor:
     - family: Pacheco
@@ -165,6 +174,7 @@ references:
   author:
     - family: Said
       given: Edward W.
+  citation-key: said2003
   edition: 25th Anniversary Edition
   event-place: London
   ISBN: 978-0-8041-5386-7
@@ -183,6 +193,7 @@ references:
   author:
     - family: Selvon
       given: Samuel
+  citation-key: selvon2006
   event-place: London
   ISBN: 978-0-14-118841-6
   issued:
@@ -200,6 +211,7 @@ references:
   author:
     - family: Shakespeare
       given: William
+  citation-key: shakespeare2006
   editor:
     - family: Neill
       given: Michael
@@ -218,6 +230,7 @@ references:
   author:
     - family: Shelley
       given: Percy Bysshe
+  citation-key: shelley2003
   editor:
     - family: Leader
       given: Zachary
@@ -236,6 +249,7 @@ references:
   author:
     - family: Sibalis
       given: Michael
+  citation-key: sibalis2004
   container-title: Urban Studies
   container-title-short: Urban Studies
   DOI: 10.1080/0042098042000243138
@@ -259,6 +273,7 @@ references:
   author:
     - family: Stevenson
       given: Robert Louis
+  citation-key: stevenson2008
   editor:
     - family: Jolly
       given: Roslyn
@@ -279,6 +294,7 @@ references:
 - id: voltaire2009
   author:
     - literal: Voltaire
+  citation-key: voltaire2009
   editor:
     - family: Cuffe
       given: Theo
@@ -295,6 +311,7 @@ references:
   type: book
 
 - id: watson2018
+  citation-key: watson2018
   edition: '2'
   editor:
     - family: Watson
@@ -312,6 +329,7 @@ references:
   author:
     - family: Wilson Knight
       given: George
+  citation-key: wilsonknight1930
   event-place: Oxford
   issued:
     - year: 1930
@@ -324,6 +342,7 @@ references:
   author:
     - family: Wordsworth
       given: William
+  citation-key: wordsworth1977
   editor:
     - family: Darlington
       given: B

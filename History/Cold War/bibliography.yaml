@@ -1,6 +1,7 @@
 ---
 references:
 - id: '2015'
+  citation-key: '2015'
   issued:
     - year: 2015
       month: 10
@@ -9,6 +10,7 @@ references:
   type: article-journal
 
 - id: adas2010
+  citation-key: adas2010
   editor:
     - family: Adas
       given: Michael
@@ -18,6 +20,7 @@ references:
   type: book
 
 - id: Anonymous:jGl7alGP
+  citation-key: Anonymous:jGl7alGP
   issued:
     - year: 2015
       month: 10
@@ -29,6 +32,7 @@ references:
   author:
     - family: Balloch
       given: Howard R.
+  citation-key: balloch1974
   event-place: Montreal
   genre: Master's Thesis
   issued:
@@ -49,6 +53,7 @@ references:
       given: Joseph A
     - family: Schulze
       given: Kirsten E
+  citation-key: best2008
   event-place: London
   ISBN: 978-0-415-43896-4
   issued:
@@ -64,6 +69,7 @@ references:
   author:
     - family: Blum
       given: William
+  citation-key: blum2003
   event-place: London
   ISBN: 978-1-84277-369-7
   issued:
@@ -76,6 +82,7 @@ references:
 - id: chenjian1996
   author:
     - literal: Chen Jian
+  citation-key: chenjian1996
   issued:
     - year: 1996
   title: >-
@@ -86,6 +93,7 @@ references:
 - id: chenjian1996a
   author:
     - literal: Chen Jian
+  citation-key: chenjian1996a
   container-title: China's road to the Korean War
   issued:
     - year: 1996
@@ -98,6 +106,7 @@ references:
 - id: chenjian2001
   author:
     - literal: Chen Jian
+  citation-key: chenjian2001
   event-place: Chapel Hill
   issued:
     - year: 2001
@@ -110,6 +119,7 @@ references:
   author:
     - family: Darwin
       given: John
+  citation-key: darwin1997
   container-title: English Historical Review
   DOI: 10.1093/ehr/cxii.447.614
   issue: '447'
@@ -124,6 +134,7 @@ references:
   author:
     - family: Darwin
       given: John
+  citation-key: darwin2008
   ISBN: 978-0-14-101022-9
   issued:
     - year: 2008
@@ -137,6 +148,7 @@ references:
   author:
     - family: Darwin
       given: John
+  citation-key: darwin2008a
   collection-title: The rise and fall of global empires, 1400–2000
   ISBN: 978-0-14-101022-9
   issued:
@@ -147,6 +159,7 @@ references:
     http://www.worldcat.org/title/after-tamerlane-the-rise-and-fall-of-global-empires-1400-2000/oclc/398170510
 
 - id: degras1955
+  citation-key: degras1955
   editor:
     - family: Degras
       given: Jane
@@ -161,6 +174,7 @@ references:
   author:
     - family: Dower
       given: John W.
+  citation-key: dower1999
   event-place: New York
   issued:
     - year: 1999
@@ -173,6 +187,7 @@ references:
   author:
     - family: Dower
       given: John W
+  citation-key: dower1999a
   container-title: 'Embracing defeat: Japan in the wake of World War II'
   issued:
     - year: 1999
@@ -185,6 +200,7 @@ references:
   author:
     - family: Engerman
       given: David C
+  citation-key: engerman2011
   container-title: The Cambridge history of the Cold War
   DOI: 10.1017/CHOL9780521837194.003
   editor:
@@ -207,6 +223,7 @@ references:
   author:
     - family: Foner
       given: Eric
+  citation-key: foner2001
   container-title: American Historical Review
   DOI: 10.2307/2652222
   issue: '1'
@@ -221,6 +238,7 @@ references:
   author:
     - family: Foner
       given: Eric
+  citation-key: foner2008
   edition: '2'
   event-place: New York
   issued:
@@ -234,6 +252,7 @@ references:
   author:
     - family: Fukuyama
       given: Francis
+  citation-key: fukuyama1989
   container-title: The National Interest
   DOI: 10.2307/24027184
   issue: '16'
@@ -249,6 +268,7 @@ references:
   author:
     - family: Gaddis
       given: John Lewis
+  citation-key: gaddis1997
   event-place: Oxford
   ISBN: 978-0-19-878071-7
   issued:
@@ -262,6 +282,7 @@ references:
   author:
     - family: Gaddis
       given: John Lewis
+  citation-key: gaddis2005
   issued:
     - year: 2005
   title: The cold war
@@ -271,6 +292,7 @@ references:
   author:
     - family: Gaddis
       given: John Lewis
+  citation-key: gaddis2005a
   container-title: The cold war
   event-place: London
   issued:
@@ -285,6 +307,7 @@ references:
   author:
     - family: Gaddis
       given: John Lewis
+  citation-key: gaddis2015
   container-title: We now know
   issued:
     - year: 2015
@@ -297,6 +320,7 @@ references:
   author:
     - family: Hanhimäki
       given: Jussi M
+  citation-key: hanhimaki2003
   container-title: 'The Cold War: a history in documents and eyewitness accounts'
   editor:
     - family: Hanhimäki
@@ -312,6 +336,7 @@ references:
     https://moodle.bbk.ac.uk/pluginfile.php/450996/mod_resource/content/1/Hanhimaki%2C%20The%20Divided%20Germany.pdf
 
 - id: hanhimaki2003a
+  citation-key: hanhimaki2003a
   collection-title: A history in documents and eyewitness accounts
   editor:
     - family: Hanhimäki
@@ -329,6 +354,7 @@ references:
       given: Gabrielle
     - family: Edwards
       given: Paul N
+  citation-key: hecht2010
   container-title: Essays on twentieth-century history
   editor:
     - family: Adas
@@ -346,6 +372,7 @@ references:
   author:
     - family: Hobsbawm
       given: Eric J
+  citation-key: hobsbawm1994
   issued:
     - year: 1994
   publisher: Abacus
@@ -356,6 +383,7 @@ references:
   author:
     - family: Hobsbawm
       given: Eric J
+  citation-key: hobsbawm1994a
   container-title: Age of extremes
   issued:
     - year: 1994
@@ -372,6 +400,7 @@ references:
       given: Michael H.
     - family: Levine
       given: Steven I.
+  citation-key: hunt2012
   event-place: Chapel Hill
   issued:
     - year: 2012
@@ -384,6 +413,7 @@ references:
   author:
     - family: Judt
       given: Tony
+  citation-key: judt2007
   container-title: Postwar
   ISBN: 0-7126-6564-1
   issued:
@@ -399,6 +429,7 @@ references:
   author:
     - family: Judt
       given: Tony
+  citation-key: judt2007a
   collection-title: A history of europe since 1945
   event-place: London
   ISBN: 978-0-7126-6564-3
@@ -415,6 +446,7 @@ references:
   author:
     - family: Jun
       given: Niu
+  citation-key: jun2011
   container-title: The cambridge history of the cold war
   DOI: CHOL9780521837194.012
   editor:
@@ -437,6 +469,7 @@ references:
 - id: kennan1946
   author:
     - literal: Kennan
+  citation-key: kennan1946
   issued:
     - year: 1946
       month: 2
@@ -447,6 +480,7 @@ references:
     https://www.trumanlibrary.org/whistlestop/study_collections/coldwar/documents/pdf/6-6.pdf
 
 - id: leffler2011
+  citation-key: leffler2011
   DOI: 10.1017/CHOL9780521837200
   editor:
     - family: Leffler
@@ -465,6 +499,7 @@ references:
   author:
     - family: Lenin
       given: Vladimir
+  citation-key: lenin1964
   container-title: Collected Works
   event-place: Moscow
   issued:
@@ -478,6 +513,7 @@ references:
   author:
     - family: Lenin
       given: Vladimir Ilyich
+  citation-key: lenin1974
   issued:
     - year: 1974
   title: Collected works
@@ -490,6 +526,7 @@ references:
       given: William Roger
     - family: Robinson
       given: Ronald
+  citation-key: louis2015
   issued:
     - year: 2015
       month: 11
@@ -503,6 +540,7 @@ references:
   author:
     - family: Lundestad
       given: Geir
+  citation-key: lundestad2000
   container-title: Reviewing the cold war
   ISBN: 0-7146-8120-2
   issued:
@@ -517,6 +555,7 @@ references:
   author:
     - family: Lüthi
       given: Lorenz M.
+  citation-key: luthi2008
   DOI: 10.1515/9781400837625
   event-place: Princeton
   ISBN: 978-1-4008-3762-5
@@ -531,6 +570,7 @@ references:
   author:
     - family: Maier
       given: Charles S.
+  citation-key: maier2009
   DOI: 10.4159/9780674040458
   event-place: Cambridge, MA
   ISBN: 978-0-674-04045-8
@@ -547,6 +587,7 @@ references:
       given: Karl
     - family: Engels
       given: Friedrich
+  citation-key: marx1969
   container-title: Marx & engels selected works
   event-place: Moscow
   issued:
@@ -564,6 +605,7 @@ references:
       given: Karl
     - family: Engels
       given: Friedrich
+  citation-key: marx1969a
   event-place: Moscow
   issued:
     - year: 1969
@@ -576,6 +618,7 @@ references:
   author:
     - family: Marx
       given: Karl
+  citation-key: marx1976
   event-place: London
   ISBN: 978-0-14-044568-8
   issued:
@@ -590,6 +633,7 @@ references:
   author:
     - family: McCauley
       given: Martin
+  citation-key: mccauley1995
   edition: '2'
   ISBN: 0-582-27659-4
   issued:
@@ -604,6 +648,7 @@ references:
   author:
     - family: McCauley
       given: Martin
+  citation-key: mccauley1995a
   container-title: The origins of the Cold War, 1941–49
   ISBN: 0-582-27659-4
   issued:
@@ -620,6 +665,7 @@ references:
       given: K
     - family: Agnew
       given: J
+  citation-key: mcdermott2015
   container-title: 'The Comintern: A history of international Communism from Lenin to Stalin'
   issued:
     - year: 2015
@@ -636,6 +682,7 @@ references:
       given: K
     - family: Agnew
       given: J
+  citation-key: mcdermott2015a
   issued:
     - year: 2015
   publisher: Macmillan
@@ -646,6 +693,7 @@ references:
   author:
     - family: Pérez
       given: Louis A.
+  citation-key: perez1983
   event-place: Pittsburgh
   ISBN: 978-0-8229-7197-9
   issued:
@@ -659,6 +707,7 @@ references:
   author:
     - family: Priestland
       given: David
+  citation-key: priestland
   page: 234–272
   title: The east is red
   type: chapter
@@ -668,6 +717,7 @@ references:
   author:
     - family: Priestland
       given: David
+  citation-key: priestlanda
   title: The red flag
   type: book
 
@@ -675,6 +725,7 @@ references:
   author:
     - family: Radchenko
       given: Sergey
+  citation-key: radchenko2009
   event-place: Washington, DC
   ISBN: 978-0-8047-5879-6
   issued:
@@ -688,6 +739,7 @@ references:
   author:
     - family: Service
       given: Robert
+  citation-key: service2008
   collection-title: Communism, a world history
   issued:
     - year: 2008
@@ -698,6 +750,7 @@ references:
   author:
     - family: Service
       given: Robert
+  citation-key: service2015
   container-title: Comrades
   issued:
     - year: 2015
@@ -711,6 +764,7 @@ references:
   author:
     - family: Shipway
       given: Martin
+  citation-key: shipway2008
   event-place: Oxford
   ISBN: 978-0-631-19968-7
   issued:
@@ -726,6 +780,7 @@ references:
   author:
     - family: Shipway
       given: Martin
+  citation-key: shipway2015
   container-title: Decolonization and its impact
   issued:
     - year: 2015
@@ -740,6 +795,7 @@ references:
   author:
     - family: Shipway
       given: Martin
+  citation-key: shipway2015a
   container-title: Decolonization and its impact
   issued:
     - year: 2015
@@ -754,6 +810,7 @@ references:
   author:
     - family: Shipway
       given: Martin
+  citation-key: shipway2015b
   container-title: Decolonization and its impact
   issued:
     - year: 2015
@@ -770,6 +827,7 @@ references:
   author:
     - family: Stueck
       given: W
+  citation-key: stueck2004
   container-title: 'Rethinking the Korean War: a new diplomatic and stategic history'
   issued:
     - year: 2004
@@ -783,6 +841,7 @@ references:
   author:
     - family: Thorpe
       given: Andrew
+  citation-key: thorpe1998
   DOI: 10.1093/ehr/CXIII.452.637
   issue: '452'
   issued:
@@ -799,6 +858,7 @@ references:
   author:
     - family: Thorpe
       given: Andrew
+  citation-key: thorpe2000
   container-title: Historical Journal
   DOI: 10.1017/S0018246X99001181
   issue: '3'
@@ -817,6 +877,7 @@ references:
   author:
     - family: Truman
       given: Harry S
+  citation-key: truman1947
   issued:
     - year: 1947
       month: 3
@@ -830,6 +891,7 @@ references:
   author:
     - family: Wallace
       given: Henry A
+  citation-key: Wallace:Dmrp0uAN
   issued:
     - year: 2015
       month: 10
@@ -843,6 +905,7 @@ references:
   author:
     - family: Wallace
       given: Henry A
+  citation-key: wallace1946
   issued:
     - year: 1946
       month: 7
@@ -857,6 +920,7 @@ references:
   author:
     - family: Weitz
       given: Eric
+  citation-key: weitz
   title: Creating German Communism
   type: book
 
@@ -864,6 +928,7 @@ references:
   author:
     - family: Weitz
       given: Eric
+  citation-key: weitz2015
   container-title: Creating german communism
   issued:
     - year: 2015
@@ -877,6 +942,7 @@ references:
   author:
     - family: Westad
       given: Odd Arne
+  citation-key: westad1998
   event-place: Washington, DC
   ISBN: 978-0-8047-3485-1
   issued:
@@ -890,6 +956,7 @@ references:
   author:
     - family: Westad
       given: Odd Arne
+  citation-key: westad2000
   collection-title: Approaches, interpretations, theory
   ISBN: 0-7146-8120-2
   issued:
@@ -904,6 +971,7 @@ references:
   author:
     - family: Westad
       given: Odd Arne
+  citation-key: westad2005
   container-title: The global cold war
   ISBN: 978-0-521-70314-7
   issued:
@@ -918,6 +986,7 @@ references:
   author:
     - family: Westad
       given: Odd Arne
+  citation-key: westad2009
   DOI: 10.1017/CBO9780511817991
   event-place: Cambridge
   ISBN: 978-0-511-81799-1
@@ -932,6 +1001,7 @@ references:
   author:
     - family: Zubok
       given: V M
+  citation-key: zubok2007
   container-title: A failed empire
   issued:
     - year: 2007
@@ -944,6 +1014,7 @@ references:
   author:
     - family: Zubok
       given: V M
+  citation-key: zubok2007a
   collection-title: The soviet union in the cold war from stalin to gorbachev
   ISBN: 978-0-8078-5958-2
   issued:

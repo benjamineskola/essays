@@ -5,6 +5,7 @@ references:
     - family: Innes
       given: Matthew
   call-number: D121 .I56 2007
+  citation-key: innes2007
   event-place: London
   ISBN: 978-0-415-21506-0 978-0-415-21507-7 978-0-203-64491-1
   issued:
@@ -26,6 +27,7 @@ references:
     - family: Lapidus
       given: Ira M.
   call-number: DS35.63 .L37 2002
+  citation-key: lapidus2002
   edition: 2nd ed
   event-place: Cambridge ; New York
   ISBN: 978-0-521-77056-9 978-0-521-77933-3
@@ -42,6 +44,7 @@ references:
   author:
     - family: Lee
       given: A. D.
+  citation-key: lee2013
   container-title: From rome to byzantium AD 363–565
   ISBN: 978-0-7486-2791-2
   issued:
@@ -56,6 +59,7 @@ references:
   author:
     - family: Loseby
       given: S. T.
+  citation-key: loseby2009
   container-title: A companion to late antiquity
   editor:
     - family: Rousseau
@@ -72,6 +76,7 @@ references:
   author:
     - family: Wickham
       given: Chris
+  citation-key: wickham2005
   ISBN: 978-0-19-153261-0
   issued:
     - year: 2005

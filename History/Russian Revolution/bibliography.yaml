@@ -1,6 +1,7 @@
 ---
 references:
 - id: '1918'
+  citation-key: '1918'
   issued:
     - year: 1918
   title: Constitution of the russian soviet federative socialist republic
@@ -8,6 +9,7 @@ references:
   URL: https://www.marxists.org/history/ussr/government/constitution/1918/index.htm
 
 - id: '1936'
+  citation-key: '1936'
   issued:
     - year: 1936
   title: Constitution of the union of soviet socialist republics
@@ -18,6 +20,7 @@ references:
   author:
     - family: Carr
       given: E. H.
+  citation-key: carr1987
   event-place: London
   issued:
     - year: 1987
@@ -30,6 +33,7 @@ references:
   author:
     - family: Christian
       given: David
+  citation-key: christian1997
   event-place: Basingstoke
   issued:
     - year: 1997
@@ -39,6 +43,7 @@ references:
   type: book
 
 - id: clements1991
+  citation-key: clements1991
   editor:
     - family: Clements
       given: Barbara Evans
@@ -57,6 +62,7 @@ references:
   archive: State Tretyakov Gallery
   author:
     - literal: El Lissitzky
+  citation-key: ellissitzky1927
   issued:
     - year: 1927
   title: >-
@@ -70,6 +76,7 @@ references:
   author:
     - family: Evans
       given: Richard J.
+  citation-key: evans2014
   issued:
     - year: 2014
   publisher: Abacus
@@ -80,6 +87,7 @@ references:
   author:
     - family: Figes
       given: Orlando
+  citation-key: figes1996
   event-place: London
   issued:
     - year: 1996
@@ -92,6 +100,7 @@ references:
   author:
     - family: Fitzpatrick
       given: Sheila
+  citation-key: fitzpatrick1999
   event-place: Oxford
   issued:
     - year: 1999
@@ -104,6 +113,7 @@ references:
   author:
     - family: Fitzpatrick
       given: Sheila
+  citation-key: fitzpatrick2008a
   container-title: The russian revolution, 1917–32
   ISBN: 978-0-19-923767-8
   issued:
@@ -118,6 +128,7 @@ references:
   author:
     - family: Florinsky
       given: Michael T
+  citation-key: florinsky1927
   container-title: Political Science Quarterly
   DOI: 10.2307/2142786
   issue: '2'
@@ -134,6 +145,7 @@ references:
   author:
     - family: Goldman
       given: Wendy
+  citation-key: goldman1991
   container-title: Russia’s women
   editor:
     - family: Clements
@@ -154,6 +166,7 @@ references:
   author:
     - family: Keep
       given: John L H
+  citation-key: keep1995
   collection-title: Last of the empires
   edition: '2'
   issued:
@@ -168,6 +181,7 @@ references:
   author:
     - family: Kimball
       given: Alan
+  citation-key: kimball
   title: Russian Peasants and Village lands, 1861–1917
   type: webpage
   URL: http://pages.uoregon.edu/kimball/1861-1917.krx.lnd.htm
@@ -176,6 +190,7 @@ references:
   author:
     - family: Lenin
       given: Vladimir
+  citation-key: lenin1915
   container-title: Collected Works
   issued:
     - year: 1915
@@ -188,6 +203,7 @@ references:
   author:
     - family: Lenin
       given: Vladimir
+  citation-key: lenin1916
   container-title: Collected Works
   issued:
     - year: 1916
@@ -200,6 +216,7 @@ references:
   author:
     - family: Lenin
       given: Vladimir
+  citation-key: lenin1917
   container-title: Collected Works
   issued:
     - year: 1917
@@ -212,6 +229,7 @@ references:
   author:
     - family: Lenin
       given: Vladimir
+  citation-key: lenin1917a
   container-title: Collected Works
   issued:
     - year: 1917
@@ -224,6 +242,7 @@ references:
   author:
     - family: Lenin
       given: Vladimir
+  citation-key: lenin1917b
   container-title: Collected Works
   event-place: Moscow
   issued:
@@ -239,6 +258,7 @@ references:
   author:
     - family: Lenin
       given: Vladimir
+  citation-key: lenin1918
   container-title: Collected Works
   issued:
     - year: 1918
@@ -251,6 +271,7 @@ references:
   author:
     - family: Lenin
       given: Vladimir
+  citation-key: lenin1919
   container-title: Collected Works
   issued:
     - year: 1919
@@ -263,6 +284,7 @@ references:
   author:
     - family: Lenin
       given: Vladimir
+  citation-key: lenin1920
   container-title: Women and Communism
   issued:
     - year: 1920
@@ -274,6 +296,7 @@ references:
   author:
     - family: Marx
       given: Karl
+  citation-key: marx1976
   event-place: London
   ISBN: 978-0-14-044568-8
   issued:
@@ -288,6 +311,7 @@ references:
   author:
     - family: Marx
       given: Karl
+  citation-key: marx1980
   container-title: Marx / Engels Selected Works
   issued:
     - year: 1980
@@ -299,6 +323,7 @@ references:
 - id: petrogradsoviet1917
   author:
     - literal: Petrograd Soviet
+  citation-key: petrogradsoviet1917
   issued:
     - year: 1917
   title: >-
@@ -311,6 +336,7 @@ references:
   author:
     - family: Pichugina
       given: M.
+  citation-key: pichugina1939
   issued:
     - year: 1939
   title: Women in the USSR
@@ -321,6 +347,7 @@ references:
   author:
     - family: Service
       given: Robert
+  citation-key: service2013
   edition: '3'
   event-place: London
   issued:
@@ -334,6 +361,7 @@ references:
   author:
     - family: Shanin
       given: Teodor
+  citation-key: shanin1985
   event-place: Basingstoke
   issued:
     - year: 1985
@@ -345,6 +373,7 @@ references:
 - id: socialistrevolutionaryparty1905
   author:
     - literal: Socialist Revolutionary Party
+  citation-key: socialistrevolutionaryparty1905
   issued:
     - year: 1905
   title: Programme of the Socialist Revolutionary Party
@@ -356,6 +385,7 @@ references:
   author:
     - family: Trotsky
       given: Leon
+  citation-key: trotsky1937
   issued:
     - year: 1937
   title: The revolution betrayed
@@ -366,6 +396,7 @@ references:
   author:
     - family: Westwood
       given: J. N.
+  citation-key: westwood1984
   event-place: Oxford
   issued:
     - year: 1984
@@ -378,6 +409,7 @@ references:
   author:
     - family: Wolff
       given: M M
+  citation-key: wolff1949
   container-title: The Modern Law Review
   DOI: 10.1111/j.1468-2230.1949.tb00126.x
   issue: '3'

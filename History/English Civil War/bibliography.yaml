@@ -1,6 +1,7 @@
 ---
 references:
 - id: '2001'
+  citation-key: '2001'
   collection-title: The army, the levellers and the english state
   event-place: Cambridge
   issued:
@@ -13,6 +14,7 @@ references:
   author:
     - family: Adamson
       given: John S A
+  citation-key: adamson1990
   container-title: Transactions of the Royal Historical Society
   DOI: 10.2307/3679164
   issued:
@@ -27,6 +29,7 @@ references:
   author:
     - family: Adamson
       given: John S A
+  citation-key: adamson1991
   container-title: Historical Journal
   DOI: 10.2307/2639726
   issue: '1'
@@ -42,6 +45,7 @@ references:
   author:
     - family: Crawford
       given: Patricia
+  citation-key: crawford2001
   container-title: 'The Putney debates of 1647: the Army, the Levellers and the English State'
   editor:
     - family: Mendle
@@ -61,6 +65,7 @@ references:
   author:
     - family: Donagan
       given: Barbara
+  citation-key: donagan1994
   container-title: American Historical Review
   DOI: 10.1086/ahr/99.4.1137
   issue: '4'
@@ -76,6 +81,7 @@ references:
   author:
     - family: Elton
       given: Geoffrey Rudolph
+  citation-key: elton1974
   container-title: Studies in tudor and stuart politics and government
   issued:
     - year: 1974
@@ -88,6 +94,7 @@ references:
   author:
     - family: Foster
       given: R. E.
+  citation-key: foster2006
   container-title: History Review
   issue: '56'
   issued:
@@ -103,6 +110,7 @@ references:
       given: R.H
     - family: Robison
       given: W. B.
+  citation-key: fritze1996
   issued:
     - year: 1996
   publisher: Greenwood
@@ -113,6 +121,7 @@ references:
   author:
     - family: Gardiner
       given: Samuel R.
+  citation-key: gardiner1883
   issued:
     - year: 1883
   publisher: Longmans, Green & Co.
@@ -126,6 +135,7 @@ references:
   author:
     - family: Gentles
       given: I
+  citation-key: gentles1992
   container-title: The New Model Army in England, Ireland and Scotland 1645–53
   event-place: Oxford
   ISBN: 0-631-15869-3
@@ -142,6 +152,7 @@ references:
   author:
     - family: Hirst
       given: Derek
+  citation-key: hirst1991
   container-title: Past and Present
   DOI: 10.2307/650820
   issue: '132'
@@ -156,6 +167,7 @@ references:
   author:
     - family: Hutton
       given: Ronald
+  citation-key: hutton2004
   container-title: Debates in Stuart history
   issued:
     - year: 2004
@@ -167,6 +179,7 @@ references:
   author:
     - family: Hutton
       given: Ronald
+  citation-key: hutton2004a
   ISBN: 1-4039-3588-2
   issued:
     - year: 2004
@@ -179,6 +192,7 @@ references:
   author:
     - family: Kishlansky
       given: Mark A
+  citation-key: kishlansky1990
   container-title: Historical Journal
   DOI: 10.2307/2639804
   issue: '4'
@@ -194,6 +208,7 @@ references:
   author:
     - family: Lake
       given: P
+  citation-key: lake1989
   container-title: 'Conflict in early Stuart England: studies in religion and …'
   editor:
     - family: Cust
@@ -215,6 +230,7 @@ references:
   author:
     - family: Mondi
       given: Megan
+  citation-key: mondi2007
   container-title: Constructing the Past
   issue: '1'
   issued:
@@ -232,6 +248,7 @@ references:
   author:
     - family: Morrill
       given: J
+  citation-key: morrill1992
   container-title: 'Revolution and restoration: England in the 1650s'
   event-place: London
   ISBN: 1-85585-137-7
@@ -248,6 +265,7 @@ references:
   author:
     - family: Morton
       given: Arthur Leslie
+  citation-key: morton1989
   edition: '3'
   issued:
     - year: 1989
@@ -259,6 +277,7 @@ references:
   author:
     - family: Pearl
       given: Valerie
+  citation-key: pearl
   title: London's counter-revolution
   type: chapter
 
@@ -266,6 +285,7 @@ references:
   author:
     - family: Pearl
       given: Valerie
+  citation-key: pearl1979
   container-title: London Journal
   DOI: 10.1179/030580379793313748
   issue: '1'
@@ -281,6 +301,7 @@ references:
   author:
     - family: Purkiss
       given: Diane
+  citation-key: purkiss1997
   container-title: Journal of Medieval and Early Modern Studies
   issue: '1'
   issued:
@@ -295,6 +316,7 @@ references:
   author:
     - family: Purkiss
       given: Diane
+  citation-key: purkiss2006
   container-title: 'The English Civil War: a people''s history'
   event-place: London
   ISBN: 978-0-00-715062-5
@@ -312,6 +334,7 @@ references:
   author:
     - family: Reeve
       given: L. J.
+  citation-key: reeve1989
   event-place: Cambridge
   ISBN: 978-0-521-52133-8
   issued:
@@ -325,6 +348,7 @@ references:
   author:
     - family: Russell
       given: Conrad
+  citation-key: russell1987
   container-title: History
   DOI: 10.1111/j.1468-229X.1987.tb01469.x
   ISBN: '0631208097'
@@ -340,6 +364,7 @@ references:
   author:
     - family: Sharpe
       given: Kevin
+  citation-key: sharpe1992
   ISBN: 978-0-300-06596-1
   issued:
     - year: 1992
@@ -351,6 +376,7 @@ references:
   author:
     - family: Smith
       given: David Lawrence
+  citation-key: smith2003
   container-title: A companion to Stuart Britain
   editor:
     - family: Coward
@@ -369,6 +395,7 @@ references:
   author:
     - family: Tawney
       given: Richard Henry
+  citation-key: tawney1941
   container-title: Economic History Review
   DOI: 10.2307/2590708
   issue: '1'
@@ -384,6 +411,7 @@ references:
   author:
     - family: Woolrych
       given: Austin Herbert
+  citation-key: woolrych1957
   container-title: Cambridge Historical Journal
   DOI: 10.2307/3020682
   issue: '2'
@@ -399,6 +427,7 @@ references:
   author:
     - family: Woolrych
       given: Austin Herbert
+  citation-key: woolrych1990
   container-title: History
   DOI: 10.1111/j.1468-229X.1990.tb01515.x
   issue: '244'
@@ -413,6 +442,7 @@ references:
   author:
     - family: Woolrych
       given: Austin Herbert
+  citation-key: woolrych2002
   issued:
     - year: 2002
   publisher: Oxford University Press
@@ -423,6 +453,7 @@ references:
   author:
     - family: Wootton
       given: David
+  citation-key: wootton1991
   container-title: The Cambridge history of political thought 1450–1700
   editor:
     - family: Burns

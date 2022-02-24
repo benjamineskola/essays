@@ -1,6 +1,7 @@
 ---
 references:
 - id: Anonymous:2ZnqLUY7
+  citation-key: Anonymous:2ZnqLUY7
   title: Essays in swedish history
   type: book
 
@@ -10,6 +11,7 @@ references:
       given: W
     - family: Beik
       given: William
+  citation-key: beik2005
   container-title: Past and Present
   DOI: 10.1093/pastj/gti019
   issue: '1'
@@ -27,6 +29,7 @@ references:
   author:
     - family: Black
       given: Jeremy
+  citation-key: black2002
   ISBN: 978-0-415-27532-3
   issued:
     - year: 2002
@@ -39,6 +42,7 @@ references:
   author:
     - family: Black
       given: Jeremy
+  citation-key: black2002a
   container-title: European warfare, 1494–1660
   issued:
     - year: 2002
@@ -51,6 +55,7 @@ references:
   author:
     - family: Bonney
       given: Richard
+  citation-key: bonney1987
   container-title: French History
   DOI: 10.1093/fh/1.1.93
   issue: '1'
@@ -65,6 +70,7 @@ references:
   volume: '1'
 
 - id: cameron1999
+  citation-key: cameron1999
   collection-title: An oxford history
   editor:
     - family: Cameron
@@ -82,6 +88,7 @@ references:
   author:
     - family: Carroll
       given: Stuart
+  citation-key: carroll1995
   container-title: French History
   DOI: 10.1093/fh/9.2.125
   issue: '2'
@@ -99,6 +106,7 @@ references:
   author:
     - family: Carroll
       given: Stuart
+  citation-key: carroll2000
   container-title: French Historical Studies
   DOI: 10.1215/00161071-23-2-301
   issue: '2'
@@ -116,6 +124,7 @@ references:
   author:
     - family: Diefendorf
       given: Barbara
+  citation-key: diefendorf1985
   container-title: American Historical Review
   DOI: 10.2307/1859659
   issue: '5'
@@ -131,6 +140,7 @@ references:
   author:
     - family: Febvre
       given: L
+  citation-key: febvre1973
   issued:
     - year: 1973
   language: English
@@ -141,6 +151,7 @@ references:
   author:
     - family: Febvre
       given: Lucien Paul Victor
+  citation-key: febvre1973a
   container-title: 'A new kind of history: from the writings of Febvre'
   issued:
     - year: 1973
@@ -151,6 +162,7 @@ references:
   author:
     - family: Friedrich
       given: Karin
+  citation-key: friedrich
   title: 'Brandenburg–Prussia: The rise of a composite state, 1466–1806'
   type: book
 
@@ -158,6 +170,7 @@ references:
   author:
     - family: Friedrich
       given: Karin
+  citation-key: friedrich2015
   container-title: Brandenburg–Prussia
   issued:
     - year: 2015
@@ -172,6 +185,7 @@ references:
   author:
     - family: Friedrich
       given: Karin
+  citation-key: friedrich2015a
   container-title: Brandenburg–Prussia
   issued:
     - year: 2015
@@ -186,6 +200,7 @@ references:
   author:
     - family: Gentilcore
       given: David
+  citation-key: gentilcore1992
   container-title: Social History
   DOI: 10.1080/03071029208567823
   issue: '1'
@@ -205,6 +220,7 @@ references:
   author:
     - family: Ginzburg
       given: Carlo
+  citation-key: ginzburg1983
   container-title: >-
     The night battles: Witchcraft & agrarian cults in the sixteenth &
     seventeenth centuries
@@ -221,6 +237,7 @@ references:
   author:
     - family: Ginzburg
       given: Carlo
+  citation-key: ginzburg1983a
   issued:
     - year: 1983
   publisher: Johns Hopkins University Press
@@ -233,6 +250,7 @@ references:
   author:
     - family: Ginzburg
       given: Carlo
+  citation-key: ginzburg1983b
   collection-title: Witchcraft & agrarian cults in the sixteenth & seventeenth centuries
   issued:
     - year: 1983
@@ -244,6 +262,7 @@ references:
   author:
     - family: Hauser
       given: Henri
+  citation-key: hauser1899
   container-title: American Historical Review
   DOI: 10.2307/1833553
   issue: '4'
@@ -257,6 +276,7 @@ references:
   author:
     - family: Heller
       given: Henry
+  citation-key: heller1996
   container-title: French Historical Studies
   DOI: 10.2307/286649
   issue: '3'
@@ -281,6 +301,7 @@ references:
       given: Henry
     - family: Wolfe
       given: Michael
+  citation-key: holt1993
   container-title: French Historical Studies
   DOI: 10.2307/286879
   issue: '2'
@@ -296,6 +317,7 @@ references:
   author:
     - family: Holt
       given: Mack P.
+  citation-key: holt1995
   DOI: 10.1017/CBO9781139163682
   event-place: Cambridge
   issued:
@@ -309,6 +331,7 @@ references:
   author:
     - family: Hutton
       given: Ronald
+  citation-key: hutton2004
   container-title: Debates in Stuart history
   issued:
     - year: 2004
@@ -320,6 +343,7 @@ references:
   author:
     - family: Kann
       given: Robert A
+  citation-key: kann1980
   issued:
     - year: 1980
   language: English
@@ -330,6 +354,7 @@ references:
   author:
     - family: Kirby
       given: David
+  citation-key: kirby1990
   ISBN: 1-317-90215-7
   issued:
     - year: 1990
@@ -341,6 +366,7 @@ references:
   author:
     - family: Knecht
       given: R. J.
+  citation-key: knecht1989
   issued:
     - year: 1989
   publisher: Longman
@@ -351,6 +377,7 @@ references:
   author:
     - family: Le Roy Ladurie
       given: Emmanuel
+  citation-key: leroyladurie1966
   event-place: Paris
   issued:
     - year: 1966
@@ -364,6 +391,7 @@ references:
   author:
     - family: Lundkvist
       given: Sven
+  citation-key: lundkvist1973
   container-title: Sweden’s Age of Greatness, 1632–1718
   editor:
     - family: Roberts
@@ -378,6 +406,7 @@ references:
   author:
     - family: Lundkvist
       given: Sven
+  citation-key: lundkvist1973a
   container-title: Sweden's age of greatness, 1632–1718
   editor:
     - family: Roberts
@@ -394,6 +423,7 @@ references:
       given: Michael Edward
     - family: Shaw
       given: Christine
+  citation-key: mallett2012
   collection-title: War, state and society in early modern europe
   ISBN: 1-317-89939-3
   issued:
@@ -409,6 +439,7 @@ references:
   author:
     - family: Najemy
       given: John M
+  citation-key: najemy2004
   container-title: 'Italy in the Age of the Renaissance: 1300-1550'
   issued:
     - year: 2004
@@ -420,6 +451,7 @@ references:
   author:
     - family: Najemy
       given: John M
+  citation-key: najemy2004a
   ISBN: 0-19-152484-0
   issued:
     - year: 2004
@@ -435,6 +467,7 @@ references:
   author:
     - family: Pagden
       given: Anthony
+  citation-key: pagden1999
   container-title: Early modern europe
   editor:
     - family: Cameron
@@ -449,6 +482,7 @@ references:
   author:
     - family: Ranum
       given: Orest
+  citation-key: ranum2007
   DOI: 10.2307/286029
   issued:
     - year: 2007
@@ -461,6 +495,7 @@ references:
   author:
     - family: Roberts
       given: Michael
+  citation-key: roberts1967
   container-title: Essays in Swedish history
   issued:
     - year: 1967
@@ -472,6 +507,7 @@ references:
   author:
     - family: Roberts
       given: Michael
+  citation-key: roberts1967a
   container-title: Essays in swedish history
   issued:
     - year: 1967
@@ -482,6 +518,7 @@ references:
   author:
     - family: Roberts
       given: Michael
+  citation-key: roberts1973
   issued:
     - year: 1973
   publisher: English Universities Press
@@ -492,6 +529,7 @@ references:
   author:
     - family: Roberts
       given: Michael
+  citation-key: roberts1973a
   issued:
     - year: 1973
   publisher: Macmillan
@@ -502,6 +540,7 @@ references:
   author:
     - family: Roberts
       given: Penny
+  citation-key: roberts1992
   container-title: French History
   DOI: 10.1093/fh/6.3.259
   issue: '3'
@@ -521,6 +560,7 @@ references:
   author:
     - family: Roberts
       given: Penny
+  citation-key: roberts2004
   container-title: Past & Present
   DOI: 10.1093/past/184.1.3
   issue: '1'
@@ -537,6 +577,7 @@ references:
       given: Susan
     - family: Van Kley
       given: Dale
+  citation-key: rosa1998
   container-title: French Historical Studies
   DOI: 10.2307/286810
   issue: '4'
@@ -553,6 +594,7 @@ references:
   author:
     - family: Sharpe
       given: Kevin
+  citation-key: sharpe1992
   ISBN: 978-0-300-06596-1
   issued:
     - year: 1992
@@ -564,6 +606,7 @@ references:
   author:
     - family: Storrs
       given: Christopher
+  citation-key: storrs2002a
   container-title: The fiscal-military state in eighteenth-century europe
   issued:
     - year: 2002
@@ -575,6 +618,7 @@ references:
   author:
     - family: Thomson
       given: Erik
+  citation-key: thomson2011
   container-title: History Compass
   DOI: 10.1111/j.1478-0542.2011.00761.x
   issue: '4'
@@ -593,6 +637,7 @@ references:
   author:
     - family: Upton
       given: Anthony F
+  citation-key: upton1987
   container-title: English Historical Review
   DOI: 10.2307/572272
   issue: '403'
@@ -607,6 +652,7 @@ references:
   author:
     - family: Whittaker
       given: Cynthia Hyla
+  citation-key: whittaker1996
   container-title: Russian Review
   DOI: 10.2307/131835
   issue: '2'
@@ -621,6 +667,7 @@ references:
   author:
     - family: Wilkinson
       given: Alexander
+  citation-key: wilkinson2004
   container-title: French History
   DOI: 10.1093/fh/18.2.129
   issue: '2'

@@ -1,6 +1,7 @@
 ---
 references:
 - id: '1969'
+  citation-key: '1969'
   issued:
     - year: 1969
   language: English
@@ -12,6 +13,7 @@ references:
   author:
     - family: Anderson
       given: James M.
+  citation-key: anderson2003
   issued:
     - year: 2003
   publisher: Greenwood Press
@@ -22,6 +24,7 @@ references:
   author:
     - family: Baxell
       given: Richard
+  citation-key: baxell2012
   issued:
     - year: 2012
   publisher: Aurum Press
@@ -34,6 +37,7 @@ references:
   author:
     - family: Beevor
       given: Antony
+  citation-key: beevor2007
   issued:
     - year: 2007
   publisher: Orion Books
@@ -44,6 +48,7 @@ references:
   author:
     - family: Chomsky
       given: Noam
+  citation-key: chomsky2002
   container-title: American power and the new mandarins
   issued:
     - year: 2002
@@ -55,6 +60,7 @@ references:
   author:
     - family: Clark
       given: Martin
+  citation-key: clark1996
   container-title: Modern italy, 1871–1995
   ISBN: 0-582-05126-6
   issued:
@@ -69,6 +75,7 @@ references:
   author:
     - family: Clark
       given: Martin
+  citation-key: clark1996a
   edition: '2'
   issued:
     - year: 1996
@@ -80,6 +87,7 @@ references:
   author:
     - family: Duggan
       given: Christopher
+  citation-key: duggan2008
   collection-title: A history of italy since 1796
   issued:
     - year: 2008
@@ -91,6 +99,7 @@ references:
   author:
     - family: Duggan
       given: Christopher
+  citation-key: duggan2008a
   container-title: The force of destiny
   ISBN: 978-0-14-101390-9
   issued:
@@ -105,6 +114,7 @@ references:
   author:
     - family: Gellately
       given: Robert
+  citation-key: gellately2007
   issued:
     - year: 2007
   publisher: Vintage
@@ -117,6 +127,7 @@ references:
       given: Helen
     - family: Preston
       given: Paul
+  citation-key: graham1987
   container-author:
     - family: Graham
       given: Helen
@@ -136,6 +147,7 @@ references:
       given: Helen
     - family: Preston
       given: Paul
+  citation-key: graham1987a
   issued:
     - year: 1987
   publisher: Macmillan
@@ -145,6 +157,7 @@ references:
 - id: hansard1937
   author:
     - literal: Hansard
+  citation-key: hansard1937
   issued:
     - year: 1937
       month: 11
@@ -159,6 +172,7 @@ references:
   author:
     - family: Offner
       given: A. A.
+  citation-key: offner1976
   DOI: 10.4159/harvard.9780674422919
   issued:
     - year: 1976
@@ -170,6 +184,7 @@ references:
   author:
     - family: Orwell
       given: George
+  citation-key: orwell2001
   issued:
     - year: 2001
   publisher: Penguin
@@ -180,6 +195,7 @@ references:
   author:
     - family: Peirats
       given: José
+  citation-key: peirats1990
   issued:
     - year: 1990
   publisher: Freedom Press
@@ -190,6 +206,7 @@ references:
   author:
     - family: Podmore
       given: Will
+  citation-key: podmore1998
   issued:
     - year: 1998
   publisher: Edwin Mellen Press
@@ -200,6 +217,7 @@ references:
   author:
     - family: Preston
       given: Paul
+  citation-key: preston1990
   issued:
     - year: 1990
   publisher: Weidenfeld & Nicolson
@@ -210,6 +228,7 @@ references:
   author:
     - family: Sugarman
       given: Martin
+  citation-key: sugarman2016
   container-title: Jewish Virtual Library
   issued:
     - year: 2016
@@ -223,6 +242,7 @@ references:
   author:
     - family: Thomas
       given: Hugh
+  citation-key: thomas1961
   issued:
     - year: 1961
   publisher: Eyre & Spottiswood
@@ -233,6 +253,7 @@ references:
   author:
     - family: Whealey
       given: Robert
+  citation-key: whealey1977
   container-title: Journal of Contemporary History
   DOI: 10.2307/260240
   issue: '1'

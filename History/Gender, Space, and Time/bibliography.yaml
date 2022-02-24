@@ -4,6 +4,7 @@ references:
   author:
     - family: Ainsworth
       given: Claire
+  citation-key: ainsworth2015
   container-title: Nature
   DOI: doi:10.1038/518288a
   issue: '518'
@@ -17,6 +18,7 @@ references:
     http://www.nature.com/polopoly_fs/1.16943!/menu/main/topColumns/topLeftColumn/pdf/518288a.pdf
 
 - id: bland1998
+  citation-key: bland1998
   container-title: Sexology uncensored
   editor:
     - family: Bland
@@ -32,6 +34,7 @@ references:
   URL: https://readings.bbk.ac.uk/readings/B/Bland1998Transexuality.pdf
 
 - id: bland1998a
+  citation-key: bland1998a
   collection-title: The documents of sexual science
   editor:
     - family: Bland
@@ -48,6 +51,7 @@ references:
 - id: childrensemploymentcommission1866
   author:
     - literal: Children's Employment Commission
+  citation-key: childrensemploymentcommission1866
   issued:
     - year: 1866
   title: Fifth Report
@@ -57,6 +61,7 @@ references:
   author:
     - family: Crawford
       given: Patricia
+  citation-key: crawford2001
   container-title: 'The Putney debates of 1647: the Army, the Levellers and the English State'
   editor:
     - family: Mendle
@@ -76,6 +81,7 @@ references:
   author:
     - family: Crenshaw
       given: Kimberlé
+  citation-key: crenshaw1989
   container-title: The University of Chicago Legal Forum
   issue: '140'
   issued:
@@ -92,6 +98,7 @@ references:
   author:
     - family: Darwin
       given: John
+  citation-key: darwin1997
   container-title: English Historical Review
   DOI: 10.1093/ehr/cxii.447.614
   issue: '447'
@@ -106,6 +113,7 @@ references:
   author:
     - family: Jeffreys
       given: Sheila
+  citation-key: jeffreys2005
   issued:
     - year: 2005
   title: 'Beauty and misogyny: Harmful cultural practices in the west'
@@ -122,6 +130,7 @@ references:
       suffix: ''
     - family: Blake
       given: Harry
+  citation-key: kristeva1981
   container-title: Signs
   DOI: 10.2307/3173503
   issue: '1'
@@ -136,6 +145,7 @@ references:
   author:
     - family: Law
       given: C. M.
+  citation-key: law1967
   container-title: Transactions of the Institute of British Geographers
   DOI: 10.2307/621331
   issue: '41'
@@ -149,6 +159,7 @@ references:
   author:
     - family: Levine
       given: Philippa
+  citation-key: levine2004
   event-place: Oxford
   ISBN: 0-19-924951-2
   issued:
@@ -165,6 +176,7 @@ references:
   author:
     - family: Mansell
       given: Wade
+  citation-key: mansell2015
   issued:
     - year: 2015
   publisher: Routledge, June
@@ -175,6 +187,7 @@ references:
   author:
     - family: Marston
       given: Sallie A
+  citation-key: marston2000
   container-title: Progress in Human Geography
   issue: '2'
   issued:
@@ -189,6 +202,7 @@ references:
   author:
     - family: Marx
       given: Karl
+  citation-key: marx1976
   event-place: London
   ISBN: 978-0-14-044568-8
   issued:
@@ -203,6 +217,7 @@ references:
   author:
     - family: McClintock
       given: Anne
+  citation-key: mcclintock1995
   event-place: London
   issued:
     - year: 1995
@@ -217,6 +232,7 @@ references:
       given: Linda
     - family: Massey
       given: Doreen
+  citation-key: mcdowell1984
   container-title: Geography matters! A reader
   editor:
     - family: Massey
@@ -235,6 +251,7 @@ references:
   author:
     - family: Metcalf
       given: Thomas R.
+  citation-key: metcalf1965
   event-place: London
   issued:
     - year: 1965
@@ -247,6 +264,7 @@ references:
   author:
     - family: Metcalf
       given: Thomas R
+  citation-key: metcalf1965a
   container-title: 'The aftermath of revolt: India 1857–1870'
   event-place: London
   issued:
@@ -261,6 +279,7 @@ references:
   author:
     - family: Metcalf
       given: Thomas R
+  citation-key: metcalf1965b
   collection-title: India 1857–1870
   event-place: London
   issued:
@@ -280,6 +299,7 @@ references:
       given: Linda
     - family: Hanson
       given: Susan
+  citation-key: nagar2002
   container-title: Economic Geography
   DOI: 10.2307/4140810
   issue: '3'
@@ -298,6 +318,7 @@ references:
   author:
     - family: Rai
       given: S M
+  citation-key: rai2013
   issued:
     - year: 2013
   title: >-
@@ -313,6 +334,7 @@ references:
       given: Catherine
     - family: Aune
       given: Kristin
+  citation-key: redfern2010
   container-title: Reclaiming the f word
   ISBN: 978-1-84813-394-5
   issued:
@@ -326,6 +348,7 @@ references:
   author:
     - family: Shanley
       given: Mary Lyndon
+  citation-key: shanley1993
   issued:
     - year: 1993
   publisher: Princeton University Press

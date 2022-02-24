@@ -6,6 +6,7 @@ references:
       given: J F A
     - family: Ekoko
       given: A E
+  citation-key: ajayi1988
   container-title: 'Decolonization and African independence: the transfers of power, 1960–1980'
   issued:
     - year: 1988
@@ -18,6 +19,7 @@ references:
   author:
     - family: Amin
       given: Shahid
+  citation-key: amin2012
   container-title: Selected subaltern studies
   editor:
     - family: Guha
@@ -35,6 +37,7 @@ references:
   author:
     - family: Arnold
       given: David
+  citation-key: arnold1988
   issued:
     - year: 1988
   title: Imperial medicine and indigenous societies
@@ -44,6 +47,7 @@ references:
   author:
     - family: Atmore
       given: A E
+  citation-key: atmore1985
   container-title: The cambridge history of africa
   DOI: 10.1017/CHOL9780521228039.003
   editor:
@@ -67,6 +71,7 @@ references:
   author:
     - family: Bayly
       given: Christopher A
+  citation-key: bayly1988
   container-title: Indian society and the making of the British Empire
   issued:
     - year: 1988
@@ -79,6 +84,7 @@ references:
   author:
     - family: Bayly
       given: Christopher A
+  citation-key: bayly1996
   ISBN: 978-0-521-66360-1
   issued:
     - year: 1996
@@ -94,6 +100,7 @@ references:
   author:
     - family: Bayly
       given: Christopher A
+  citation-key: bayly1996a
   container-title: >-
     Empire and information: Intelligence gathering and social communication in
     India
@@ -110,6 +117,7 @@ references:
   author:
     - family: Bozzoli
       given: Belinda
+  citation-key: bozzoli1983
   container-title: Journal of South African Studies
   DOI: 10.2307/2636298
   issue: '2'
@@ -126,6 +134,7 @@ references:
   author:
     - family: Bradford
       given: Helen
+  citation-key: bradford1996
   DOI: 10.1017/s0021853700035519
   issue: '3'
   issued:
@@ -138,6 +147,7 @@ references:
   volume: '37'
 
 - id: brown1999
+  citation-key: brown1999
   editor:
     - family: Brown
       given: Judith
@@ -157,6 +167,7 @@ references:
       given: P. J.
     - family: Hopkins
       given: A. G.
+  citation-key: cain1980
   container-title: Economic History Review
   DOI: 10.1111/j.1468-0289.1980.tb01171.x
   issue: '4'
@@ -171,6 +182,7 @@ references:
   author:
     - family: Cain
       given: Peter J
+  citation-key: cain1980a
   DOI: 10.1007/978-1-349-03591-5
   event-place: London
   ISBN: 978-1-349-03593-9
@@ -186,6 +198,7 @@ references:
   author:
     - family: Cain
       given: Peter J
+  citation-key: cain1980b
   container-title: Theoretical approaches
   DOI: 10.1007/978-1-349-03591-5_4
   event-place: London
@@ -203,6 +216,7 @@ references:
   author:
     - family: Cain
       given: Peter J
+  citation-key: cain1980c
   container-title: Economic foundations of british overseas expansion 1815–1914
   DOI: 10.1007/978-1-349-03591-5_7
   event-place: London
@@ -220,6 +234,7 @@ references:
   author:
     - family: Cain
       given: Peter J
+  citation-key: cain1980d
   container-title: Economic foundations of british overseas expansion 1815–1914
   DOI: 10.1007/978-1-349-03591-5_3
   event-place: London
@@ -237,6 +252,7 @@ references:
   author:
     - family: Cain
       given: Peter J
+  citation-key: cain1980e
   container-title: Economic foundations of british overseas expansion 1815–1914
   DOI: 10.1007/978-1-349-03591-5_2
   event-place: London
@@ -254,6 +270,7 @@ references:
   author:
     - family: Cain
       given: Peter J
+  citation-key: cain1980f
   container-title: Economic foundations of british overseas expansion 1815–1914
   DOI: 10.1007/978-1-349-03591-5_11
   event-place: London
@@ -273,6 +290,7 @@ references:
       given: P. J.
     - family: Hopkins
       given: A. G.
+  citation-key: cain1986
   container-title: Economic History Review
   DOI: 10.2307/2596481
   issue: '4'
@@ -291,6 +309,7 @@ references:
       given: P. J.
     - family: Hopkins
       given: A. G.
+  citation-key: cain1987
   container-title: Economic History Review
   DOI: 10.2307/2596293
   issue: '1'
@@ -307,6 +326,7 @@ references:
   author:
     - family: Catanach
       given: I J
+  citation-key: catanach1988
   container-title: Imperial medicine and indigenous societies
   issued:
     - year: 1988
@@ -320,6 +340,7 @@ references:
       given: Shelagh
     - family: Champion
       given: George
+  citation-key: champion1989
   ISBN: '095964829'
   issued:
     - year: 1989
@@ -332,6 +353,7 @@ references:
     Governor Phillip at Collins Cove.pdf
 
 - id: Chandravarkar:42-NDmrT
+  citation-key: Chandravarkar:42-NDmrT
   collection-title: Class, resistance and the state in india c.1850–1950
   title: Imperial power and popular politics
   type: book
@@ -340,6 +362,7 @@ references:
   author:
     - family: Chandravarkar
       given: R
+  citation-key: chandravarkar1998
   container-title: Imperial power and popular politics
   issued:
     - year: 1998
@@ -351,6 +374,7 @@ references:
   author:
     - family: Chandravarkar
       given: R
+  citation-key: chandravarkar1998a
   container-title: >-
     Imperial power and popular politics: class, resistance and the state in
     India, 1850–1950
@@ -369,6 +393,7 @@ references:
   author:
     - family: Clendinnen
       given: Inga
+  citation-key: clendinnen2002
   container-title: Australian Historical Studies
   DOI: 10.1080/10314610208596189
   issue: '118'
@@ -383,6 +408,7 @@ references:
   author:
     - family: Darwin
       given: John
+  citation-key: darwin1997
   container-title: English Historical Review
   DOI: 10.1093/ehr/cxii.447.614
   issue: '447'
@@ -397,6 +423,7 @@ references:
   author:
     - family: Darwin
       given: John
+  citation-key: darwin2013
   ISBN: 978-1-84614-089-1
   issued:
     - year: 2013
@@ -408,6 +435,7 @@ references:
   author:
     - family: Drescher
       given: Seymour
+  citation-key: drescher1994
   container-title: Past and Present
   DOI: 10.1093/past/143.1.136
   issued:
@@ -421,6 +449,7 @@ references:
   author:
     - family: Dubow
       given: Saul
+  citation-key: dubow2009
   container-title: Journal of Imperial and Commonwealth History
   DOI: 10.1080/03086530902757688
   issue: '1'
@@ -436,6 +465,7 @@ references:
   author:
     - family: Etherington
       given: Norman
+  citation-key: etherington1982
   container-title: History and Theory
   DOI: 10.2307/2505147
   issue: '1'
@@ -452,6 +482,7 @@ references:
   author:
     - family: Flint
       given: John E
+  citation-key: flint1999
   container-title: The Journal of Imperial and Commonwealth History
   DOI: 10.1080/03086539908583061
   issue: '2'
@@ -470,6 +501,7 @@ references:
       given: John
     - family: Robinson
       given: Ronald
+  citation-key: gallagher1953
   container-title: Economic History Review
   DOI: 10.2307/2591017
   issue: '1'
@@ -481,6 +513,7 @@ references:
   volume: '6'
 
 - id: gifford1988
+  citation-key: gifford1988
   editor:
     - family: Gifford
       given: Prosser
@@ -498,6 +531,7 @@ references:
   author:
     - family: Hobson
       given: J. A.
+  citation-key: hobson1902
   issued:
     - year: 1902
   title: Imperialism
@@ -507,6 +541,7 @@ references:
   author:
     - family: LaFeber
       given: Walter
+  citation-key: lafeber1967
   issued:
     - year: 1967
       month: 1
@@ -520,6 +555,7 @@ references:
   author:
     - family: Lenin
       given: Vladimir
+  citation-key: lenin1964
   container-title: Collected Works
   event-place: Moscow
   issued:
@@ -533,6 +569,7 @@ references:
   author:
     - family: Levine
       given: Philippa
+  citation-key: levine2007
   ISBN: 978-0-582-47281-5
   issued:
     - year: 2007
@@ -544,6 +581,7 @@ references:
   author:
     - family: Lonsdale
       given: J
+  citation-key: lonsdale1985
   DOI: 10.1017/CHOL9780521228039.016
   issued:
     - year: 1985
@@ -555,6 +593,7 @@ references:
   author:
     - family: Marshall
       given: Peter J
+  citation-key: marshall1975
   container-title: History
   DOI: 10.1111/j.1468-229x.1975.tb02027.x
   issue: '198'
@@ -569,6 +608,7 @@ references:
   author:
     - family: Marshall
       given: Peter J
+  citation-key: marshall1996
   container-title: 'South Asia: Journal of South Asian Studies'
   DOI: 10.1080/00856409608723256
   issue: '1'
@@ -580,6 +620,7 @@ references:
   volume: XIX
 
 - id: marshall1998
+  citation-key: marshall1998
   editor:
     - family: Marshall
       given: Peter J
@@ -598,6 +639,7 @@ references:
   author:
     - family: McCaskie
       given: T C
+  citation-key: mccaskie2012
   container-title: 'The Oxford history of the British Empire: volume III: the nineteenth century'
   editor:
     - family: Porter
@@ -613,6 +655,7 @@ references:
   author:
     - family: Metcalf
       given: Thomas R.
+  citation-key: metcalf1965
   event-place: London
   issued:
     - year: 1965
@@ -625,6 +668,7 @@ references:
   author:
     - family: Metcalf
       given: Thomas R
+  citation-key: metcalf1965a
   container-title: 'The aftermath of revolt: India 1857–1870'
   event-place: London
   issued:
@@ -639,6 +683,7 @@ references:
   author:
     - family: Morgan
       given: Philip D
+  citation-key: morgan2010
   container-title: Abolitionism and imperialism in britain, africa and the atlantic
   editor:
     - family: Peterson
@@ -659,6 +704,7 @@ references:
   author:
     - family: Nasson
       given: William R
+  citation-key: nasson2012
   container-title: Journal of Imperial and Commonwealth History
   DOI: 10.1080/03086538308582649
   issue: '1'
@@ -677,6 +723,7 @@ references:
   author:
     - family: O'Brien
       given: Patrick K
+  citation-key: obrien1988
   container-title: Economic History Review
   DOI: 10.2307/2597330
   issued:
@@ -688,6 +735,7 @@ references:
   volume: '41'
 
 - id: oliver1985
+  citation-key: oliver1985
   DOI: 10.1017/CHOL9780521228039
   editor:
     - family: Oliver
@@ -708,6 +756,7 @@ references:
   author:
     - family: Palmer
       given: William
+  citation-key: palmer2009
   container-title: The Historical Journal
   DOI: 10.1017/S0018246X09990410
   issue: '2009'
@@ -723,6 +772,7 @@ references:
   author:
     - family: Peires
       given: J B
+  citation-key: peires1987
   container-title: Journal of African History
   DOI: 10.1017/S0021853700029418
   issue: '1'
@@ -735,6 +785,7 @@ references:
   volume: '28'
 
 - id: peterson2010
+  citation-key: peterson2010
   editor:
     - family: Peterson
       given: D R
@@ -753,6 +804,7 @@ references:
   author:
     - family: Porter
       given: Bernard
+  citation-key: porter1984
   edition: '2'
   issued:
     - year: 1984
@@ -761,6 +813,7 @@ references:
   type: book
 
 - id: porter1999a
+  citation-key: porter1999a
   DOI: 10.1093/acprof:oso/9780198205654.001.0001
   editor:
     - family: Porter
@@ -778,6 +831,7 @@ references:
   author:
     - family: Ray
       given: Rajat Kanta
+  citation-key: ray1998
   container-title: 'The oxford history of the british empire: Volume II: The eighteenth century'
   editor:
     - family: Marshall
@@ -795,6 +849,7 @@ references:
   author:
     - family: Said
       given: Edward W
+  citation-key: said2014
   ISBN: 0-8041-5386-8
   issued:
     - year: 2014
@@ -808,6 +863,7 @@ references:
   author:
     - family: Sanderson
       given: G N
+  citation-key: sanderson1985
   container-title: The cambridge history of africa
   DOI: 10.1017/CHOL9780521228039.004
   editor:
@@ -831,6 +887,7 @@ references:
   author:
     - family: Satia
       given: P
+  citation-key: satia2007
   container-title: Past and Present
   DOI: 10.1093/pastj/gtm008
   issue: '1'
@@ -847,6 +904,7 @@ references:
   volume: '197'
 
 - id: storrs2002
+  citation-key: storrs2002
   editor:
     - family: Storrs
       given: Christopher
@@ -859,6 +917,7 @@ references:
   author:
     - family: Tench
       given: Watkin
+  citation-key: tench1961
   ISBN: 0-908120-24-9
   issued:
     - year: 1961
@@ -874,6 +933,7 @@ references:
   author:
     - family: Tench
       given: Watkin
+  citation-key: tench1961a
   container-title: >-
     Sydney's first four years. Being a reprint of a narrative of the expedition
     to Botany Bay and a complete account of the settlement at Port Jackson
@@ -889,6 +949,7 @@ references:
   author:
     - family: Travers
       given: Robert
+  citation-key: travers2007
   container-title: Journal of Imperial and Commonwealth History
   DOI: 10.1080/0308653042000329997
   issue: '1'
@@ -904,6 +965,7 @@ references:
   author:
     - family: Wagner
       given: Kim A
+  citation-key: wagner2011
   container-title: History Compass
   DOI: 10.1111/j.1478-0542.2011.00799.x
   issue: '10'
@@ -916,6 +978,7 @@ references:
   volume: '9'
 
 - id: youe2001
+  citation-key: youe2001
   editor:
     - family: Youé
       given: Chris
@@ -930,6 +993,7 @@ references:
   author:
     - family: Zachernuk
       given: P S
+  citation-key: zachernuk2001
   container-title: Agency and action in colonial Africa
   editor:
     - family: Youé

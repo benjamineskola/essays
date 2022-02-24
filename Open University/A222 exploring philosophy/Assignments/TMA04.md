@@ -30,14 +30,6 @@ Yet Popper’s view of scientific methodology brings with it some problems. For 
 
 Other critiques suggest that, while perhaps appealing, Popper’s account does not actually represent science as it is done in practice. Feyerabend, for example, argues that there is no single method that has been universally applied [in @chimisso2011 125].
 
-Neither Feyerabend nor Kuhn prove Popper’s account to be false; yet Popper purports not just to show a way in which knowledge *can* be acquired in a logically sound way, but the way in which it *is* acquired; he is not proposing a methodology which could be chosen in preference to but in parallel with Hume’s account, for example.
+Kuhn’s objection is similar. For Kuhn, emphasising a historical view of science as it has been carried out in practice, Popper’s account is taking unusual cases, of entire theories being disproven and discarded, as representative of the scientific process as a whole. While Popper accepts that scientists may remain ‘dogmatically’ attached to a theory and attempt to ‘rescue’ it when disproven, he treats this as an aberration. For Kuhn, on the other hand, ‘normal science’ does not attempt to disprove a theory. Rather, the work of science for the most part is to solve ‘puzzles’, by which he means ‘normal research problems’ for which ‘the outcome … can be anticipated’ but ‘the way to achieve that outcome remains very much in doubt’. This is to say that while the theory precedes the observation, as Popper claims, the work is primarily an attempt to confirm rather than to refute that theory. The problems ‘can be assumed to have solutions’; that is, a positive outcome is expected; and while eventually flaws in a theory might accumulate to such an extent it has to be discarded, this is not the normal aim of scientific research.
 
-<!--
-
-Aligning verification with dogmatism, versus the critical–scientific attitude: is this rather a moral critique?
-
-Hume: not strictly an objection since it predates, but has Popper actually disproved him? Perhaps his point is better made by Kuhn re: Popper not truly representing how people think.
-
-Kuhn: not strictly related to the question of observation. But perhaps relevant in the deeper sense that Popper is wrong about how scientific theories progress.
-
--->
+Neither Feyerabend nor Kuhn prove Popper’s account to be false; yet Popper purports not just to show a way in which knowledge *can* be acquired in a logically sound way, but the way in which it *is* acquired; he is not proposing a methodology which could be chosen in preference to but in parallel with Hume’s account, for example, but attempting to describe how science in fact works. Thus Popper’s account is brought into question, not as logically unsound but as irrelevant: it is an account of science perhaps as it ought to be done, but not as it in fact is. It is not clear, therefore, whether Popper has actually proven Hume wrong; it may well be the case that knowledge is gained inductively. In this case, perhaps the question lies in the semantics of ‘confirmation’ — observation may not ever allow a theory to be proven true in the deductive sense, but nevertheless provide enough confirmation for the scientific process to function.

@@ -6,6 +6,7 @@ references:
       given: Paul
     - family: Lombardozzi
       given: Lorena
+  citation-key: anand2019
   container-title: Economics in context
   editor:
     - family: Santos
@@ -54,6 +55,7 @@ references:
       given: Rosalind
     - family: Cookson
       given: Richard
+  citation-key: asaria2016
   container-title: Journal of Epidemiology & Community Health
   DOI: 10.1136/jech-2015-206742
   ISSN: 0143-005X
@@ -72,6 +74,7 @@ references:
   author:
     - family: Beckert
       given: Sven
+  citation-key: beckert2014
   issued:
     - year: 2014
   publisher: Vintage
@@ -82,6 +85,7 @@ references:
   author:
     - family: Harnetty
       given: Peter
+  citation-key: harnetty1972
   event-place: Manchester
   issued:
     - year: 1972
@@ -94,6 +98,7 @@ references:
   author:
     - family: Hayek
       given: Friedrich
+  citation-key: hayek2002
   container-title: Quarterly Journal of Austrian Economics
   container-title-short: Quart J Austrian Econ
   DOI: 10.1007/s12113-002-1029-0
@@ -114,6 +119,7 @@ references:
   author:
     - family: Hobsbawm
       given: Eric J
+  citation-key: hobsbawm1995
   issued:
     - year: 1995
   publisher: Weidenfeld & Nicholson
@@ -124,6 +130,7 @@ references:
   author:
     - family: Hobsbawm
       given: Eric J
+  citation-key: hobsbawm1999
   edition: Rev. edn.
   event-place: London
   issued:
@@ -137,6 +144,7 @@ references:
   author:
     - family: Okun
       given: Arthur
+  citation-key: okun1975
   event-place: Washington, D.C.
   issued:
     - year: 1975
@@ -153,6 +161,7 @@ references:
   author:
     - family: Rowlingson
       given: Karen
+  citation-key: rowlingson2011
   issued:
     - year: 2011
   publisher: Joseph Rowntree Foundation
@@ -165,6 +174,7 @@ references:
   author:
     - family: Schumpeter
       given: Joseph A
+  citation-key: schumpeter1943
   event-place: London
   issued:
     - year: 1943
@@ -177,6 +187,7 @@ references:
   author:
     - family: Szymborska
       given: Hanna K
+  citation-key: szymborska2019
   container-title: Economics in context
   editor:
     - family: Santos
@@ -207,6 +218,7 @@ references:
   author:
     - family: Szymborska
       given: Hanna K
+  citation-key: szymborska2019a
   container-title: Economics in context
   editor:
     - family: Santos
@@ -237,6 +249,7 @@ references:
   author:
     - family: Trigg
       given: Andrew
+  citation-key: trigg2019
   container-title: Economics in context
   editor:
     - family: Santos
@@ -267,6 +280,7 @@ references:
   author:
     - family: Westwood
       given: Clare
+  citation-key: westwood2008
   issued:
     - year: 2008
   publisher: New Internationalist
@@ -280,6 +294,7 @@ references:
       given: Richard
     - family: Pickett
       given: Kate
+  citation-key: wilkinson2009
   event-place: London
   issued:
     - year: 2009

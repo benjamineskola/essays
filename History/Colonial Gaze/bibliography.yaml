@@ -1,6 +1,7 @@
 ---
 references:
 - id: christensen1982
+  citation-key: christensen1982
   editor:
     - family: Christensen
       given: Torben
@@ -18,6 +19,7 @@ references:
   author:
     - family: Darch
       given: John H.
+  citation-key: darch2009
   event-place: Eugene, OR
   issued:
     - year: 2009
@@ -34,6 +36,7 @@ references:
       given: Harald
     - family: Mann
       given: Michael
+  citation-key: fischer-tine2004
   collection-title: Cultural ideology in british india
   ISBN: 1-84331-091-0
   issued:
@@ -47,6 +50,7 @@ references:
   author:
     - family: Goodman
       given: Jordan
+  citation-key: goodman2009
   event-place: London
   issued:
     - year: 2009
@@ -59,6 +63,7 @@ references:
   author:
     - family: Grant
       given: Kevin
+  citation-key: grant2005
   event-place: London
   issued:
     - year: 2005
@@ -70,6 +75,7 @@ references:
 - id: hansard1908
   author:
     - literal: Hansard
+  citation-key: hansard1908
   issued:
     - year: 1908
       month: 2
@@ -84,6 +90,7 @@ references:
   author:
     - family: Hansen
       given: Holger Bernt
+  citation-key: hansen1982
   container-title: Missionary ideologies in the imperialist era
   editor:
     - family: Christensen
@@ -102,6 +109,7 @@ references:
   author:
     - family: Howe
       given: S
+  citation-key: howe1993
   container-title: The left and the end of empire, 1918–1964
   ISBN: 978-0-19-820423-7
   issued:
@@ -116,6 +124,7 @@ references:
   author:
     - family: Howe
       given: Stephen
+  citation-key: howe2002
   DOI: 10.1093/acprof:oso/9780199249909.001.0001
   event-place: Oxford
   issued:
@@ -129,6 +138,7 @@ references:
   author:
     - family: Hung
       given: Ho-fung
+  citation-key: hung2003
   container-title: Sociological Theory
   DOI: 10.1111/1467-9558.00188
   issue: '3'
@@ -148,6 +158,7 @@ references:
   author:
     - family: Love
       given: Ronald S
+  citation-key: love1999
   container-title: International History Review
   DOI: 10.1080/07075332.1999.9640850
   issue: '1'
@@ -167,6 +178,7 @@ references:
   author:
     - family: MacAulay
       given: Thomas
+  citation-key: macaulay1835
   ISBN: '9780511627552'
   issued:
     - year: 1835
@@ -179,6 +191,7 @@ references:
   author:
     - family: McCulloch
       given: Jock
+  citation-key: mcculloch2004
   container-title: Gender and Empire
   event-place: Oxford
   issued:
@@ -192,6 +205,7 @@ references:
   author:
     - family: Metcalf
       given: Thomas R.
+  citation-key: metcalf1994
   event-place: Cambridge
   issued:
     - year: 1994
@@ -204,6 +218,7 @@ references:
   author:
     - family: Mill
       given: John Stuart
+  citation-key: mill2009
   DOI: 10.1017/CBO9781139149785
   event-place: Cambridge
   issued:
@@ -217,6 +232,7 @@ references:
   author:
     - family: Owen
       given: 'N'
+  citation-key: owen1998
   container-title: 'The oxford history of the british empire volume IV: The twentieth century'
   event-place: Oxford
   issued:
@@ -232,6 +248,7 @@ references:
   author:
     - family: Owen
       given: Nicholas
+  citation-key: owen2007
   DOI: 10.1093/acprof:oso/9780199233014.001.0001
   event-place: Oxford
   issued:
@@ -245,6 +262,7 @@ references:
   author:
     - family: Porter
       given: Andrew
+  citation-key: porter1997
   container-title: The Journal of Imperial and Commonwealth History
   DOI: 10.1080/03086539708583005
   issue: '3'
@@ -262,6 +280,7 @@ references:
   author:
     - family: Porter
       given: Andrew
+  citation-key: porter1999
   container-title: The Oxford history of the British empire
   editor:
     - family: Porter
@@ -279,6 +298,7 @@ references:
   author:
     - family: Porter
       given: Andrew
+  citation-key: porter2004
   event-place: Manchester
   issued:
     - year: 2004
@@ -291,6 +311,7 @@ references:
   author:
     - family: Said
       given: Edward W
+  citation-key: said2014
   ISBN: 0-8041-5386-8
   issued:
     - year: 2014
@@ -304,6 +325,7 @@ references:
   author:
     - family: Semmel
       given: Bernard
+  citation-key: semmel1960
   event-place: Cambridge
   issued:
     - year: 1960
@@ -317,6 +339,7 @@ references:
   author:
     - family: Stengers
       given: Jean
+  citation-key: stengers1985
   container-title: The Cambridge history of Africa
   DOI: 10.1017/CHOL9780521228039.009
   editor:
@@ -337,6 +360,7 @@ references:
   author:
     - family: Thompson
       given: Andrew S
+  citation-key: thompson1997
   container-title: Journal of British Studies
   DOI: 10.1086/386132
   issue: '2'
@@ -356,6 +380,7 @@ references:
   author:
     - family: Travers
       given: Robert
+  citation-key: travers2007
   container-title: Journal of Imperial and Commonwealth History
   DOI: 10.1080/0308653042000329997
   issue: '1'
@@ -371,6 +396,7 @@ references:
   author:
     - family: Webster
       given: John C. B.
+  citation-key: webster1982
   container-title: Missionary ideologies in the imperialist era
   editor:
     - family: Christensen
@@ -392,6 +418,7 @@ references:
   author:
     - family: Wood
       given: Ellen Meiksins
+  citation-key: wood2002
   event-place: London
   issued:
     - year: 2002
@@ -404,6 +431,7 @@ references:
   author:
     - family: Xavier
       given: Francis
+  citation-key: xavier1543
   issued:
     - year: 1543
   title: Letter from India to the Society of Jesus at Rome
