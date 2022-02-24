@@ -26,9 +26,13 @@ Thus a theory ‘all ravens are black’, as mentioned, cannot be reliably prove
 
 Popper considers that every observation of a black raven would be a corroboration: if a sufficiently large quantity of ravens have been observed, it appears increasingly unlikely that the theory is false, and it is thus increasingly valuable. But this is never provable deductively; these conclusions are only ever ‘tentative’, even if increasingly reliable.
 
-<!--
+Yet Popper’s view of scientific methodology brings with it some problems. For example, while he himself objected to the notion of ‘neutral’ observation, even using it as part of his rejection of the Baconian view, he does not seem to give full weight to the consequences of this (in effect, doing precisely what he accuses Hume of). A theory is tested by an observation; but that observation is itself impacted by any number of other theories that are taken for granted: it is *theory-laden* [@chimisso2011 123]. Popper purports to be providing not only a pragmatic heuristic for acquiring knowledge, as Hume did, but rather a logically sound principle; yet, when presented with a theory of unknown truth-value, and data which appears to corroborate or falsify that theory yet itself is of unknown provenance, Popper fails to justify his assertion that the data should simply be trusted [@chimisso2011 124].
 
-Observation: a problem Popper acknowledges but fails to solve.
+Other critiques suggest that, while perhaps appealing, Popper’s account does not actually represent science as it is done in practice. Feyerabend, for example, argues that there is no single method that has been universally applied [in @chimisso2011 125].
+
+Neither Feyerabend nor Kuhn prove Popper’s account to be false; yet Popper purports not just to show a way in which knowledge *can* be acquired in a logically sound way, but the way in which it *is* acquired; he is not proposing a methodology which could be chosen in preference to but in parallel with Hume’s account, for example.
+
+<!--
 
 Aligning verification with dogmatism, versus the critical–scientific attitude: is this rather a moral critique?
 
