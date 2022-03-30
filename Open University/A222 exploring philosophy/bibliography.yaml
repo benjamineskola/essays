@@ -104,6 +104,21 @@ references:
   title: An essay concerning human understanding
   type: book
 
+- id: matravers2011
+  author:
+    - family: Matravers
+      given: Derek
+  citation-key: matravers2011
+  ISBN: 978-1-84873-313-8
+  issued:
+    - year: 2011
+  language: English
+  note: 'OCLC: 783129183'
+  publisher: Open University
+  source: Open WorldCat
+  title: Mind
+  type: book
+
 - id: sinnott-armstrong2019
   author:
     - family: Sinnott-Armstrong
