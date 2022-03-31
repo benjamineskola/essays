@@ -104,6 +104,21 @@ references:
   title: An essay concerning human understanding
   type: book
 
+- id: matravers
+  accessed:
+    - year: 2022
+      month: 3
+      day: 31
+  author:
+    - family: Matravers
+      given: Derek
+    - family: Price
+      given: Carolyn
+  citation-key: matravers
+  title: Functionalism about the mind
+  type: song
+  URL: https://learn2.open.ac.uk/mod/repeatactivity/original.php?id=1788837
+
 - id: matravers2011
   author:
     - family: Matravers
