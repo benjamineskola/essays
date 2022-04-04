@@ -43,6 +43,34 @@ references:
   title: Knowledge
   type: book
 
+- id: clark1998
+  accessed:
+    - year: 2022
+      month: 4
+      day: 4
+  author:
+    - family: Clark
+      given: A.
+    - family: Chalmers
+      given: D.
+  citation-key: clark1998
+  container-title: Analysis
+  container-title-short: Analysis
+  DOI: 10.1093/analys/58.1.7
+  ISSN: 0003-2638, 1467-8284
+  issue: '1'
+  issued:
+    - year: 1998
+      month: 1
+      day: 1
+  language: en
+  page: 7-19
+  source: DOI.org (Crossref)
+  title: The Extended Mind
+  type: article-journal
+  URL: https://academic.oup.com/analysis/article-lookup/doi/10.1093/analys/58.1.7
+  volume: '58'
+
 - id: cottingham2008
   call-number: BD21 .W43 2008
   citation-key: cottingham2008
