@@ -475,7 +475,7 @@ references:
       month: 2
       day: 22
   title: Long Telegram
-  type: article
+  type: document
   URL: >-
     https://www.trumanlibrary.org/whistlestop/study_collections/coldwar/documents/pdf/6-6.pdf
 
@@ -884,7 +884,7 @@ references:
       day: 12
   title: President Harry S. Truman's address before a joint session of Congress
   title-short: Truman doctrine
-  type: article
+  type: document
   URL: http://avalon.law.yale.edu/20th_century/trudoc.asp
 
 - id: Wallace:Dmrp0uAN
@@ -913,7 +913,7 @@ references:
   title: >-
     “Achieving an atmosphere of mutual trust and confidence”: Henry A. Wallace
     offers an alternative to Cold War containment
-  type: article
+  type: document
   URL: http://historymatters.gmu.edu/d/6906/
 
 - id: weitz

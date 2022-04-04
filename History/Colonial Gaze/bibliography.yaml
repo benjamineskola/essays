@@ -185,7 +185,7 @@ references:
       month: 2
   publisher: Cambridge University Press
   title: Minute on education
-  type: article
+  type: document
 
 - id: mcculloch2004
   author:
@@ -435,5 +435,5 @@ references:
   issued:
     - year: 1543
   title: Letter from India to the Society of Jesus at Rome
-  type: article
+  type: document
 ...
