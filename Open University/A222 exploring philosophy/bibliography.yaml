@@ -162,6 +162,29 @@ references:
   title: Mind
   type: book
 
+- id: nagel1974
+  accessed:
+    - year: 2022
+      month: 4
+      day: 5
+  author:
+    - family: Nagel
+      given: Thomas
+  citation-key: nagel1974
+  container-title: The Philosophical Review
+  DOI: 10.2307/2183914
+  ISSN: 0031-8108
+  issue: '4'
+  issued:
+    - year: 1974
+  page: 435-450
+  publisher: '[Duke University Press, Philosophical Review]'
+  source: JSTOR
+  title: What Is It Like to Be a Bat?
+  type: article-journal
+  URL: http://www.jstor.org/stable/2183914
+  volume: '83'
+
 - id: sinnott-armstrong2019
   author:
     - family: Sinnott-Armstrong
@@ -188,4 +211,14 @@ references:
   source: Open WorldCat
   title: The self
   type: book
+
+- id: zotero-2729
+  accessed:
+    - year: 2022
+      month: 4
+      day: 5
+  citation-key: zotero-2729
+  title: What Is It Like to Be a Bat? on JSTOR
+  type: webpage
+  URL: https://www-jstor-org.libezproxy.open.ac.uk/stable/2183914?sid=primo&seq=1
 ...
