@@ -211,14 +211,4 @@ references:
   source: Open WorldCat
   title: The self
   type: book
-
-- id: zotero-2729
-  accessed:
-    - year: 2022
-      month: 4
-      day: 5
-  citation-key: zotero-2729
-  title: What Is It Like to Be a Bat? on JSTOR
-  type: webpage
-  URL: https://www-jstor-org.libezproxy.open.ac.uk/stable/2183914?sid=primo&seq=1
 ...
