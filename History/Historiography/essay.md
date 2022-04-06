@@ -21,7 +21,7 @@ Another book focussing more specifically on the British involvement in the Spani
 
 The book uses a wide range of sources, including the Public Record Office (now the National Archives) in London; the International Brigade Archives at Manchester Metropolitan University, the Marx Memorial Library, and Brandeis University in Massachusetts; as well as a range of individual collections held at other universities and collections. Of particular significance, however, is the use of the International Brigade Collection at the Russian Center for the Preservation and Study of Recent Historical Documents in Moscow, which had only recently become available when the book was written.
 
-As a work of intellectual history, there is also a wide range of secondary sources used — from other historical works on the Spanish Civil War, to more general histories like *The Oxford History of Britain* and E.P. Thompson’s *The Making of the English Working Class*, to contemporary works of fiction and non-fiction like the essays of Virginia Woolf and Jack London’s *The People of the Abyss*.
+As a work of intellectual history, there is also a wide range of secondary sources used — from other historical works on the Spanish Civil War, to more general histories like _The Oxford History of Britain_ and E.P. Thompson’s _The Making of the English Working Class_, to contemporary works of fiction and non-fiction like the essays of Virginia Woolf and Jack London’s _The People of the Abyss_.
 
 ## Causes
 

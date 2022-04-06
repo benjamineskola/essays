@@ -4,51 +4,50 @@ module: Economics in context
 
 # Part A
 
-1.  a.  Nominal wages are wages as expressed in terms of currency; i.e., the wages actually agreed in a labour contract. Real wages are the wages after changes to the cost of living are factored in, i.e., accounting for the varying rate of inflation, and would be expressed in relation to a particular year.
+1. a.  Nominal wages are wages as expressed in terms of currency; i.e., the wages actually agreed in a labour contract. Real wages are the wages after changes to the cost of living are factored in, i.e., accounting for the varying rate of inflation, and would be expressed in relation to a particular year.
 
-    b.  Wage inequality refers to the fact that workers may be paid differently based on sector, job role, skills or seniority, gender or ethnicity, or other factors. It may be measured in terms of the ratio between the highest and lowest wages, or the ratio between the wages of any two groups (e.g., the average wage of men versus the average wage of women).
+   b.  Wage inequality refers to the fact that workers may be paid differently based on sector, job role, skills or seniority, gender or ethnicity, or other factors. It may be measured in terms of the ratio between the highest and lowest wages, or the ratio between the wages of any two groups (e.g., the average wage of men versus the average wage of women).
 
-    c.  i.  One reason wages can vary with occupation is that more skilled occupations will have fewer qualified potential workers, i.e., a lower supply of labour, leading to a higher equilibrium wage for a given level of demand.
+   c.  i.  One reason wages can vary with occupation is that more skilled occupations will have fewer qualified potential workers, i.e., a lower supply of labour, leading to a higher equilibrium wage for a given level of demand.
 
-        ii. The table shows that year-on-year, nominal wages increased for every category of worker in almost all cases (only managers saw a decrease, between 2013 and 2015); that despite this, real wages did not always increase and in several cases decreased; and that consequently, the rate of inflation must have increased significantly in those years.
+       ii. The table shows that year-on-year, nominal wages increased for every category of worker in almost all cases (only managers saw a decrease, between 2013 and 2015); that despite this, real wages did not always increase and in several cases decreased; and that consequently, the rate of inflation must have increased significantly in those years.
 
-        iii. 
-               Managers   Professionals   Plant and machine operators and assemblers
-               ---------- --------------- --------------------------------------------
-               27.9%      35.2%           57.2%
+       iii. | Managers | Professionals | Plant and machine operators and assemblers |
+            |:---------|:--------------|:-------------------------------------------|
+            | 27.9%    | 35.2%         | 57.2%                                      |
 
-        iv. 
-              Managers   Professionals   Plant and machine operators and assemblers
-              ---------- --------------- --------------------------------------------
-              29.5%      38.5%           58.2%
+       iv. | Managers | Professionals | Plant and machine operators and assemblers |
+           |:---------|:--------------|:-------------------------------------------|
+           | 29.5%    | 38.5%         | 58.2%                                      |
 
-        For each occupation compared, primary occupation wages are a larger proportion of the compared wage in 2017 than in 2011; i.e., in each case, the wage gap has fallen slightly.
+       For each occupation compared, primary occupation wages are a larger proportion of the compared wage in 2017 than in 2011; i.e., in each case, the wage gap has fallen slightly.
 
 ```{=tex}
 \newpage
 ```
-2.  a.  
 
-      Year   Percentage share (%)
-      ------ ----------------------
-      2004   59.9
-      2005   59.2
-      2006   59.8
-      2007   60.3
-      2008   59.7
-      2009   61.3
-      2010   61.2
-      2011   59.6
-      2012   59.4
-      2013   58.9
-      2014   58.5
-      2015   57.7
-      2016   57.9
-      2017   58
+2. a.
 
-    b.  Over the studied period the income share of GDP varied between 57.7% and 61.3%, with an average of 59.4%. Over the entire period, the share fell 1.9 percentage points, but this was not a steady fall; rather, there was an increase (albeit unsteady) from 2004 to a peak in 2009, a total of 1.9 percentage points growth. This was followed by a steady decline by 3.6 percentage points over the following years until 2015, and subsequently a slight recovery (0.3 percentage points).
+   | Year | Percentage share (%) |
+   | :--- | :------------------- |
+   | 2004 | 59.9                 |
+   | 2005 | 59.2                 |
+   | 2006 | 59.8                 |
+   | 2007 | 60.3                 |
+   | 2008 | 59.7                 |
+   | 2009 | 61.3                 |
+   | 2010 | 61.2                 |
+   | 2011 | 59.6                 |
+   | 2012 | 59.4                 |
+   | 2013 | 58.9                 |
+   | 2014 | 58.5                 |
+   | 2015 | 57.7                 |
+   | 2016 | 57.9                 |
+   | 2017 | 58                   |
 
-        Comparing table 2 with table 1 shows that while the gap between the highest and lowest wages has decreased slightly, wages as a share of GDP have not increased, which might suggest that the decrease in inequality came about as a result of reducing the highest wages rather than increasing the lowest wages.
+   b.  Over the studied period the income share of GDP varied between 57.7% and 61.3%, with an average of 59.4%. Over the entire period, the share fell 1.9 percentage points, but this was not a steady fall; rather, there was an increase (albeit unsteady) from 2004 to a peak in 2009, a total of 1.9 percentage points growth. This was followed by a steady decline by 3.6 percentage points over the following years until 2015, and subsequently a slight recovery (0.3 percentage points).
+
+       Comparing table 2 with table 1 shows that while the gap between the highest and lowest wages has decreased slightly, wages as a share of GDP have not increased, which might suggest that the decrease in inequality came about as a result of reducing the highest wages rather than increasing the lowest wages.
 
 # Part B
 

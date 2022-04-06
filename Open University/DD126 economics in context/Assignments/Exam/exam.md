@@ -13,6 +13,7 @@ When the price ceiling p1 (the violet line) is set below the equilibrium price p
 ```{=tex}
 \newpage
 ```
+
 # Question 2
 
 > Explain how trade can promote success for economic agents. Describe one way in which trade might not always result in success.
@@ -26,6 +27,7 @@ However, as with many things in economics, Ricardo’s model of trade assumes id
 ```{=tex}
 \newpage
 ```
+
 # Question 4
 
 > Explain the role of trade unions in labour markets. Outline the advantages and disadvantages of trade unions in the success of labour.
