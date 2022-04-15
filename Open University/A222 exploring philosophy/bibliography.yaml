@@ -113,6 +113,21 @@ references:
   type: entry-encyclopedia
   URL: https://plato.stanford.edu/entries/consequentialism-rule/
 
+- id: hume1748
+  accessed:
+    - year: 2022
+      month: 4
+      day: 15
+  author:
+    - family: Hume
+      given: David
+  citation-key: hume1748
+  issued:
+    - year: 1748
+  title: Of the Original Contract
+  type: chapter
+  URL: https://davidhume.org/texts/empl2/oc
+
 - id: locke1997
   author:
     - family: Locke
