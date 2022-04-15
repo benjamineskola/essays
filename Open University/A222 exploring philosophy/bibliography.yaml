@@ -185,6 +185,21 @@ references:
   URL: http://www.jstor.org/stable/2183914
   volume: '83'
 
+- id: rawls1971
+  author:
+    - family: Rawls
+      given: John
+  call-number: JC578 .R38 1999
+  citation-key: rawls1971
+  ISBN: 978-0-674-00077-3 978-0-674-00078-0
+  issued:
+    - year: 1971
+  number-of-pages: '538'
+  publisher: Belknap Press of Harvard University Press
+  source: Library of Congress ISBN
+  title: A theory of justice
+  type: book
+
 - id: sinnott-armstrong2019
   author:
     - family: Sinnott-Armstrong
