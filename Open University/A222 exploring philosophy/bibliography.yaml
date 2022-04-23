@@ -1,5 +1,30 @@
 ---
 references:
+- id: anderson1999
+  accessed:
+    - year: 2022
+      month: 4
+      day: 23
+  author:
+    - family: Anderson
+      given: "Elizabeth\_S."
+  citation-key: anderson1999
+  container-title: Ethics
+  container-title-short: Ethics
+  DOI: 10.1086/233897
+  ISSN: 0014-1704, 1539-297X
+  issue: '2'
+  issued:
+    - year: 1999
+      month: 1
+  language: en
+  page: 287-337
+  source: DOI.org (Crossref)
+  title: What Is the Point of Equality?
+  type: article-journal
+  URL: https://www.journals.uchicago.edu/doi/10.1086/233897
+  volume: '109'
+
 - id: barber2011
   author:
     - family: Barber
