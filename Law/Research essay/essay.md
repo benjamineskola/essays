@@ -87,7 +87,7 @@ It is clear, when reviewing the case law, that there has been no shortage of att
 
 [^1]: Edward Bates, _The evolution of the European Convention on Human Rights_ (OUP 2010).
 
-[^2]: (1913) 23 Yale LJ 16, (1917) 27 Yale LJ 710; cited in Ian McLeod, _Legal Theory_ (2010).
+[^2]: \(1913) 23 Yale LJ 16, (1917) 27 Yale LJ 710; cited in Ian McLeod, _Legal Theory_ (2010).
 
 [^3]: [_McDonald’s Corporation v Steel & Morris_ \[1997\] EWHC QB 366](https://swarb.co.uk/mcdonalds-corporation-mcdonalds-restaurants-limited-v-steel-and-morris-ca-5-jan-1998/); [_Steel & Morris v United Kingdom_ \[2005\] ECHR 103](https://swarb.co.uk/steel-and-morris-v-united-kingdom-echr-15-feb-2005/).
 
