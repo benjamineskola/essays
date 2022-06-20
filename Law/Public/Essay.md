@@ -1,9 +1,10 @@
 ---
 date: 11 December 2017
-module: Public and constitutional law
 published: 2017-12-11
-tags: law, human rights
 title: Assess the proposition that the majority judgments in *Liversidge v Anderson* were wholly subversive of the principles both of the rule of law and the sovereignty of Parliament as Dicey would have understood them
+taxonomies:
+  module: [Public and constitutional law]
+  tags: [law, human rights]
 ---
 
 The ‘orthodox’ conception of Parliamentary sovereignty, as set out by AV Dicey, consisted of two propositions: that Parliament has the right to make or unmake any law, and that no other individual or body has the power to overrule any law made by Parliament. He likewise conceived of the rule of law as composed of several propositions: that punishment be only due for breaches of law established by the courts, and that everybody (including the government) is subject to the same laws.[^1]

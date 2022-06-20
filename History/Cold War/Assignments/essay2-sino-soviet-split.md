@@ -1,9 +1,10 @@
 ---
 date: 15 March 2016
-module: Global Cold War
 published: 2016-03-15
-tags: history, russia, china, cold war
 title: What were the consequences of the Sino-Soviet split for the Cold War?
+taxonomies:
+  module: [Global Cold War]
+  tags: [history, russia, china, cold war]
 ---
 
 The Sino-Soviet split was a period of worsening relations between the USSR and the People’s Republic of China, ostensibly over disagreements in their interpretation and implementation of Marxist theory. As such, it can be seen to have had consequences in in four main spheres: firstly, on Soviet and Chinese foreign policy towards one another; secondly, on Soviet and Chinese domestic policy; thirdly, on their foreign policy towards the USA and its allies; finally, on their foreign policy towards the global south. Naturally, there was overlap between these spheres; foreign interventions in the global south affected relations between the USSR and China and with the USA, while the domestic situation in each influenced and was influenced by its foreign policy. In particular, this essay will show that the split began a significant new phase of the Cold War, one of multipolar rather than bipolar international relations, and that this had long-term negative effects on the international socialist movement; indeed, it has been argued that the Sino-Soviet split was the ‘beginning of the end’ of the Cold War [@radchenko2009].

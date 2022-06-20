@@ -1,11 +1,12 @@
 ---
 date: 11 Dec 2014
-module: Europe, 1500–1800
 nocite: |
   @heller1996, @holt1993, @roberts2004, @rosa1998
 published: 2014-12-11
-tags: history, france, sixteenth century
 title: Has the role of religion in the French civil wars of the sixteenth century been exaggerated?
+taxonomies:
+  module: [Europe, 1500–1800]
+  tags: [history, france, sixteenth century]
 ---
 
 A number of causes have been proposed for the French Wars of Religion. The most obvious, as the name suggests, is simply religion. However, since the early 20th century, other analyses have been advanced, for example that of Henri Hauser in “The French Reformation and the French People in the Sixteenth Century” [@hauser1899]. In particular, an orthodox Marxist analysis would suggest that social factors are merely a façade for material factors, and thus that the Wars of Religion came about due to conflict between the crown, the established aristocracy, and the growing bourgeoisie. More recently, such analyses have been rejected as being deterministic and focused too narrowly on economic issues. Critics such as Mack P. Holt have tried to look more deeply at the nature of religion in the sixteenth century and to analyse the impact it may have had. This essay will look at the various factors that may have led to the wars, and attempt to determine the relative importance of each.
