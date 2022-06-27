@@ -118,7 +118,7 @@ references:
 - id: hobsbawm1995
   author:
     - family: Hobsbawm
-      given: Eric J
+      given: Eric J.
   citation-key: hobsbawm1995
   issued:
     - year: 1995
@@ -129,7 +129,7 @@ references:
 - id: hobsbawm1999
   author:
     - family: Hobsbawm
-      given: Eric J
+      given: Eric J.
   citation-key: hobsbawm1999
   edition: Rev. edn.
   event-place: London
