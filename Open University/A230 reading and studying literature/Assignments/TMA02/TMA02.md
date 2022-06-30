@@ -1,5 +1,5 @@
 ---
-date: 3 December 2020
+date: 2020-12-03
 module: Reading and studying literature
 title: Narrative techniques, linguistic features, and context of Voltaire’s *Candide*
 ---

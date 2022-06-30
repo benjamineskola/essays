@@ -1,5 +1,5 @@
 ---
-date: 13 June 2014
+date: 2014-06-13
 module: Europe from 1800
 nocite: |
   @kershaw2001a, @kershaw1993, @hobsbawm1994

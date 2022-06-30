@@ -1,5 +1,5 @@
 ---
-date: 5 March 2018
+date: 2018-03-05
 module: European law
 title: How has the relationship between national courts and the Court of Justice under Article 267 TFEU evolved over the years?
 ---

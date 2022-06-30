@@ -1,8 +1,7 @@
 ---
-date: 25 February 2021
+date: 2021-02-25
 nocite: |
   @doyle2010, @stevenson2008, @mcclintock1995
-published: 2021-02-25
 title: Reflections and critiques of Victorian domestic values in Doyle’s *The Sign of Four* and Stevenson’s *The Beach of Falesá*
 taxonomies:
   module: [Reading and studying literature]

@@ -1,5 +1,5 @@
 ---
-date: 4 April 2014
+date: 2014-04-04
 module: Europe from 1800
 result: 54% average with second essay
 title: How do you account for the failure of parliamentary democracy in Russia in 1917?

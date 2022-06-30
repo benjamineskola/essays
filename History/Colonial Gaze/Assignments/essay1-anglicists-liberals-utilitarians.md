@@ -1,5 +1,5 @@
 ---
-date: 8 December 2016
+date: 2016-12-08
 module: Colonial Gaze, 1600–1960
 nocite: |
   @fischer-tine2004, @wood2002, @said2014

@@ -1,5 +1,5 @@
 ---
-date: 5 November 2020
+date: 2020-11-05
 module: Reading and studying literature
 nocite: |
   @shakespeare2006

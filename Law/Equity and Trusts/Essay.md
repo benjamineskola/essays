@@ -1,5 +1,5 @@
 ---
-date: 6 November 2017
+date: 2017-11-06
 module: Equity and Trusts
 title: “Although there has been much debate and confusion in the past, the tests for certainty of objects are now clear and satisfactory.” Critically assess the validity of the above statement.
 ---

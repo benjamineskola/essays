@@ -1,5 +1,5 @@
 ---
-date: 19 February 2018
+date: 2018-02-19
 module: Land law
 title: “The case law concerning the acquisition and quantification of property rights in cases of the shared family home reveals neither a coherent conceptual basis for the applicable legal principles nor a convincing policy analysis of why the law takes its current form.” Discuss.
 ---

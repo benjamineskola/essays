@@ -1,6 +1,5 @@
 ---
-date: 8 December 2015
-published: 2015-12-08
+date: 2015-12-08
 title: To what extent can the United States in the twentieth century be described as an empire?
 taxonomies:
   module: [Global Cold War]

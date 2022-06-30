@@ -1,6 +1,5 @@
 ---
-date: 16 March 2015
-published: 2015-03-16
+date: 2015-03-16
 title: Why was the Swedish empire so short-lived?
 taxonomies:
   module: [Europe, 1500–1800]

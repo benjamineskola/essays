@@ -1,6 +1,5 @@
 ---
-date: 21 March 2017
-published: 2017-03-21
+date: 2017-03-21
 result: 63%
 title: Do you agree that the Soviet cultural policies of the 1930s were a retreat from socialism?
 taxonomies:

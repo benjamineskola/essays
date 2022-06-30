@@ -1,6 +1,5 @@
 ---
-date: 8 December 2016
-published: 2016-12-08
+date: 2016-12-08
 result: 50%
 title: “The 1917 Revolution was the inevitable outcome of the First World War”. Discuss.
 taxonomies:

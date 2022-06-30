@@ -1,6 +1,5 @@
 ---
-date: 2 April 2014
-published: 2014-04-02
+date: 2014-04-02
 result: 59%
 title: Did the Franco dictatorship emerge more from long-term internal Spanish conflicts, or as part of a ‘European Civil War’?
 taxonomies:

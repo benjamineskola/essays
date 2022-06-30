@@ -1,6 +1,5 @@
 ---
-date: 27 April 2017
-published: 2017-04-27
+date: 2017-04-27
 renderTOC: true
 title: "Free Trade and Imperialism: the cotton industry and British foreign policy, 1858–98"
 taxonomies:

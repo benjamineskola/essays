@@ -1,6 +1,5 @@
 ---
-date: 15 March 2016
-published: 2016-03-15
+date: 2016-03-15
 title: What were the consequences of the Sino-Soviet split for the Cold War?
 taxonomies:
   module: [Global Cold War]

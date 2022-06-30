@@ -1,6 +1,5 @@
 ---
-date: 21 March 2017
-published: 2017-03-21
+date: 2017-03-21
 title: Why, and through what means did revelations of atrocities in the Congo produce a ‘crisis of empire’ in the early twentieth century?
 taxonomies:
   module: [Colonial Gaze, 1600–1960]

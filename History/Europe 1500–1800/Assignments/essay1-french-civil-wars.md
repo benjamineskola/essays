@@ -1,8 +1,7 @@
 ---
-date: 11 Dec 2014
+date: 2014-12-11
 nocite: |
   @heller1996, @holt1993, @roberts2004, @rosa1998
-published: 2014-12-11
 title: Has the role of religion in the French civil wars of the sixteenth century been exaggerated?
 taxonomies:
   module: [Europe, 1500–1800]

@@ -1,6 +1,5 @@
 ---
-date: 14 May 2018
-published: 2018-05-14
+date: 2018-05-14
 renderTOC: true
 title: ‘The much heralded deployment of human rights in English law has had significant effects in many areas. In land law, however, the effects have been muted and, in truth, hardly noticeable.’ Discuss.
 taxonomies:

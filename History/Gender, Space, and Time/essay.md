@@ -1,6 +1,5 @@
 ---
-date: 15 March 2016
-published: 2016-03-15
+date: 2016-03-15
 result: 80%
 title: To what extent and in what ways is Imperialism gendered?
 taxonomies:
