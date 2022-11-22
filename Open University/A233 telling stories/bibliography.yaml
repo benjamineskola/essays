@@ -1,0 +1,384 @@
+---
+references:
+- id: anand2014
+  author:
+    - family: Anand
+      given: Mulk Raj
+  citation-key: anand2014
+  collection-title: Penguin classics
+  contributor:
+    - family: Guha
+      given: Ramachandra
+    - family: Forster
+      given: E. M.
+  edition: publ. in Penguin Classics
+  event-place: London
+  ISBN: 978-0-14-139360-5
+  issued:
+    - year: 2014
+  language: eng
+  number-of-pages: '144'
+  publisher: Penguin Books
+  publisher-place: London
+  source: K10plus ISBN
+  title: Untouchable
+  type: book
+
+- id: andersen2009
+  author:
+    - family: Andersen
+      given: H. C.
+  call-number: PT8116.E5 K46 2009
+  citation-key: andersen2009
+  collection-title: Oxford world's classics
+  editor:
+    - family: Kingsland
+      given: L. W.
+  event-place: Oxford ; New York
+  ISBN: 978-0-19-955585-7
+  issued:
+    - year: 2009
+  language: eng
+  note: 'OCLC: ocn317251464'
+  number-of-pages: '349'
+  publisher: Oxford University Press
+  publisher-place: Oxford ; New York
+  source: Library of Congress ISBN
+  title: 'Hans Andersen''s fairy tales: a selection'
+  title-short: Hans Andersen's fairy tales
+  type: book
+
+- id: armitage2009
+  citation-key: armitage2009
+  editor:
+    - family: Armitage
+      given: Simon
+  event-place: London; Boston
+  ISBN: 978-0-571-22328-2
+  issued:
+    - year: 2009
+  language: English
+  note: 'OCLC: 1138565121'
+  publisher: Faber and Faber
+  publisher-place: London; Boston
+  source: Open WorldCat
+  title: Sir Gawain and the Green Knight
+  type: book
+
+- id: blunden2010
+  author:
+    - family: Blunden
+      given: Edmund
+  citation-key: blunden2010
+  collection-title: Modern classics
+  contributor:
+    - family: Strachan
+      given: Hew
+  event-place: London
+  ISBN: 978-0-14-118436-4
+  issued:
+    - year: 2010
+  language: eng
+  number-of-pages: '233'
+  publisher: Penguin Books
+  publisher-place: London
+  source: K10plus ISBN
+  title: Undertones of War
+  type: book
+
+- id: carter2006
+  author:
+    - family: Carter
+      given: Angela
+  citation-key: carter2006
+  event-place: London
+  ISBN: 978-0-09-958811-5
+  issued:
+    - year: 2006
+  language: eng
+  number-of-pages: '149'
+  publisher: Vintage
+  publisher-place: London
+  source: K10plus ISBN
+  title: The bloody chamber and other stories
+  type: book
+
+- id: gaiman2019
+  author:
+    - family: Gaiman
+      given: Neil
+  call-number: PN6737.G3 S73 2019
+  citation-key: gaiman2019
+  contributor:
+    - family: Vess
+      given: Charles
+  event-place: Burbank, CA
+  ISBN: 978-1-4012-8784-9
+  issued:
+    - year: 2019
+  number-of-pages: '1'
+  publisher: DC Vertigo
+  publisher-place: Burbank, CA
+  source: Library of Congress ISBN
+  title: 'Stardust: being a romance within the Realms of Faerie'
+  title-short: Neil Gaiman & Charles Vess' Stardust
+  type: book
+
+- id: gibson2019
+  citation-key: gibson2019
+  editor:
+    - family: Gibson
+      given: Jonathan
+  ISBN: 978 1 4730 2493 9
+  issued:
+    - year: 2019
+  publisher: Open University Press
+  title: Realism
+  type: book
+
+- id: gibson2019a
+  author:
+    - family: Gibson
+      given: Jonathan
+  citation-key: gibson2019a
+  container-title: Realism
+  editor:
+    - family: Gibson
+      given: Jonathan
+  ISBN: 978 1 4730 2493 9
+  issued:
+    - year: 2019
+  publisher: Open University Press
+  title: 'Thomas Hardy, Far from the Madding Crowd: “A pastoral tale”?'
+  type: chapter
+
+- id: grimm2009
+  author:
+    - family: Grimm
+      given: Jacob
+    - family: Grimm
+      given: Wilhelm
+  call-number: PT921 .G6813 2009
+  citation-key: grimm2009
+  collection-title: Oxford World's Classics
+  event-place: New York
+  ISBN: 978-0-19-955558-1
+  issued:
+    - year: 2009
+  language: eng
+  number-of-pages: '344'
+  publisher: Oxford University Press
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: Selected tales
+  translator:
+    - family: Crick
+      given: Joyce
+  type: book
+
+- id: hardy1996
+  author:
+    - family: Hardy
+      given: Thomas
+  citation-key: hardy1996
+  collection-title: Wordsworth classics
+  edition: Reprinted
+  event-place: Ware, Hertfordshire
+  ISBN: 978-1-85326-269-2
+  issued:
+    - year: 1996
+  language: eng
+  number-of-pages: '14'
+  publisher: Wordsworth Editions
+  publisher-place: Ware, Hertfordshire
+  source: K10plus ISBN
+  title: Wessex tales
+  type: book
+
+- id: hardy2008
+  author:
+    - family: Hardy
+      given: Thomas
+  citation-key: hardy2008
+  contributor:
+    - family: Shires
+      given: Linda Marguerite
+  edition: Critical edn.
+  editor:
+    - family: Falck-Yi
+      given: Suzanne B.
+  ISBN: 978-0-19-953701-3
+  issued:
+    - year: 2008
+  language: eng
+  number-of-pages: '433'
+  publisher: Oxford University Press
+  source: K10plus ISBN
+  title: Far from the Madding Crowd
+  type: book
+
+- id: leguin2002
+  author:
+    - family: Le Guin
+      given: Ursula K.
+  citation-key: leguin2002
+  ISBN: 978-1-85798-882-6
+  issued:
+    - year: 2002
+  language: eng
+  number-of-pages: '318'
+  publisher: Gollancz
+  source: K10plus ISBN
+  title: The Dispossessed
+  type: book
+
+- id: perrault2010
+  author:
+    - family: Perrault
+      given: Charles
+  citation-key: perrault2010
+  collection-title: Oxford world's classics
+  contributor:
+    - family: Doré
+      given: Gustave
+  event-place: Oxford
+  ISBN: 978-0-19-958580-9
+  issued:
+    - year: 2010
+  language: eng
+  publisher: Oxford University Press
+  publisher-place: Oxford
+  source: BnF ISBN
+  title: The complete fairy tales
+  translator:
+    - family: Betts
+      given: Christopher J.
+  type: book
+
+- id: roy2009
+  author:
+    - family: Roy
+      given: Arundhati
+  citation-key: roy2009
+  event-place: London
+  ISBN: 978-0-00-655068-6
+  issued:
+    - year: 2009
+  language: eng
+  number-of-pages: '339'
+  publisher: Fourth Estate
+  publisher-place: London
+  source: K10plus ISBN
+  title: The god of small things
+  type: book
+
+- id: sassoon1985
+  author:
+    - family: Sassoon
+      given: Siegfried
+  citation-key: sassoon1985
+  edition: Repr
+  event-place: London
+  ISBN: 978-0-571-06410-6
+  issued:
+    - year: 1985
+  number-of-pages: '236'
+  publisher: Faber
+  publisher-place: London
+  source: K10plus ISBN
+  title: Memoirs of an infantry officer
+  type: book
+
+- id: shakespeare2008
+  author:
+    - family: Shakespeare
+      given: William
+  call-number: PR2833.A2 O74 2008
+  citation-key: shakespeare2008
+  collection-title: The Oxford Shakespeare
+  editor:
+    - family: Orgel
+      given: Stephen
+  event-place: Oxford ; New York
+  ISBN: 978-0-19-953590-3
+  issued:
+    - year: 2008
+  number-of-pages: '248'
+  publisher: Oxford University Press
+  publisher-place: Oxford ; New York
+  source: Library of Congress ISBN
+  title: The tempest
+  type: book
+
+- id: smith2002
+  author:
+    - family: Smith
+      given: Ali
+  call-number: 823.92 (oeuvre)
+  citation-key: smith2002
+  event-place: London
+  ISBN: 978-0-241-14109-0 978-0-14-029679-2
+  issued:
+    - year: 2002
+  language: eng
+  publisher: Penguin books
+  publisher-place: London
+  source: BnF ISBN
+  title: Hotel world
+  type: book
+
+- id: smith2018
+  author:
+    - family: Smith
+      given: Ali
+  citation-key: smith2018
+  collection-title: The canons
+  event-place: Edinburgh
+  ISBN: 978-1-78689-247-8
+  issued:
+    - year: 2018
+  language: eng
+  publisher: Canongate
+  publisher-place: Edinburgh
+  source: BnF ISBN
+  title: Girl meets boy
+  type: book
+
+- id: wharton2008
+  author:
+    - family: Wharton
+      given: Edith
+  call-number: PS3545.H16 A7 2008d
+  citation-key: wharton2008
+  editor:
+    - family: Orgel
+      given: Stephen
+  ISBN: 978-0-19-954001-3
+  issued:
+    - year: 2008
+  note: 'OCLC: ocn213452825'
+  number-of-pages: '265'
+  publisher: Oxford University Press
+  source: Library of Congress ISBN
+  title: The Age of Innocence
+  type: book
+
+- id: wharton2008a
+  author:
+    - family: Wharton
+      given: Edith
+  call-number: PS3545.H16 C8 2008b
+  citation-key: wharton2008a
+  editor:
+    - family: Orgel
+      given: Stephen
+  ISBN: 978-0-19-955512-3
+  issued:
+    - year: 2008
+  note: 'OCLC: ocn234297335'
+  number-of-pages: '378'
+  publisher: Oxford University Press
+  source: Library of Congress ISBN
+  title: The Custom of the Country
+  type: book
+...
