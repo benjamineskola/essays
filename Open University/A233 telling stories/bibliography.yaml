@@ -103,6 +103,43 @@ references:
   title: The bloody chamber and other stories
   type: book
 
+- id: davison2017
+  author:
+    - family: Davison
+      given: Carol Margaret
+    - family: Germanà
+      given: Monica
+  call-number: PR830.T3 S36 2017
+  citation-key: davison2017
+  container-title: 'Scottish Gothic: an Edinburgh companion'
+  event-place: Edinburgh
+  ISBN: 978-1-4744-0819-6
+  issued:
+    - year: 2017
+  note: 'OCLC: ocn980364256'
+  page: 1–13
+  publisher: Edinburgh University Press
+  publisher-place: Edinburgh
+  source: Library of Congress ISBN
+  title: Borderlands of identity and the aesthetics of disjuncture
+  type: chapter
+
+- id: doloughan2019
+  author:
+    - family: Doloughan
+      given: Fiona
+  citation-key: doloughan2019
+  container-title: Realism
+  editor:
+    - family: Gibson
+      given: Jonathan
+  ISBN: 978 1 4730 2493 9
+  issued:
+    - year: 2019
+  publisher: Open University Press
+  title: 'Ali Smith, *Hotel World*: In critical context'
+  type: chapter
+
 - id: gaiman2019
   author:
     - family: Gaiman
@@ -321,10 +358,9 @@ references:
   issued:
     - year: 2002
   language: eng
-  publisher: Penguin books
+  publisher: Penguin
   publisher-place: London
-  source: BnF ISBN
-  title: Hotel world
+  title: Hotel World
   type: book
 
 - id: smith2018
