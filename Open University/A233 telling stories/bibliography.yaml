@@ -140,6 +140,48 @@ references:
   title: 'Ali Smith, *Hotel World*: In critical context'
   type: chapter
 
+- id: donne2006
+  author:
+    - family: Donne
+      given: John
+    - family: Bell
+      given: Ilona
+  citation-key: donne2006
+  collection-title: Penguin Classics
+  edition: 1. publ
+  event-place: London
+  ISBN: 978-0-14-042440-9
+  issued:
+    - year: 2006
+  language: eng
+  number-of-pages: '290'
+  publisher: Penguin Books
+  publisher-place: London
+  source: K10plus ISBN
+  title: Selected English poems
+  type: book
+
+- id: donne2006a
+  author:
+    - family: Donne
+      given: John
+  citation-key: donne2006a
+  container-title: Selected English poems
+  editor:
+    - family: Bell
+      given: Ilona
+  event-place: London
+  ISBN: 978-0-14-042440-9
+  issued:
+    - year: 2006
+  language: eng
+  page: '33'
+  publisher: Penguin
+  publisher-place: London
+  source: K10plus ISBN
+  title: A Nocturnal upon St Lucy's Day, Being the Shortest Day
+  type: chapter
+
 - id: gaiman2019
   author:
     - family: Gaiman
