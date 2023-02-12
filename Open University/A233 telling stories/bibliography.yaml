@@ -117,6 +117,59 @@ references:
   URL: >-
     https://www.cambridge.org/core/product/identifier/CBO9781139000123A011/type/book_part
 
+- id: bownas2016
+  accessed:
+    - year: 2023
+      month: 2
+      day: 12
+  author:
+    - family: Bownas
+      given: Jane L.
+  citation-key: bownas2016
+  DOI: 10.4324/9781315551043
+  edition: '1'
+  ISBN: 978-1-315-55104-3
+  issued:
+    - year: 2016
+      month: 2
+      day: 24
+  language: en
+  publisher: Routledge
+  source: DOI.org (Crossref)
+  title: >-
+    Thomas Hardy and Empire: The Representation of Imperial Themes in the Work
+    of Thomas Hardy
+  title-short: Thomas Hardy and Empire
+  type: book
+  URL: https://www.taylorfrancis.com/books/9781317010456
+
+- id: bownas2016a
+  accessed:
+    - year: 2023
+      month: 2
+      day: 12
+  author:
+    - family: Bownas
+      given: Jane L.
+  citation-key: bownas2016a
+  container-title: >-
+    Thomas Hardy and Empire: The Representation of Imperial Themes in the Work
+    of Thomas Hardy
+  DOI: 10.4324/9781315551043
+  edition: '1'
+  ISBN: 978-1-315-55104-3
+  issued:
+    - year: 2016
+      month: 2
+      day: 24
+  language: en
+  page: 117–148
+  publisher: Routledge
+  source: DOI.org (Crossref)
+  title: 'The Crossing of Boundaries: Race, Class and Gender as Articulated Categories'
+  type: chapter
+  URL: https://www.taylorfrancis.com/books/9781317010456
+
 - id: brady1999
   accessed:
     - year: 2023
@@ -241,6 +294,35 @@ references:
   title: A Nocturnal upon St Lucy's Day, Being the Shortest Day
   type: chapter
 
+- id: ebbatson2010
+  accessed:
+    - year: 2023
+      month: 2
+      day: 12
+  author:
+    - family: Ebbatson
+      given: Roger
+  citation-key: ebbatson2010
+  container-title: A Companion to Thomas Hardy
+  DOI: 10.1002/9781444324211.ch11
+  editor:
+    - family: Wilson
+      given: Keith
+  event-place: Oxford, UK
+  ISBN: 978-1-4443-2421-1 978-1-4051-5668-4
+  issued:
+    - year: 2010
+      month: 6
+      day: 29
+  page: 162-177
+  publisher: Wiley-Blackwell
+  publisher-place: Oxford, UK
+  source: DOI.org (Crossref)
+  title: '“A Thickness of Wall”: Hardy and Class'
+  title-short: “A Thickness of Wall”
+  type: chapter
+  URL: https://onlinelibrary.wiley.com/doi/10.1002/9781444324211.ch11
+
 - id: gaiman2019
   author:
     - family: Gaiman
@@ -295,8 +377,10 @@ references:
     - family: Gibson
       given: Jonathan
   citation-key: gibson2023
+  container-title: 'Book Club forum: Wessex Tales'
   issued:
     - year: 2023
+  title: Characterisation
   type: post
   URL: >-
     https://learn2.open.ac.uk/mod/forumng/discuss.php?d=4251067&p=p29458147#p29458147
@@ -365,6 +449,62 @@ references:
   source: K10plus ISBN
   title: Far from the Madding Crowd
   type: book
+
+- id: higonnet2010
+  accessed:
+    - year: 2023
+      month: 2
+      day: 12
+  author:
+    - family: Higonnet
+      given: Margaret R.
+  citation-key: higonnet2010
+  container-title: A Companion to Thomas Hardy
+  DOI: 10.1002/9781444324211.ch8
+  editor:
+    - family: Wilson
+      given: Keith
+  event-place: Oxford, UK
+  ISBN: 978-1-4443-2421-1 978-1-4051-5668-4
+  issued:
+    - year: 2010
+      month: 6
+      day: 29
+  page: 117-129
+  publisher: Wiley-Blackwell
+  publisher-place: Oxford, UK
+  source: DOI.org (Crossref)
+  title: 'Hardy and his Critics: Gender in the Interstices'
+  title-short: Hardy and his Critics
+  type: chapter
+  URL: https://onlinelibrary.wiley.com/doi/10.1002/9781444324211.ch8
+
+- id: humm2013
+  accessed:
+    - year: 2023
+      month: 2
+      day: 12
+  author:
+    - family: Humm
+      given: Peter
+    - family: Stigant
+      given: Paul
+    - family: Widdowson
+      given: Peter
+  citation-key: humm2013
+  DOI: 10.4324/9781315015934
+  edition: '0'
+  ISBN: 978-1-136-49256-3
+  issued:
+    - year: 2013
+      month: 10
+      day: 8
+  language: en
+  publisher: Routledge
+  source: DOI.org (Crossref)
+  title: Popular Fictions
+  type: book
+  URL: https://www.taylorfrancis.com/books/9781136492563
 
 - id: leguin2002
   author:
@@ -529,4 +669,32 @@ references:
   source: Library of Congress ISBN
   title: The Custom of the Country
   type: book
+
+- id: widdowson1998
+  accessed:
+    - year: 2023
+      month: 2
+      day: 12
+  author:
+    - family: Widdowson
+      given: Peter
+  citation-key: widdowson1998
+  container-author:
+    - family: Widdowson
+      given: Peter
+  container-title: On Thomas Hardy
+  DOI: 10.1007/978-1-349-26279-3_3
+  event-place: London
+  ISBN: 978-0-333-67998-2 978-1-349-26279-3
+  issued:
+    - year: 1998
+  language: en
+  page: 27-44
+  publisher: Macmillan Education UK
+  publisher-place: London
+  source: DOI.org (Crossref)
+  title: 'Hardy in History: A Case-Study in the Sociology of Literature (1983)'
+  title-short: Hardy in History
+  type: chapter
+  URL: http://link.springer.com/10.1007/978-1-349-26279-3_3
 ...
