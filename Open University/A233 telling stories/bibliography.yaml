@@ -86,6 +86,65 @@ references:
   title: Undertones of War
   type: book
 
+- id: boumelha1999
+  accessed:
+    - year: 2023
+      month: 2
+      day: 12
+  author:
+    - family: Boumelha
+      given: Penny
+  citation-key: boumelha1999
+  container-title: The Cambridge Companion to Thomas Hardy
+  DOI: 10.1017/CCOL0521562023.008
+  edition: '1'
+  editor:
+    - family: Kramer
+      given: Dale
+  ISBN: 978-0-521-56202-7 978-0-521-56692-6 978-1-139-00012-3
+  issued:
+    - year: 1999
+      month: 6
+      day: 24
+  page: 130-144
+  publisher: Cambridge University Press
+  source: DOI.org (Crossref)
+  title: >-
+    The patriarchy of class: Under the Greenwood Tree, Far from the Madding
+    Crowd, The Woodlanders
+  title-short: The patriarchy of class
+  type: chapter
+  URL: >-
+    https://www.cambridge.org/core/product/identifier/CBO9781139000123A011/type/book_part
+
+- id: brady1999
+  accessed:
+    - year: 2023
+      month: 2
+      day: 12
+  author:
+    - family: Brady
+      given: Kristin
+  citation-key: brady1999
+  container-title: The Cambridge Companion to Thomas Hardy
+  DOI: 10.1017/CCOL0521562023.006
+  edition: '1'
+  editor:
+    - family: Kramer
+      given: Dale
+  ISBN: 978-0-521-56202-7 978-0-521-56692-6 978-1-139-00012-3
+  issued:
+    - year: 1999
+      month: 6
+      day: 24
+  page: 93-111
+  publisher: Cambridge University Press
+  source: DOI.org (Crossref)
+  title: Thomas Hardy and matters of gender
+  type: chapter
+  URL: >-
+    https://www.cambridge.org/core/product/identifier/CBO9781139000123A009/type/book_part
+
 - id: carter2006
   author:
     - family: Carter
@@ -230,6 +289,17 @@ references:
   publisher: Open University Press
   title: 'Thomas Hardy, Far from the Madding Crowd: “A pastoral tale”?'
   type: chapter
+
+- id: gibson2023
+  author:
+    - family: Gibson
+      given: Jonathan
+  citation-key: gibson2023
+  issued:
+    - year: 2023
+  type: post
+  URL: >-
+    https://learn2.open.ac.uk/mod/forumng/discuss.php?d=4251067&p=p29458147#p29458147
 
 - id: grimm2009
   author:
