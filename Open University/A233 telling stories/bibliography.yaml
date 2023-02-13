@@ -65,6 +65,25 @@ references:
   title: Sir Gawain and the Green Knight
   type: book
 
+- id: bennett
+  author:
+    - family: Bennett
+      given: Tony
+  citation-key: bennett
+  container-title: Popular Fictions
+  editor:
+    - family: Humm
+      given: Peter
+    - family: Stigant
+      given: Paul
+    - family: Widdowson
+      given: Peter
+  language: en
+  page: 237–265
+  source: Zotero
+  title: Marxism and popular fiction
+  type: chapter
+
 - id: blunden2010
   author:
     - family: Blunden
@@ -235,6 +254,34 @@ references:
   source: Library of Congress ISBN
   title: Borderlands of identity and the aesthetics of disjuncture
   type: chapter
+
+- id: devine2013
+  accessed:
+    - year: 2023
+      month: 2
+      day: 13
+  author:
+    - family: Devine
+      given: Christine
+  citation-key: devine2013
+  container-title: Thomas Hardy in Context
+  DOI: 10.1017/CBO9781139048095.022
+  edition: '1'
+  editor:
+    - family: Mallett
+      given: Phillip
+  ISBN: 978-1-139-04809-5 978-0-521-19648-2 978-1-107-45421-7
+  issued:
+    - year: 2013
+      month: 3
+      day: 18
+  page: 167-176
+  publisher: Cambridge University Press
+  source: DOI.org (Crossref)
+  title: Hardy and Social Class
+  type: chapter
+  URL: >-
+    https://www.cambridge.org/core/product/identifier/9781139048095%23c19648-15-1/type/book_part
 
 - id: doloughan2019
   author:
