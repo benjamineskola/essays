@@ -44,8 +44,8 @@ references:
   publisher: Oxford University Press
   publisher-place: Oxford ; New York
   source: Library of Congress ISBN
-  title: 'Hans Andersen''s fairy tales: a selection'
-  title-short: Hans Andersen's fairy tales
+  title: 'Hans Andersen''s Fairy Tales: A Selection'
+  title-short: Hans Andersen's Fairy Tales
   type: book
 
 - id: armitage2009
@@ -129,7 +129,7 @@ references:
   publisher: Cambridge University Press
   source: DOI.org (Crossref)
   title: >-
-    The patriarchy of class: Under the Greenwood Tree, Far from the Madding
+    The patriarchy of class: Under the Greenwood Tree, Far From the Madding
     Crowd, The Woodlanders
   title-short: The patriarchy of class
   type: chapter
@@ -185,7 +185,7 @@ references:
   page: 117–148
   publisher: Routledge
   source: DOI.org (Crossref)
-  title: 'The Crossing of Boundaries: Race, Class and Gender as Articulated Categories'
+  title: 'The crossing of boundaries: race, class and gender as articulated categories'
   type: chapter
   URL: https://www.taylorfrancis.com/books/9781317010456
 
@@ -231,7 +231,7 @@ references:
   publisher: Vintage
   publisher-place: London
   source: K10plus ISBN
-  title: The bloody chamber and other stories
+  title: The Bloody Chamber and Other Stories
   type: book
 
 - id: davison2017
@@ -278,7 +278,7 @@ references:
   page: 167-176
   publisher: Cambridge University Press
   source: DOI.org (Crossref)
-  title: Hardy and Social Class
+  title: Hardy and social class
   type: chapter
   URL: >-
     https://www.cambridge.org/core/product/identifier/9781139048095%23c19648-15-1/type/book_part
@@ -365,8 +365,8 @@ references:
   publisher: Wiley-Blackwell
   publisher-place: Oxford, UK
   source: DOI.org (Crossref)
-  title: '“A Thickness of Wall”: Hardy and Class'
-  title-short: “A Thickness of Wall”
+  title: '“A thickness of wall”: Hardy and class'
+  title-short: “A thickness of wall”
   type: chapter
   URL: https://onlinelibrary.wiley.com/doi/10.1002/9781444324211.ch11
 
@@ -416,7 +416,7 @@ references:
   issued:
     - year: 2019
   publisher: Open University Press
-  title: 'Thomas Hardy, *Far from the Madding Crowd*: “A pastoral tale”?'
+  title: 'Thomas Hardy, *Far From the Madding Crowd*: “A pastoral tale”?'
   type: chapter
 
 - id: gibson2019b
@@ -433,7 +433,7 @@ references:
     - year: 2019
   publisher: Open University Press
   title: >-
-    Thomas Hardy, *Far from the Madding Crowd*: Realism, serialisation and
+    Thomas Hardy, *Far From the Madding Crowd*: Realism, serialisation and
     criticism
   type: chapter
 
@@ -468,7 +468,7 @@ references:
   publisher: Oxford University Press
   publisher-place: New York
   source: Library of Congress ISBN
-  title: Selected tales
+  title: Selected Tales
   translator:
     - family: Crick
       given: Joyce
@@ -490,7 +490,7 @@ references:
   publisher: Wordsworth Editions
   publisher-place: Ware, Hertfordshire
   source: K10plus ISBN
-  title: Wessex tales
+  title: Wessex Tales
   type: book
 
 - id: hardy2008
@@ -512,7 +512,7 @@ references:
   number-of-pages: '433'
   publisher: Oxford University Press
   source: K10plus ISBN
-  title: Far from the Madding Crowd
+  title: Far From the Madding Crowd
   type: book
 
 - id: higonnet2010
@@ -539,8 +539,8 @@ references:
   publisher: Wiley-Blackwell
   publisher-place: Oxford, UK
   source: DOI.org (Crossref)
-  title: 'Hardy and his Critics: Gender in the Interstices'
-  title-short: Hardy and his Critics
+  title: 'Hardy and his critics: gender in the interstices'
+  title-short: Hardy and his critics
   type: chapter
   URL: https://onlinelibrary.wiley.com/doi/10.1002/9781444324211.ch8
 
@@ -603,7 +603,7 @@ references:
   publisher: Oxford University Press
   publisher-place: Oxford
   source: BnF ISBN
-  title: The complete fairy tales
+  title: The Complete Fairy Tales
   translator:
     - family: Betts
       given: Christopher J.
@@ -623,7 +623,7 @@ references:
   publisher: Fourth Estate
   publisher-place: London
   source: K10plus ISBN
-  title: The god of small things
+  title: The God of Small Things
   type: book
 
 - id: sassoon1985
@@ -640,7 +640,7 @@ references:
   publisher: Faber
   publisher-place: London
   source: K10plus ISBN
-  title: Memoirs of an infantry officer
+  title: Memoirs of an Infantry Officer
   type: book
 
 - id: shakespeare2008
@@ -661,7 +661,7 @@ references:
   publisher: Oxford University Press
   publisher-place: Oxford ; New York
   source: Library of Congress ISBN
-  title: The tempest
+  title: The Tempest
   type: book
 
 - id: smith2002
@@ -694,7 +694,7 @@ references:
   publisher: Canongate
   publisher-place: Edinburgh
   source: BnF ISBN
-  title: Girl meets boy
+  title: Girl Meets Boy
   type: book
 
 - id: wharton2008
@@ -758,8 +758,8 @@ references:
   publisher: Macmillan Education UK
   publisher-place: London
   source: DOI.org (Crossref)
-  title: 'Hardy in History: A Case-Study in the Sociology of Literature (1983)'
-  title-short: Hardy in History
+  title: 'Hardy in history: a case-study in the sociology of literature'
+  title-short: Hardy in history
   type: chapter
   URL: http://link.springer.com/10.1007/978-1-349-26279-3_3
 ...
