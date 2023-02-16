@@ -1,7 +1,5 @@
 ---
 title: Gender and class in Hardy’s _Far From the Madding Crowd_ and _Wessex Tales_.
-nocite: |
-  @brady1999, @boumelha1999, @higonnet2010, @ebbatson2010
 ---
 
 The critic Peter Widdowson has argued that ‘the vast majority of Hardy’s main characters are in an unstable class position’ [quoted in @gibson2023]. A regular pattern can be seen supporting this: a character who crosses class boundaries upwards or downwards (or both, as with Gabriel Oak), or whose class is ill-defined or contingent (as, perhaps, Francis Troy, only half-aristocratic), or otherwise does not strictly meet a narrow definition of class expectations. Perhaps comparably, Hardy’s fiction also contains a number of examples of women whose position does not fully align with social expectations, or who are portrayed in a way that might seem to challenge those expectations or preconceptions. On the other hand Hardy’s writing also appears frequently to betray his own preconceptions about gender, even if they may have conflicted with his own personal beliefs. This essay will examine some examples of these marginal characters across Hardy’s novel _Far From the Madding Crowd_ [@hardy2008], and his collection of short stories, _Wessex Tales_ [@hardy1996].
@@ -22,4 +20,44 @@ The other significant female character in _Far From the Madding Crowd_ is Fanny 
 
 In _Wessex Tales_ questions of class and gender factor in once more. For example, in ‘The Withered Arm’, the class positions of the principle characters seem central, as well as the gender relations inherent. The two characters are introduced in the first section: Farmer Lodge, referred to by his title, and Rhoda Brook. She works in the dairy, while he, if not owning the dairy, at least owns the herd being milked. Their past relationship, it seems, is widely known and whispered about by her coworkers, and she makes no secret of it to their son. Lodge, we are informed, has recently married, and Rhoda Brook is expected to take it badly.
 
-However, Lodge himself is not a focal character in the story.
+However, Lodge himself is not a focal character in the story; rather, most of the action centres around Rhoda Brook and the new Mrs Lodge; and here the balance of power seems reversed. Gertrude Lodge and Rhoda Brook quickly become friends despite Rhoda’s history with Mr Lodge (of which Gertrude is apparently unaware); moreover, Gertrude relies on Rhoda’s assistance with her mysterious illness. Yet, despite the class divide, the story ends with Lodge and Rhoda being brought together again by the execution of their (illegitimate) son, to the exclusion of Gertrude. The apparent class contradiction with which the story began has been overcome, perhaps by their shared grief — to the detriment of Gertrude Lodge.
+
+Details of class appear in ‘The Three Strangers’, too, though here it is the lack of conflict which might be of interest. The story begins with a party, thrown by a shepherd, to which various neighbours are invited; the narrator informs us of the ‘serenity’ brought about by the lack of any wish to ‘get on in the world’ (p. 4–5). This seems like a suggestion of the virtue of working-class people who know their place and are happy in it; it might easily be read as criticism of middle-class competitiveness at the expense of others, and has parallels in the virtuousness of working-class characters in _Far From the Madding Crowd_. Yet there is also something perhaps patronising about it, coming from a middle-class writer; an implicit criticism of those working-class people who are _not_ satisfied with their place. Early-19th-century Dorset, after all, was the centre of a highly-controversial conflict over workers’ rights, right around the time this story was set: Tolpuddle, home of the Tolpuddle Martyrs, would have been only a few miles from the setting of _Far from the Madding Crowd_. As with his attitude towards women noted above, it suggests perhaps a writer whose liberal-mindedness reaches its limits, extending only so far as working-class people deemed appropriately deserving.
+
+## Part A
+
+### Introductory post
+
+> I found it a little difficult to decide on a Book Club text. I think Far From the Madding Crowd was my favourite of the books so far, along with Hotel World; but I didn't really want to write two essays in a row on Ali Smith; and on the other hand I wasn't sure if I'd find short stories as interesting to study as a novel. But I think getting deeper into Hardy's work was the right choice after all.
+>
+> Something that interests me is the way the historical context shapes a work: the ideologies taken for granted by the author and so on, and what it can tell us about the time and place in which the author was writing. I mentioned elsewhere that Hardy's views on gender had sparked some curiosity in me, but I'm also interested in class (and for example how that relates to Victorian ideas of charity) and empire (though I'm not sure whether there's much of that in Hardy).
+>
+> Something that's stood out to me so far about Wessex Tales is Hardy's attention to the landscape. Right from the first stories: The Three Strangers doesn't really depend at all on location beyond being somewhat out of town and rather remote, but Hardy seems to want us to have a detailed picture of the hillside cottage; likewise in Eighteen Hundred and Four where it's only necessary that it take place near the coast but we still hear about the trouble they had growing vegetables, in such an exposed location. It strikes me that without that, this could just be a generic collection of folktales, which happen somewhere unspecified and perhaps imaginary. But, as mentioned in, I think, the editor's introduction to Far From the Madding Crowd, there seems to be a desire to show that Wessex and the people of Wessex have value and importance — it's the place that matters, to some extent.
+
+<https://learn2.open.ac.uk/mod/forumng/discuss.php?d=4251061#p29468329>
+
+### Post 1
+
+> I can see an argument for ‘unstable’ class positions in (the early part of) _Wessex Tales._ For example in ‘Three Strangers’, one of the (invited) guests is also the local constable and is therefore, one might assume, in a position of respect and authority. But when it comes time to actually act, he doesn’t appear very comfortable with the role, he doesn’t really know the right ways to make his actions official and has to be reminded of them, and so on.
+>
+> And then Dr Grove in ‘Melancholy Hussar’ is a professional man, in theory putting him in a class above most of his neighbours — but he’s also unable to make enough money to afford to live in a town and instead has rented some isolated farm. His class position is undermined by his poverty (and so ultimately by his own doing).
+>
+> And so perhaps Phyllis is in a doubly-unstable position as a woman — she doesn’t have the freedom to act to change her own position that she might if she’d been male, and whatever marriage prospects she might have had as a doctor’s daughter are limited by his poverty (as well as by the physical isolation).
+
+<https://learn2.open.ac.uk/user/view.php?id=465272&course=212834>
+
+### Post 2
+
+(Regarding nature versus nurture.)
+
+> My feeling is that there's a little of both. Some flaws are part of a character's nature, and to an extent should be forgiven (I think this is how he seems to feel about Bathsheba's femininity, for example). And other flaws are presented less forgivingly — I think Troy's are among them; there seems to be a sense that he could have chosen to be a better person but didn't. But then it's not really clear whether that came truly from nature (and Victorians generally believed in things like moral character having a basis in ancestry, I think) or from his upbringing.
+>
+> (For example, to your point about military career, I wonder if Oak conscripting would have been rather more respectable and practical, whereas Troy, with a upper-class background and education, was commissioned as an officer in a flashy cavalry regiment — style versus substance, and the moral implications of that.)
+
+<https://learn2.open.ac.uk/mod/forumng/discuss.php?d=4251067#p29455880>
+
+### Post 3
+
+> There's a parallel there with 'Melancholy Hussar': in both cases it's something that happened to someone else, when they were young, which they then reported to the author some time in the past, which the author is then repeating in the present, after the death of the character. I think it's most striking in '1804' which has that frame-narrative of Solomon Selby telling it in the pub, but 'Hussar' does at least include that explanation of how the author learned the story. (And in both cases there's a sense of the original storyteller being disbelieved or misrepresented and the author wanting to set things straight somehow — but that's getting more off the subject of time, again.)
+
+<https://learn2.open.ac.uk/mod/forumng/discuss.php?d=4251064#p29477094>
