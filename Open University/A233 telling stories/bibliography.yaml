@@ -217,6 +217,34 @@ references:
   URL: >-
     https://www.cambridge.org/core/product/identifier/CBO9781139000123A009/type/book_part
 
+- id: brown2019
+  citation-key: brown2019
+  editor:
+    - family: Brown
+      given: Richard Danson
+  ISBN: 978 1 4730 2493 9
+  issued:
+    - year: 2019
+  publisher: Open University Press
+  title: The Fantastic
+  type: book
+
+- id: brown2019a
+  author:
+    - family: Brown
+      given: Richard Danson
+  citation-key: brown2019a
+  container-title: The Fantastic
+  editor:
+    - family: Brown
+      given: Richard Danson
+  ISBN: 978 1 4730 2493 9
+  issued:
+    - year: 2019
+  publisher: Open University Press
+  title: '*Sir Gawain and the Green Knight*: Otherworlds and interpretations'
+  type: chapter
+
 - id: carter2006
   author:
     - family: Carter
