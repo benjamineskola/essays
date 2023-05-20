@@ -65,6 +65,22 @@ references:
   title: Sir Gawain and the Green Knight
   type: book
 
+- id: benatti2019
+  author:
+    - family: Benatti
+      given: Francesca
+  citation-key: benatti2019
+  container-title: The Fantastic
+  editor:
+    - family: Brown
+      given: Richard Danson
+  ISBN: 978 1 4730 2493 9
+  issued:
+    - year: 2019
+  publisher: Open University Press
+  title: 'Neil Gaiman and Charles Vess, *Stardust*: Images and Text'
+  type: chapter
+
 - id: bennett
   author:
     - family: Bennett
@@ -598,6 +614,38 @@ references:
   title: Popular Fictions
   type: book
   URL: https://www.taylorfrancis.com/books/9781136492563
+
+- id: johnson2019
+  author:
+    - family: Johnson
+      given: David
+  citation-key: johnson2019
+  container-title: The Fantastic
+  editor:
+    - family: Brown
+      given: Richard Danson
+  ISBN: 978 1 4730 2493 9
+  issued:
+    - year: 2019
+  publisher: Open University Press
+  title: 'Ursula Le Guin, *The Dispossessed*: Author and critic'
+  type: chapter
+
+- id: johnson2019a
+  author:
+    - family: Johnson
+      given: David
+  citation-key: johnson2019a
+  container-title: The Fantastic
+  editor:
+    - family: Brown
+      given: Richard Danson
+  ISBN: 978 1 4730 2493 9
+  issued:
+    - year: 2019
+  publisher: Open University Press
+  title: 'Ursula Le Guin, *The Dispossessed*: Story, history, and the novel'
+  type: chapter
 
 - id: leguin2002
   author:
