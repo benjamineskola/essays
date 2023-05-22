@@ -838,4 +838,26 @@ references:
   title-short: Hardy in history
   type: chapter
   URL: http://link.springer.com/10.1007/978-1-349-26279-3_3
+
+- id: wray2013
+  accessed:
+    - year: 2023
+      month: 5
+      day: 22
+  author:
+    - family: Wray
+      given: John
+  citation-key: wray2013
+  ISSN: 0031-2037
+  issue: '206'
+  issued:
+    - year: 2013
+  language: en
+  section: Interviews
+  source: www.theparisreview.org
+  title: Ursula K. Le Guin, The Art of Fiction No. 221
+  type: article-magazine
+  URL: >-
+    https://www.theparisreview.org/interviews/6253/the-art-of-fiction-no-221-ursula-k-le-guin
+  volume: Fall 2013
 ...
