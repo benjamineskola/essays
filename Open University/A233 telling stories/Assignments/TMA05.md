@@ -1,7 +1,7 @@
 ---
 title: Aspects of realism and fantasy in _Stardust_ and _The Dispossessed_
 nocite: |
-  @benatti2019, @johnson2019, @johnson2019a, @leguin2002
+  @benatti2019, @johnson2019, @johnson2019a
 ---
 
 > Richard Danson Brown writes, ‘realism does not preclude fantasy, any more than fantasy precludes realism’ [-@brown2019 11].
@@ -12,4 +12,8 @@ Neil Gaiman and Charles Vess’ _Stardust_ [-@gaiman2019] begins in a recognisab
 
 Yet _Stardust_ also deviates from realism just as soon as it begins to establish it: the second sentence of Chapter One is an ironic reference to genre convention, an acknowledgement that this is a story, rather than the more typically realist abstraction. Then, as the chapter progresses, it continues to combine fantasy and realism; as well as beginning to introduce the fantastic nature of the wall, the gateway, and the meadow beyond it, it also describes the village itself, its people, and in particular the way of life that has developed around the wall. It tries to present not merely a fantastical location, but a real place that is given no choice but to interact with a fantastical one.
 
-Ursula Le Guin’s _The Dispossessed_ [-@leguin2002] also begins with a description of a wall, once again one which appears ordinary and yet, we are immediately told, has great significance despite this. Unlike Gaiman, Le Guin does not attempt to establish the location in time and space by reference to any other (though as the story progresses there are further details that )
+Ursula Le Guin’s _The Dispossessed_ [-@leguin2002] also begins with a description of a wall, once again one which appears ordinary and yet, we are immediately told, has great significance despite this. Unlike Gaiman, Le Guin does not attempt to establish the location in time and space by reference to any other (though as the story progresses further details do provide reference points). However, to a greater extent than in _Stardust_, Le Guin provides detail of the setting that establishes it in a realist way. The descriptions start to give a sense of the place that will be explored further: both the ‘durable, grimy, and mournful’ dormitory building, and the tantalising reference to the ‘No Trespassing’ sign that, like the boundary wall, is the only one of its kind on the planet. As part of an _in medias res_ opening, it serves to draw the reader’s curiosity and give a sense of the world that is being left, as Shevek travels immediately to another, very different planet.
+
+We are also given a sense of Shevek’s home after he has left it, while travelling on the spaceship, by the things he finds unusual, and what he does and does not take for granted: for example that ‘the water value did not cut off when you released the faucet, but kept pouring until shut off’ (p. 10), or the disposability of paper and clothing (p. 12–13). We begin to realise that he has lived under conditions that do not permit waste; indeed, the very phrase ‘it costs less’ has great significance to him. These descriptions of the setting therefore allow us to learn something significant about the character.
+
+However, it is worth noting that these aspects of realism are
