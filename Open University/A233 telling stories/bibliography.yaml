@@ -704,6 +704,24 @@ references:
   title: The Dispossessed
   type: book
 
+- id: leguin2016
+  author:
+    - family: Le Guin
+      given: Ursula K.
+  call-number: PS3562.E42 A6 2016b
+  citation-key: leguin2016
+  event-place: Easthampton, MA
+  ISBN: 978-1-61873-134-0
+  issued:
+    - year: 2016
+  number-of-pages: '316'
+  publisher: Small Beer Press
+  publisher-place: Easthampton, MA
+  source: Library of Congress ISBN
+  title: 'Words are my matter: writings about life and books, 2000–2016'
+  title-short: Words are my matter
+  type: book
+
 - id: perrault2010
   author:
     - family: Perrault

@@ -1,7 +1,7 @@
 ---
 title: Aspects of realism and fantasy in _Stardust_ and _The Dispossessed_
 nocite: |
-  @benatti2019, @johnson2019, @johnson2019a
+  @benatti2019
 ---
 
 > Richard Danson Brown writes, ‘realism does not preclude fantasy, any more than fantasy precludes realism’ [-@brown2019 11].
@@ -28,4 +28,6 @@ The influence of realism extends beyond verisimilitude of setting. Both _Stardus
 
 For example, during Chapter 1 of _The Dispossessed_ we see Shevek’s state of mind progressively, as he experiences Urrasti society first-hand for the first time and begins to understand it; this is the beginning of a character development as he becomes disillusioned with Urras. In Chapter 2, a parallel development begins, as we see his childhood and the beginning of his recognition of the contradictions and hypocrisies in Anarresti society.
 
-Similarly, in _Stardust_, we can see a development in the character of Tristran over the course of the novel. Though inspired by fairy tales, Tristran is not truly a fairy tale character but something closer to a realist one; we gain an understanding of his motivation, not just his actions, and moreover how that motivation changes. In Chapter 2, when he is introduced
+Similarly, in _Stardust_, we can see a development in the character of Tristran over the course of the novel. Though inspired by fairy tales, Tristran is not truly a fairy tale character but something closer to a realist one; we gain an understanding of his motivation, not just his actions, and moreover how that motivation changes. In Chapter 2, when he is introduced, his intent is only to impress Victoria, and over the next several chapters he pursues this single-mindedly, to the point of callousness; yet in the second half of the book, and particularly by the final chapter, his motivations have changed.
+
+_Stardust_ and _The Dispossesed_, then, are not unique in integrating realist conventions into a fantastical story; much modern fantasy literature does so (and, as Le Guin argued, fantasy and science fiction ought to be _read_ as literature, not relegated to a secondary category unworthy of critique and unable to explore deeper ideas [@leguin2016 104–05; quoted in @johnson2019 245]). These realist conventions can and do coexist with a fantastical setting, whether our own world with magical occurrences introduced into it, or a wholly other world. What is necessary for realism in this sense, then, is not that they be literally true (after all, Casterbridge and Middlemarch are not real places either). Nor is it even that they be potentially true in some sense, taking place in the ‘real world’ or something like it. Rather it is that the setting and the characters are developed and explored in a realistic way.
